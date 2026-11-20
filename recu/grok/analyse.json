@@ -1,0 +1,267 @@
+{
+  "dossier": "/home/claude/villa-mageroy-maquette/recu/grok",
+  "date": "2026-11-20T15:41:16.240Z",
+  "detection": "mesures sharp seulement",
+  "planches": [
+    "planche.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "crepuscule-mobile.png",
+      "nom": "crepuscule-mobile",
+      "drapeau": null,
+      "largeur": 1074,
+      "hauteur": 1600,
+      "ratio": "2:3",
+      "ratio_valeur": 0.671,
+      "orientation": "portrait",
+      "format": "png",
+      "poids": 1780162,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 40.6,
+        "l": 77.3,
+        "h": 34.4,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        39,
+        51
+      ],
+      "cadrage_css": "39% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.92,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.63,
+          "ton": "sombre",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "gauche",
+          "score": 0.51,
+          "ton": "sombre",
+          "recouvre_sujet": 0.34
+        },
+        {
+          "cote": "bas",
+          "score": 0.42,
+          "ton": "sombre",
+          "recouvre_sujet": 0.22
+        }
+      ],
+      "qualite": {
+        "nettete": 33.5,
+        "bruit": 0.65,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1074 px de large"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "000000c0f0e8b162",
+      "drapeaux": [
+        "petite",
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "crepuscule.png",
+      "nom": "crepuscule",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 1966455,
+      "transparence": false,
+      "sujet": {
+        "x": 18.8,
+        "y": 31.8,
+        "l": 56.3,
+        "h": 45.5,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        41
+      ],
+      "cadrage_css": "49% 41%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.87,
+          "ton": "sombre",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "droite",
+          "score": 0.62,
+          "ton": "sombre",
+          "recouvre_sujet": 0.17
+        },
+        {
+          "cote": "gauche",
+          "score": 0.57,
+          "ton": "sombre",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "bas",
+          "score": 0.43,
+          "ton": "sombre",
+          "recouvre_sujet": 0.2
+        }
+      ],
+      "qualite": {
+        "nettete": 27.8,
+        "bruit": 0.68,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "4000e0d8f0a4d0e0",
+      "drapeaux": [
+        "calme haut"
+      ]
+    },
+    {
+      "fichier": "evocation-villa.png",
+      "nom": "evocation-villa",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 3087154,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 0,
+        "l": 96.9,
+        "h": 72.7,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        38,
+        13
+      ],
+      "cadrage_css": "38% 13%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.35,
+          "ton": "sombre",
+          "recouvre_sujet": 0.21
+        },
+        {
+          "cote": "droite",
+          "score": 0.06,
+          "ton": "sombre",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "gauche",
+          "score": 0.02,
+          "ton": "sombre",
+          "recouvre_sujet": 0.73
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.97
+        }
+      ],
+      "qualite": {
+        "nettete": 50.4,
+        "bruit": 1.4,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "00028048e8b2b8f0",
+      "drapeaux": []
+    },
+    {
+      "fichier": "fouille-vide.png",
+      "nom": "fouille-vide",
+      "drapeau": null,
+      "largeur": 1600,
+      "hauteur": 1074,
+      "ratio": "3:2",
+      "ratio_valeur": 1.49,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 3322007,
+      "transparence": false,
+      "sujet": {
+        "x": 3.1,
+        "y": 22.7,
+        "l": 93.8,
+        "h": 72.7,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        63
+      ],
+      "cadrage_css": "50% 63%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.25,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        },
+        {
+          "cote": "gauche",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "bas",
+          "score": 0.03,
+          "ton": "sombre",
+          "recouvre_sujet": 0.81
+        }
+      ],
+      "qualite": {
+        "nettete": 57,
+        "bruit": 1.59,
+        "compression": 1,
+        "faible": false,
+        "raisons": []
+      },
+      "lisible": null,
+      "empreinte": "e0e0a84d94d4dce4",
+      "drapeaux": []
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+ "explication": "Maquettes favorites de l'utilisateur : le niveau et le style visés, sur l'accueil ET les pages intérieures. Jamais à copier (ni leur idée, ni leur mise en page) : même harmonie, même fluidité, même soin.",
+ "activite": [
+  "tourisme",
+  "culture"
+ ],
+ "metier": "visite patrimoine histoire",
+ "besoin": [],
+ "ton": [
+  "chaleureux"
+ ],
+ "univers": [],
+ "ambiance": [],
+ "concept": [],
+ "depot": "villa-mageroy-maquette",
+ "favorites_dans_la_bibliotheque": 22,
+ "favorites": [
+  {
+   "rang": 1,
+   "maquette": "chateau-haut-piquat-maquette",
+   "client": "château viticole en Lussac Saint-Émilion : vins, boutique en ligne, visites et événements, site bilingue",
+   "metier": "château viticole, vigneron",
+   "pourquoi": "Château viticole : calcaire et argile, Fraunces, bouteilles sur blocs de pierre, coupe géologique, boutique filtrable.",
+   "proche": [
+    "même métier",
+    "ambiance chaleureux"
+   ],
+   "lumiere": "mixte",
+   "note_maquette": 86,
+   "en_ligne": "https://chateau-haut-piquat-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "chateau-haut-piquat-maquette/hero",
+     "note_section": 4,
+     "titre": "Château Haut-Piquat",
+     "capture": "medias/chateau-haut-piquat-maquette/hero-p1440.jpg",
+     "video": "medias/chateau-haut-piquat-maquette/hero-p720.mp4",
+     "fiche": "sections/chateau-haut-piquat-maquette/hero.json",
+     "en_ligne": "https://chateau-haut-piquat-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "manifeste",
+     "id": "chateau-haut-piquat-maquette/terroir",
+     "note_section": 5,
+     "titre": "Sous la vigne, le calcaireBeneath the vines, limestone",
+     "capture": "medias/chateau-haut-piquat-maquette/terroir-p1440.jpg",
+     "video": "medias/chateau-haut-piquat-maquette/terroir-p720.mp4",
+     "fiche": "sections/chateau-haut-piquat-maquette/terroir.json",
+     "en_ligne": "https://chateau-haut-piquat-maquette.vercel.app"
+    },
+    {
+     "page": "oenotourisme",
+     "role": "ouverture",
+     "id": "chateau-haut-piquat-maquette/oenotourisme-ohero",
+     "note_section": 5,
+     "titre": "Passer l’archeThrough the arch",
+     "capture": "medias/chateau-haut-piquat-maquette/oenotourisme-ohero-p1440.jpg",
+     "video": "medias/chateau-haut-piquat-maquette/oenotourisme-ohero-p720.mp4",
+     "fiche": "sections/chateau-haut-piquat-maquette/oenotourisme-ohero.json",
+     "en_ligne": "https://chateau-haut-piquat-maquette.vercel.app/oenotourisme"
+    },
+    {
+     "page": "vins",
+     "role": "produits",
+     "id": "chateau-haut-piquat-maquette/vins-cave",
+     "note_section": 5,
+     "titre": "Le tour de la caveA tour of the cellar",
+     "capture": "medias/chateau-haut-piquat-maquette/vins-cave-p1440.jpg",
+     "video": "medias/chateau-haut-piquat-maquette/vins-cave-p720.mp4",
+     "fiche": "sections/chateau-haut-piquat-maquette/vins-cave.json",
+     "en_ligne": "https://chateau-haut-piquat-maquette.vercel.app/vins"
+    }
+   ]
+  },
+  {
+   "rang": 2,
+   "maquette": "tiki-cassis-maquette",
+   "client": "balades et privatisations en bateau traditionnel dans les calanques, au départ du port de Cassis",
+   "metier": "balades en bateau",
+   "pourquoi": "Balades en bateau : bleus de la mer, Instrument Serif italique, photos du pays.",
+   "proche": [
+    "même activité",
+    "ambiance chaleureux"
+   ],
+   "lumiere": "mixte",
+   "note_maquette": 87,
+   "en_ligne": "https://tiki-cassis-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "tiki-cassis-maquette/hero",
+     "note_section": 5,
+     "titre": "Héros vidéo des calanques",
+     "capture": "medias/tiki-cassis-maquette/hero-p1440.jpg",
+     "video": "medias/tiki-cassis-maquette/hero-p720.mp4",
+     "fiche": "sections/tiki-cassis-maquette/hero.json",
+     "en_ligne": "https://tiki-cassis-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "étapes",
+     "id": "tiki-cassis-maquette/parcours",
+     "note_section": 5,
+     "titre": "Carte de navigation chronométrée",
+     "capture": "medias/tiki-cassis-maquette/parcours-p1440.jpg",
+     "video": "medias/tiki-cassis-maquette/parcours-p720.mp4",
+     "fiche": "sections/tiki-cassis-maquette/parcours.json",
+     "en_ligne": "https://tiki-cassis-maquette.vercel.app"
+    },
+    {
+     "page": "formules",
+     "role": "ouverture",
+     "id": "tiki-cassis-maquette/formules-phero",
+     "note_section": 3,
+     "titre": "Tête des formules",
+     "capture": "medias/tiki-cassis-maquette/formules-phero-p1440.jpg",
+     "video": null,
+     "fiche": "sections/tiki-cassis-maquette/formules-phero.json",
+     "en_ligne": "https://tiki-cassis-maquette.vercel.app/formules"
+    },
+    {
+     "page": "contact",
+     "role": "équipe",
+     "id": "tiki-cassis-maquette/contact-s",
+     "note_section": 3,
+     "titre": "Tête de la page contact",
+     "capture": "medias/tiki-cassis-maquette/contact-s-p1440.jpg",
+     "video": null,
+     "fiche": "sections/tiki-cassis-maquette/contact-s.json",
+     "en_ligne": "https://tiki-cassis-maquette.vercel.app/contact"
+    }
+   ]
+  },
+  {
+   "rang": 3,
+   "maquette": "laure-polin-maquette",
+   "client": "sculptrice (ardoise taillée, bronze, pneu recyclé), atelier à Bagnolet, vente d'œuvres",
+   "metier": "sculptrice",
+   "pourquoi": "Sculptrice : sombre et minimal, œuvres en grand, Cormorant Garamond.",
+   "proche": [
+    "même activité"
+   ],
+   "lumiere": "sombre",
+   "note_maquette": 90,
+   "en_ligne": "https://laure-polin-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "laure-polin-maquette/hero",
+     "note_section": 5,
+     "titre": "Œuvres recomposées en poussière d'ardoise",
+     "capture": "medias/laure-polin-maquette/hero-p1440.jpg",
+     "video": "medias/laure-polin-maquette/hero-p720.mp4",
+     "fiche": "sections/laure-polin-maquette/hero.json",
+     "en_ligne": "https://laure-polin-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "manifeste",
+     "id": "laure-polin-maquette/manifeste",
+     "note_section": 4,
+     "titre": "Manifeste au portrait collant",
+     "capture": "medias/laure-polin-maquette/manifeste-p1440.jpg",
+     "video": "medias/laure-polin-maquette/manifeste-p720.mp4",
+     "fiche": "sections/laure-polin-maquette/manifeste.json",
+     "en_ligne": "https://laure-polin-maquette.vercel.app"
+    },
+    {
+     "page": "oeuvre",
+     "role": "ouverture",
+     "id": "laure-polin-maquette/oeuvre-fiche-entree",
+     "note_section": 3,
+     "titre": "Entrée de la fiche d'œuvre",
+     "capture": "medias/laure-polin-maquette/oeuvre-fiche-entree-p1440.jpg",
+     "video": null,
+     "fiche": "sections/laure-polin-maquette/oeuvre-fiche-entree.json",
+     "en_ligne": "https://laure-polin-maquette.vercel.app/oeuvre"
+    },
+    {
+     "page": "salle",
+     "role": "galerie",
+     "id": "laure-polin-maquette/salle-salle-zone",
+     "note_section": 4,
+     "titre": "Salle horizontale à l'échelle",
+     "capture": "medias/laure-polin-maquette/salle-salle-zone-p1440.jpg",
+     "video": "medias/laure-polin-maquette/salle-salle-zone-p720.mp4",
+     "fiche": "sections/laure-polin-maquette/salle-salle-zone.json",
+     "en_ligne": "https://laure-polin-maquette.vercel.app/salle"
+    }
+   ]
+  },
+  {
+   "rang": 4,
+   "maquette": "nolanis-maquette",
+   "client": "Agence de communication visuelle à Strasbourg : print et web, espaces publicitaires, publipostage, photo et vidéo, objets publicitaires, sauvegarde en ligne, formation photo",
+   "metier": "agence de communication visuelle",
+   "pourquoi": "Agence de communication : beige, éventail de couleurs, cartes nettes, sommaire des métiers.",
+   "proche": [
+    "activité proche"
+   ],
+   "lumiere": "clair",
+   "note_maquette": 86,
+   "en_ligne": "https://nolanis-maquette.vercel.app",
+   "vues": [
+    {
+     "page": "accueil",
+     "role": "ouverture",
+     "id": "nolanis-maquette/debut",
+     "note_section": 5,
+     "titre": "Votre agence de communication visuelle à Strasbourg",
+     "capture": "medias/nolanis-maquette/debut-p1440.jpg",
+     "video": "medias/nolanis-maquette/debut-p720.mp4",
+     "fiche": "sections/nolanis-maquette/debut.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app"
+    },
+    {
+     "page": "accueil",
+     "role": "services",
+     "id": "nolanis-maquette/services",
+     "note_section": 4,
+     "titre": "La liasse des épreuves",
+     "capture": "medias/nolanis-maquette/services-p1440.jpg",
+     "video": "medias/nolanis-maquette/services-p720.mp4",
+     "fiche": "sections/nolanis-maquette/services.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app"
+    },
+    {
+     "page": "formations",
+     "role": "ouverture",
+     "id": "nolanis-maquette/formations-debut",
+     "note_section": 4,
+     "titre": "Choisir l’image juste",
+     "capture": "medias/nolanis-maquette/formations-debut-p1440.jpg",
+     "video": "medias/nolanis-maquette/formations-debut-p720.mp4",
+     "fiche": "sections/nolanis-maquette/formations-debut.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app/formations"
+    },
+    {
+     "page": "contact",
+     "role": "outil-interactif",
+     "id": "nolanis-maquette/contact-devis",
+     "note_section": 4,
+     "titre": "Votre demande, en trois étapes",
+     "capture": "medias/nolanis-maquette/contact-devis-p1440.jpg",
+     "video": "medias/nolanis-maquette/contact-devis-p720.mp4",
+     "fiche": "sections/nolanis-maquette/contact-devis.json",
+     "en_ligne": "https://nolanis-maquette.vercel.app/contact"
+    }
+   ]
+  }
+ ]
+}

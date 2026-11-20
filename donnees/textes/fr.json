@@ -1,0 +1,526 @@
+{
+  "commun": {
+    "navigation": "Navigation principale",
+    "menu": "Menu",
+    "fermer": "Fermer",
+    "langueAutre": "Autre langue",
+    "actionEntete": "Réserver une visite",
+    "actionCourte": "Réserver",
+    "appeler": "Appeler",
+    "sommaire": "Sommaire",
+    "confort": "Pratique",
+    "retourHaut": "Retour en haut",
+    "maquette": "Maquette de démonstration : formulaires et réservations sont simulés.",
+    "evitement": "Aller au contenu",
+    "mentionIa": "Illustration générée",
+    "pause": "Pause",
+    "lecture": "Lecture",
+    "introLigne": "Villa romaine de Mageroy",
+    "introNom": "Villa romaine de Mageroy",
+    "logoAlt": "Villa de Mageroy, accueil",
+    "ouvertMaintenant": "Accessible maintenant · entrée libre",
+    "siteAcces": "Site accessible toute l'année, jour et nuit",
+    "bureau": "Bureau : du lundi au vendredi, de 9 h à 17 h",
+    "mentions": "Mentions légales",
+    "confidentialite": "Politique de confidentialité",
+    "aCompleter": "à compléter",
+    "soutiens": "Avec le soutien de l'Agence wallonne du Patrimoine, de la Province de Luxembourg, de la Commune de Habay, du Fonds Maribel socioculturel, du Forem et du programme européen LEADER.",
+    "reseaux": "Suivre la villa",
+    "copyright": "© 2026 ARC-HAB, groupe d'Archéologie de Habay asbl",
+    "plan": "Plan schématique, sans échelle",
+    "donnees": "Vos informations servent seulement à répondre à votre demande.",
+    "voirPolitique": "Politique de confidentialité : à compléter.",
+    "envoyer": "Envoyer la demande",
+    "simule": "Demande simulée : rien n'a été envoyé. Sur le site final, elle partira vers l'équipe de la villa.",
+    "suspendu": "Suspendu pendant les travaux du pavillon",
+    "termine": "Terminé"
+  },
+  "pages": {
+    "accueil": {
+      "titre": "Villa gallo-romaine de Mageroy, à Habay-la-Vieille : un site archéologique en accès libre",
+      "description": "Les vestiges d'un domaine agricole gallo-romain du Ier au IVe siècle, fouillé depuis 1984 par l'asbl ARC-HAB. Entrée libre toute l'année, visites guidées et ateliers scolaires.",
+      "nav": "Accueil",
+      "partageAlt": "La villa de Mageroy : vestiges et coquelicots, entrée libre toute l'année",
+      "accroche": "Une villa romaine à ciel ouvert"
+    },
+    "visiter": {
+      "titre": "Visiter la villa de Mageroy : entrée libre, visites guidées, accès",
+      "description": "Visite libre et gratuite 24 h/24, visite guidée d'1 h 30 sur réservation, visite combinée avec la Brasserie de Rulles, accès en voiture, en train et en bus.",
+      "nav": "Visiter",
+      "partageAlt": "Les vestiges de la villa et le pavillon d'accueil sous un ciel bleu",
+      "accroche": "Entrée libre, jour et nuit"
+    },
+    "ecoles": {
+      "titre": "Écoles : visites et ateliers gallo-romains à la villa de Mageroy",
+      "description": "Visite guidée du site à 3 € par élève et huit ateliers d'1 h 15, de la 3e maternelle au secondaire, au site ou en classe.",
+      "nav": "Écoles",
+      "partageAlt": "Des enfants déguisés en légionnaires sur le site",
+      "accroche": "L'Antiquité, les mains dans la terre"
+    },
+    "le-site": {
+      "titre": "Le site archéologique de Mageroy : quatre siècles d'histoire",
+      "description": "Du Ier au IVe siècle, un domaine agricole de près de 3 hectares : chronologie, plan du domaine, découvertes et plus de quarante ans de fouilles.",
+      "nav": "Le site",
+      "partageAlt": "Des fouilleurs dégagent des vestiges à Mageroy",
+      "accroche": "Quatre siècles sous nos pieds"
+    },
+    "agenda": {
+      "titre": "Agenda de la villa de Mageroy : fêtes, visites et rendez-vous",
+      "description": "Les prochains rendez-vous à la villa gallo-romaine de Mageroy et les événements de l'année.",
+      "nav": "Agenda",
+      "partageAlt": "Reconstitueurs en tunique autour d'une table de mets romains",
+      "accroche": "Les rendez-vous de la villa"
+    },
+    "contact": {
+      "titre": "Contact et adhésion : villa de Mageroy, asbl ARC-HAB",
+      "description": "Téléphone, e-mail, adresses du site et du bureau, demande de visite, adhésion à l'asbl et bénévolat.",
+      "nav": "Contact",
+      "partageAlt": "Le pavillon d'accueil vitré au bord de l'étang",
+      "accroche": "063 75 85 44"
+    },
+    "404": {
+      "titre": "Page introuvable : villa de Mageroy",
+      "description": "Cette page n'existe pas.",
+      "nav": "Page introuvable",
+      "partageAlt": "Un carré de fouille vide",
+      "accroche": "Rien dans ce carré"
+    }
+  },
+  "accueil": {
+    "hero": {
+      "surtitre": "Habay-la-Vieille · province de Luxembourg",
+      "titre1": "Une villa",
+      "titre2": "romaine",
+      "titre3": "à ciel ouvert",
+      "texte": "Du Ier au IVe siècle, un grand domaine agricole a vécu ici, au bord de la Rulles. Ses vestiges se visitent librement, toute l'année, de jour comme de nuit.",
+      "action": "Préparer ma visite",
+      "prochain": "Prochain rendez-vous",
+      "alt": "Les murs arasés de la villa de Mageroy au milieu des herbes, des coquelicots au premier plan et la forêt au fond"
+    },
+    "faire": {
+      "surtitre": "Sur place",
+      "titre": "Que faire à Mageroy ?",
+      "libre": {
+        "titre": "Visite libre",
+        "prix": "Gratuit",
+        "texte": "Tous les jours, 24 h/24 : les vestiges, le jardin et l'étang, à votre rythme."
+      },
+      "guidee": {
+        "titre": "Visite guidée",
+        "prix": "40 € jusqu'à 10 personnes",
+        "texte": "1 h 30 avec un guide, parfois fouilleur lui-même. Sur réservation."
+      },
+      "ecoles": {
+        "titre": "Écoles",
+        "prix": "Dès 3 € par élève",
+        "texte": "Visite du site et ateliers pratiques, au site ou en classe."
+      },
+      "evenements": {
+        "titre": "Événements",
+        "prix": "Toute l'année",
+        "texte": "Fêtes, visites à thème, journées du Patrimoine et de l'Archéologie."
+      },
+      "voir": "Voir"
+    },
+    "siecles": {
+      "surtitre": "Chronologie",
+      "titre": "Quatre siècles de vie, quarante ans de fouilles",
+      "texte": "Faites défiler les siècles : de la première maison de pierre au feu, puis aux ruines fortifiées.",
+      "lien": "Toute l'histoire du site",
+      "evocation": "Évocation d'une villa gallo-romaine à son apogée, au IIe siècle (illustration générée, pas une reconstitution scientifique de Mageroy)",
+      "region": "Les siècles de la villa"
+    },
+    "domaine": {
+      "mot1": "Près de",
+      "mot2": "3 hectares",
+      "titre": "Le domaine vu du ciel",
+      "texte": "Un enclos d'environ 200 mètres sur 145 : d'un côté la pars urbana, la maison du maître et sa cour, de l'autre la pars rustica, la cour agricole avec quatre bâtiments annexes, un grand bassin et trois fours à chaux.",
+      "alt": "Vue aérienne zénithale du domaine de Mageroy : l'enclos, les murs de la villa, l'étang et les champs autour"
+    },
+    "terre": {
+      "surtitre": "Découvertes",
+      "titre": "Ce que la terre a gardé",
+      "tresorTitre": "105 antoniniens d'argent",
+      "tresor": "Un trésor caché dans la cave vers la fin du IIIe siècle, quand des raids germaniques menacent la région. La villa brûle peu après 262.",
+      "boisTitre": "Du bois qui a traversé les siècles",
+      "bois": "L'argile et l'humidité constante ont conservé ce qui disparaît d'habitude :",
+      "bois1": "pelles et tuyaux en chêne",
+      "bois2": "décors de meubles",
+      "bois3": "une tablette à écrire",
+      "bois4": "une sandale en paille",
+      "compteur": "pièces",
+      "lien": "Les découvertes en détail"
+    },
+    "agenda": {
+      "surtitre": "Agenda",
+      "titre": "Le prochain rendez-vous",
+      "reserver": "Réserver ma place",
+      "tout": "Tout l'agenda",
+      "annee": "Cette année à la villa"
+    },
+    "ecoles": {
+      "surtitre": "Écoles",
+      "titre": "Une sortie en Gaule romaine",
+      "texte": "Une visite guidée du site et huit ateliers d'1 h 15, de la 3e maternelle au secondaire : céramique, mosaïque, cuisine, fouille, jeux et sport. Pendant les travaux du pavillon, la plupart des ateliers se donnent en classe.",
+      "prix1": "visite guidée, par élève",
+      "prix2": "atelier, par élève",
+      "prix3": "accompagnants",
+      "gratuit": "Gratuit",
+      "action": "Voir les ateliers"
+    },
+    "vivre": {
+      "surtitre": "L'association",
+      "titre": "Ceux qui font vivre la villa",
+      "texte": "Le site est géré par l'asbl ARC-HAB, avec une équipe de cinq personnes, un conseil d'administration de sept membres et de nombreux bénévoles.",
+      "treviri": {
+        "titre": "Les Treviri",
+        "texte": "Depuis 2013, des bénévoles refont les gestes des artisans des IIe et IIIe siècles : poterie, bronze, textile, cuisine."
+      },
+      "olitores": {
+        "titre": "Les Olitores",
+        "texte": "Les jardiniers du jardin gallo-romain, créé en 2013 : plantes pour la cuisine, la pharmacie et la teinture."
+      },
+      "benevoles": {
+        "titre": "Bénévoles et membres",
+        "texte": "Aider aux visites, aux fêtes et aux événements. Être membre, c'est 15 € par an : conférences gratuites, revue annuelle, bulletin trimestriel."
+      },
+      "adherer": "Devenir membre",
+      "aider": "Devenir bénévole"
+    },
+    "venir": {
+      "surtitre": "Venir",
+      "titre": "Rue de Mageroy 2, Habay-la-Vieille",
+      "voiture": "En voiture : E411, sortie 29 (Habay-la-Neuve), direction Étalle, puis la signalisation. Parking gratuit.",
+      "train": "En train : jusqu'à Marbehan, puis le bus TEC 58, arrêt « Rue de Nantimont ».",
+      "gps": "GPS : 49.715932, 5.615396",
+      "lien": "Tous les accès"
+    },
+    "fin": {
+      "titre": "Venez marcher dans le domaine",
+      "texte": "Entrée libre toute l'année. Visite guidée sur réservation, du lundi au vendredi, et le week-end en prévenant une semaine avant.",
+      "reserver": "Réserver une visite guidée",
+      "alt": "Les murs bas d'un domaine antique à la tombée du jour",
+      "adresse": "Rue de Mageroy 2, à Habay-la-Vieille : E411 sortie 29, parking gratuit."
+    }
+  },
+  "visiter": {
+    "tete": {
+      "surtitre": "Visiter",
+      "titre": "Entrée libre, jour et nuit",
+      "prix": "0 €",
+      "prixLegende": "la visite libre, tous les jours, 24 h/24, toute l'année",
+      "texte": "Les vestiges de la villa, le jardin gallo-romain et l'étang se découvrent librement. Pour tout comprendre, réservez une visite guidée.",
+      "action": "Réserver une visite guidée",
+      "alt": "Les fondations de la villa au premier plan, deux cyprès et le pavillon d'accueil au fond sous un ciel bleu"
+    },
+    "formules": {
+      "surtitre": "Formules et tarifs",
+      "titre": "Quatre façons de découvrir la villa",
+      "libre": {
+        "titre": "Visite libre",
+        "prix": "Gratuit",
+        "infos": "Tous les jours · 24 h/24 · toute l'année",
+        "texte": "Sans réservation, à votre rythme, seul, en famille ou entre amis."
+      },
+      "guidee": {
+        "titre": "Visite guidée",
+        "prix": "40 €",
+        "prixDetail": "jusqu'à 10 personnes",
+        "infos": "1 h 30 · adultes et familles · 20 personnes au plus",
+        "texte": "L'histoire du domaine et de ses fouilles, des vestiges aux objets exposés et aux maquettes. Au-delà de 10 personnes : 4 € par personne en plus, dès 6 ans. Gratuit pour les moins de 6 ans."
+      },
+      "combinee": {
+        "titre": "Archéologie et gastronomie",
+        "prix": "14 €",
+        "prixDetail": "par personne",
+        "infos": "Environ 3 h, plus le trajet · groupes de 10 à 50 adultes",
+        "texte": "La visite guidée de la villa (4 €), puis la visite de la Brasserie artisanale de Rulles et sa dégustation (10 €). Deux réservations séparées. Non accessible aux personnes à mobilité réduite."
+      },
+      "conferences": {
+        "titre": "Conférences",
+        "prix": "2 €",
+        "prixDetail": "gratuites pour les membres",
+        "infos": "2 h · en soirée · ouvertes à tous",
+        "texte": "Histoire, archéologie, environnement, par des spécialistes."
+      },
+      "brasserie": "Brasserie : 0496 69 48 88, visite@larulles.be",
+      "reserver": "Réserver"
+    },
+    "calcul": {
+      "surtitre": "Calculer",
+      "titre": "Combien coûte votre visite guidée ?",
+      "texte": "Un forfait de 40 € jusqu'à 10 personnes, puis 4 € par personne en plus. Les moins de 6 ans ne comptent pas.",
+      "personnes": "Personnes de 6 ans et plus",
+      "petits": "Enfants de moins de 6 ans",
+      "total": "Total",
+      "moins": "Une personne de moins",
+      "plus": "Une personne de plus",
+      "petitsMoins": "Un enfant de moins",
+      "petitsPlus": "Un enfant de plus",
+      "max": "20 personnes au plus par visite guidée.",
+      "detailForfait": "forfait jusqu'à 10 personnes",
+      "detailSup": "personnes en plus × 4 €",
+      "action": "Réserver pour ce groupe"
+    },
+    "reserver": {
+      "surtitre": "Réserver",
+      "titre": "Demander une visite guidée",
+      "texte": "Les visites ont lieu du lundi au vendredi, de 9 h à 17 h 30. Le week-end, prévenez au moins une semaine avant. Réservation obligatoire, par ce formulaire, par téléphone ou par e-mail.",
+      "date": "Date souhaitée",
+      "personnes": "Nombre de personnes",
+      "nom": "Nom et prénom",
+      "email": "E-mail",
+      "telephone": "Téléphone",
+      "message": "Message (facultatif)",
+      "ou": "Ou directement :"
+    },
+    "acces": {
+      "surtitre": "Accès",
+      "titre": "Venir à la villa",
+      "adresse": "Rue de Mageroy 2, 6723 Habay-la-Vieille",
+      "voitureTitre": "En voiture",
+      "voiture": "E411, sortie 29 (Habay-la-Neuve), direction Étalle, puis suivre la signalisation. Parking gratuit. GPS : 49.715932, 5.615396.",
+      "trainTitre": "En train",
+      "train": "Train IC Bruxelles-Luxembourg jusqu'à Marbehan, puis bus TEC 58 jusqu'à l'arrêt « Rue de Nantimont ». Ou train L Libramont-Arlon jusqu'à la gare de Habay, puis environ 40 minutes à pied.",
+      "busTitre": "En bus",
+      "bus": "TEC 58 (Habay-Marbehan), arrêt « Rue de Nantimont ». Depuis Arlon : TEC 25 jusqu'à la place Nothomb, puis le 58. Depuis Virton : TEC 33 jusqu'à Marbehan gare, puis le 58."
+    },
+    "autour": {
+      "surtitre": "Autour de la villa",
+      "titre": "Prolonger la balade",
+      "gallor": {
+        "titre": "Circuits vélo Gallor",
+        "texte": "Boucle 5 Étalle-Mageroy et boucle 6 Mageroy-Sampont-Étalle, sur d'anciennes chaussées romaines."
+      },
+      "noeuds": {
+        "titre": "Balade « Histoire et architecture »",
+        "texte": "En points-nœuds, de la gare de Marbehan à la forêt d'Anlier, retour par Habay avec vue sur le site."
+      },
+      "parc": {
+        "titre": "Parc naturel Haute-Sûre Forêt d'Anlier",
+        "texte": "Le site est à la limite de l'Ardenne et de la Lorraine, au bord de la Rulles."
+      }
+    },
+    "faq": {
+      "surtitre": "Questions pratiques",
+      "titre": "Avant de venir"
+    }
+  },
+  "ecoles": {
+    "tete": {
+      "surtitre": "Écoles",
+      "titre": "L'Antiquité, les mains dans la terre",
+      "texte": "Visite guidée du site et ateliers pratiques, de la 3e maternelle à la 6e secondaire. Réservation obligatoire, du lundi au vendredi.",
+      "action": "Demander une réservation",
+      "info": "Visite : 3 € par élève · accompagnants gratuits",
+      "alt": "Des enfants déguisés en légionnaires derrière leurs boucliers de carton peints, devant le pavillon d'accueil",
+      "titre1": "L'Antiquité,",
+      "titre2": "les mains dans la terre"
+    },
+    "travaux": {
+      "titre": "Pendant les travaux du pavillon",
+      "texte": "Les ateliers en intérieur sont suspendus. La visite guidée du site continue, et six ateliers se donnent dans votre classe : l'animateur se déplace jusqu'à votre école."
+    },
+    "visite": {
+      "surtitre": "Au site",
+      "titre": "La visite guidée",
+      "texte": "1 h 30 sur le site avec un guide, de la 1re primaire à la 6e secondaire : la vie d'un domaine agricole gallo-romain et le travail des archéologues.",
+      "prix": "3 €",
+      "prixDetail": "par élève, accompagnants gratuits"
+    },
+    "ateliers": {
+      "surtitre": "Ateliers",
+      "titre": "Huit ateliers d'1 h 15",
+      "filtres": "Filtrer par niveau",
+      "tous": "Tous",
+      "maternelle": "Maternelle",
+      "primaire": "Primaire",
+      "secondaire": "Secondaire",
+      "classe": "En classe",
+      "enClasse": "Aussi en classe",
+      "auSite": "Au site seulement",
+      "campagne": "Pendant la campagne de fouille",
+      "parEleve": "par élève",
+      "vide": "Aucun atelier pour ce niveau.",
+      "demander": "Demander cet atelier"
+    },
+    "dossier": {
+      "surtitre": "Préparer la sortie",
+      "titre": "Le dossier pédagogique « Mageroy »",
+      "texte": "48 pages pour la 4e à la 6e primaire et la 1re secondaire : la conquête romaine, la civilisation gallo-romaine, le métier d'archéologue et la vie quotidienne. À utiliser seul ou pendant la visite.",
+      "action": "Demander le dossier",
+      "alt": "Le dossier pédagogique « Mageroy » et ses fiches"
+    },
+    "reserver": {
+      "surtitre": "Réserver",
+      "titre": "Demander une réservation",
+      "texte": "Réservation obligatoire, du lundi au vendredi de 9 h à 17 h 30. Vous pouvez aussi appeler le 063 75 85 44.",
+      "ecole": "École",
+      "niveau": "Niveau",
+      "eleves": "Nombre d'élèves",
+      "formule": "Formule",
+      "visiteSeule": "Visite guidée du site (3 €)",
+      "lieu": "Où ?",
+      "auSite": "Au site",
+      "enClasse": "Dans notre classe",
+      "date": "Période souhaitée",
+      "nom": "Nom de l'enseignant",
+      "email": "E-mail",
+      "telephone": "Téléphone",
+      "estimation": "Estimation",
+      "estimationDetail": "hors déplacement et dégustation, accompagnants gratuits",
+      "choisir": "Choisir"
+    }
+  },
+  "lesite": {
+    "tete": {
+      "surtitre": "Archéologie",
+      "titre": "Quatre siècles sous nos pieds",
+      "texte": "Un domaine agricole occupé du Ier au IVe siècle, sur près de 3 hectares, entre Ardenne et Gaume. L'asbl ARC-HAB le fouille, l'étudie et le présente depuis 1984.",
+      "action": "Parcourir les siècles",
+      "info": "Fouillé depuis 1984 · près de 3 ha",
+      "grille": "Photos de fouille de la villa"
+    },
+    "lieu": {
+      "surtitre": "Le lieu",
+      "titre": "Une villa dans un creux humide",
+      "texte": "Le domaine s'étendait sur les deux rives de la Rulles, qui sépare la Gaume de l'Ardenne. Les bâtiments ont été construits sur la rive sud, au flanc d'une cuesta gaumaise, près de plusieurs sources. Pour bâtir sur ce sol marécageux, il a fallu apporter beaucoup de sable et creuser des fondations profondes. La chaussée romaine de Reims à Trèves passait non loin.",
+      "chiffre": "3,80 m",
+      "chiffreLegende": "la hauteur de certaines fondations"
+    },
+    "siecles": {
+      "surtitre": "Chronologie",
+      "titre": "Du Ier au XVIIe siècle"
+    },
+    "domaine": {
+      "surtitre": "Le domaine",
+      "titre": "Deux cours dans un grand enclos",
+      "texte": "Le mur d'enclos mesure environ 200 mètres sur 145, soit près de 3 hectares.",
+      "urbanaTitre": "Pars urbana",
+      "urbana": "La maison du maître : le corps de logis, ses bains et la cour résidentielle.",
+      "rusticaTitre": "Pars rustica",
+      "rustica": "La cour agricole : quatre bâtiments annexes, un grand bassin et trois fours à chaux.",
+      "longueur": "200 m",
+      "largeur": "145 m",
+      "schema": "Schéma de l'enclos, sans l'emplacement des bâtiments",
+      "alt": "Vue aérienne du domaine de Mageroy entouré de champs"
+    },
+    "decouvertes": {
+      "surtitre": "Découvertes",
+      "titre": "Ce que la terre a gardé",
+      "tresorTitre": "Le trésor de la cave",
+      "tresor": "105 antoniniens d'argent, cachés à la fin du IIIe siècle, quand des raids germaniques menacent la région.",
+      "boisTitre": "Le bois conservé",
+      "bois": "Grâce à l'argile et à l'humidité, des objets en bois et en fibres ont traversé les siècles : pelles et tuyaux en chêne, décors de meubles, une tablette à écrire, une sandale en paille.",
+      "fortTitre": "Les ruines fortifiées",
+      "fort": "Après l'incendie, des latrines, une tour-silo et deux séchoirs à blé montrent qu'un groupe organisé a réoccupé les lieux."
+    },
+    "recherche": {
+      "surtitre": "Recherche",
+      "titre": "Plus de quarante ans de fouilles",
+      "texte": "Prospections, fouilles programmées, études après la fouille et publications : chaque été, en général de juillet à septembre, une campagne de fouille ouvre de nouveaux carrés. Des étudiants en archéologie et en restauration y participent, en stage ou en bénévoles.",
+      "chantier": "Étudiant en archéologie ? Le chantier est gratuit ; les repas et le logement restent à votre charge.",
+      "candidater": "Proposer sa participation",
+      "revueTitre": "La revue ARC-HAB",
+      "revue": "Les numéros 40 à 49 (2010 à 2019) se commandent auprès de l'asbl, de 5 à 10 €. Les numéros 46 à 49 sont aussi en vente dans des commerces de la région ; les plus anciens sont disponibles sur demande.",
+      "commander": "Commander une revue"
+    }
+  },
+  "agenda": {
+    "tete": {
+      "surtitre": "Agenda",
+      "titre": "Les rendez-vous de la villa",
+      "prochain": "Prochain rendez-vous",
+      "aucun": "Les prochains rendez-vous seront annoncés ici.",
+      "action": "Réserver ma place",
+      "alt": "Des reconstitueurs en tunique devant une table de mets romains lors d'une fête à Mageroy",
+      "titre1": "Les rendez-vous",
+      "titre2": "de la villa"
+    },
+    "liste": {
+      "titre": "Toutes les dates",
+      "vide": "Aucune date de ce type pour le moment.",
+      "region": "Liste des dates"
+    },
+    "lettre": {
+      "surtitre": "Rester informé",
+      "titre": "Recevoir le programme",
+      "texte": "La lettre d'information annonce les fêtes, les visites à thème et les journées portes ouvertes.",
+      "email": "Votre e-mail",
+      "action": "M'inscrire"
+    }
+  },
+  "contact": {
+    "tete": {
+      "surtitre": "Contact",
+      "titre": "Une question, une visite, une classe ?",
+      "texte": "L'équipe de l'asbl ARC-HAB répond par téléphone au bureau, ou par e-mail.",
+      "action": "Écrire à l'équipe",
+      "alt": "Le pavillon d'accueil vitré se reflète dans l'étang du site"
+    },
+    "statut": {
+      "ouvert": "Bureau ouvert maintenant, jusqu'à 17 h",
+      "ferme": "Joignable {quand} dès 9 h",
+      "demain": "demain",
+      "lundi": "lundi"
+    },
+    "formulaire": {
+      "surtitre": "Écrire",
+      "titre": "Votre demande",
+      "sujet": "Sujet",
+      "sujets": {
+        "visite": "Visite guidée",
+        "ecole": "Visite ou atelier scolaire",
+        "evenement": "Réservation pour un événement",
+        "adhesion": "Devenir membre",
+        "benevolat": "Devenir bénévole",
+        "chantier": "Participer à la fouille",
+        "revue": "Commander une revue",
+        "autre": "Autre question"
+      },
+      "nom": "Nom et prénom",
+      "email": "E-mail",
+      "telephone": "Téléphone (facultatif)",
+      "message": "Message"
+    },
+    "adresses": {
+      "surtitre": "Adresses",
+      "titre": "Trois adresses, un seul site",
+      "site": {
+        "titre": "Le site archéologique",
+        "texte": "Rue de Mageroy 2, 6723 Habay-la-Vieille",
+        "detail": "Accessible toute l'année, jour et nuit"
+      },
+      "bureau": {
+        "titre": "Le bureau de l'asbl",
+        "texte": "Rue de la Rochette 12, 6723 Habay-la-Vieille",
+        "detail": "Du lundi au vendredi, de 9 h à 17 h"
+      },
+      "siege": {
+        "titre": "Le siège social",
+        "texte": "Rue d'Hoffschmidt 13, 6720 Habay-la-Neuve",
+        "detail": "Adresse officielle d'ARC-HAB asbl"
+      }
+    },
+    "soutenir": {
+      "surtitre": "Soutenir",
+      "titre": "Devenir membre d'ARC-HAB",
+      "prix": "15 €",
+      "prixDetail": "par an",
+      "avantage1": "Entrée gratuite aux conférences",
+      "avantage2": "La revue annuelle d'ARC-HAB",
+      "avantage3": "Le bulletin de liaison, chaque trimestre",
+      "paiement": "Paiement au bureau en espèces, ou par virement : IBAN BE97 3670 3909 0649, BIC BBRU BEBB, avec en communication « Cotisation », l'année, puis vos nom et prénom.",
+      "benevolatTitre": "Bénévole",
+      "benevolat": "Rejoindre les artisans Treviri, les jardiniers Olitores, ou aider aux visites et aux fêtes.",
+      "adherer": "Je deviens membre",
+      "aider": "Je deviens bénévole"
+    }
+  },
+  "introuvable": {
+    "titre": "Rien dans ce carré de fouille",
+    "texte": "Cette page n'existe pas, ou elle a changé de place. Les archéologues connaissent ça : on passe au carré suivant.",
+    "retour": "Revenir à l'accueil",
+    "alt": "Un carré de fouille vide, une truelle posée au bord"
+  }
+}

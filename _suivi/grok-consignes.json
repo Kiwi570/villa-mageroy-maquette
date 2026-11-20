@@ -1,0 +1,60 @@
+{
+  "client": "Villa de Mageroy",
+  "activite": "tourisme",
+  "direction": "Pierre et ambre",
+  "date": "2026-11-20T15:27:36.738Z",
+  "images": [
+    {
+      "nom": "evocation-villa",
+      "fichier": "evocation-villa.png",
+      "page": "Accueil et Le site",
+      "emplacement": "frise des siècles, IIe siècle",
+      "role": "galerie",
+      "format": "3:2",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "scene-metier",
+      "pieges": [],
+      "consigne": "Evocation of a modest 2nd-century AD villa rustica in northern Gaul, a rural farming estate, nothing like a palace or a town, seen from a low hill in warm late afternoon light: a long single-storey stone main house with red clay tile roofs and a colonnaded gallery facing a small walled courtyard, a few barns, stables and farm sheds around a large walled farmyard with a big rectangular water basin, a small stream lined with willows, meadows, a vegetable garden, dark conifer forest on the gentle hills behind, a thin wisp of smoke from one roof, tiny distant figures only, too small to show any face. Landscape composition, aspect ratio 3:2. Cinematic documentary travel photograph, full-frame camera, 35mm lens, calm, warm and luminous mood, palette of warm limestone beige, soft meadow green, charcoal shadows and small touches of amber, soft natural light with gentle contrast, tactile weathered grey sandstone and limestone, moss, clay soil and old oak, set in a quiet rural valley at the edge of a wooded upland in north-western Europe, gentle hills, meadows and dark conifer forest on a calm day in late spring, soft natural contrast, subtle fine film grain, calm minimal composition with generous negative space, photorealistic, high detail. No tourists' faces, no boat names, no vehicle, no road sign, no painted text on the road, no famous landmark, no postcard cliché, no place presented as the client's real site. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "appel-crepuscule",
+      "fichier": "crepuscule.png",
+      "page": "Toutes les pages",
+      "emplacement": "appel final, fond (ordinateur)",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "Low remains of ancient stone wall foundations of a farm estate from antiquity in a grassy meadow at blue hour, the walls only knee-high, a deep blue sky with a last thin amber glow above dark wooded hills on the horizon, a few young trees as silhouettes, calm and quiet, the upper half is plain dark sky kept simple for a large title, no buildings with roofs, no lights, no lanterns, no people. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Cinematic documentary travel photograph, full-frame camera, 35mm lens, calm, warm and luminous mood, palette of warm limestone beige, soft meadow green, charcoal shadows and small touches of amber, soft natural light with gentle contrast, tactile weathered grey sandstone and limestone, moss, clay soil and old oak, set in a quiet rural valley at the edge of a wooded upland in north-western Europe, gentle hills, meadows and dark conifer forest on a calm day in late spring, soft natural contrast, subtle fine film grain, calm minimal composition with generous negative space, photorealistic, high detail. No tourists' faces, no boat names, no vehicle, no road sign, no painted text on the road, no famous landmark, no postcard cliché, no place presented as the client's real site. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "appel-crepuscule",
+      "fichier": "crepuscule-mobile.png",
+      "page": "Toutes les pages",
+      "emplacement": "appel final, fond (téléphone)",
+      "role": "section-fond",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "Low remains of ancient stone wall foundations of a farm estate from antiquity in a grassy meadow at blue hour, the walls only knee-high, a deep blue sky with a last thin amber glow above dark wooded hills on the horizon, a few young trees as silhouettes, calm and quiet, the upper half is plain dark sky kept simple for a large title, no buildings with roofs, no lights, no lanterns, no people. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Cinematic documentary travel photograph, full-frame camera, 35mm lens, calm, warm and luminous mood, palette of warm limestone beige, soft meadow green, charcoal shadows and small touches of amber, soft natural light with gentle contrast, tactile weathered grey sandstone and limestone, moss, clay soil and old oak, set in a quiet rural valley at the edge of a wooded upland in north-western Europe, gentle hills, meadows and dark conifer forest on a calm day in late spring, soft natural contrast, subtle fine film grain, calm minimal composition with generous negative space, photorealistic, high detail. No tourists' faces, no boat names, no vehicle, no road sign, no painted text on the road, no famous landmark, no postcard cliché, no place presented as the client's real site. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "page-404",
+      "fichier": "fouille-vide.png",
+      "page": "404",
+      "emplacement": "page introuvable, en tête",
+      "role": "404",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "404",
+      "pieges": [],
+      "consigne": "Top view of a small empty archaeological test pit, a neat square of bare brown clay soil framed by taut white strings tied to wooden pegs, a pointed mason's trowel and a soft brush lying on the edge of the pit, nothing found, a few pebbles, soft overcast light, gentle humour, no people. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Cinematic documentary travel photograph, full-frame camera, 35mm lens, calm, warm and luminous mood, palette of warm limestone beige, soft meadow green, charcoal shadows and small touches of amber, soft natural light with gentle contrast, tactile weathered grey sandstone and limestone, moss, clay soil and old oak, set in a quiet rural valley at the edge of a wooded upland in north-western Europe, gentle hills, meadows and dark conifer forest on a calm day in late spring, soft natural contrast, subtle fine film grain, calm minimal composition with generous negative space, photorealistic, high detail. No tourists' faces, no boat names, no vehicle, no road sign, no painted text on the road, no famous landmark, no postcard cliché, no place presented as the client's real site. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    }
+  ]
+}

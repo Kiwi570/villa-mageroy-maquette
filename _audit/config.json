@@ -1,0 +1,12 @@
+{
+  "siteActuel": "villamageroy.com",
+  "pagesTypes": ["/", "/visiter", "/ecoles", "/le-site", "/agenda", "/contact"],
+  "effets": ["carroyage", "frise", "tresor", "bandeau", "prix-geant", "chrono"],
+  "grille": {
+    "dispenses": {
+      "manipuler": "v11 : objet à manipuler non obligatoire ; le calculateur de visite et les filtres d'ateliers servent le visiteur",
+      "fil": "v11 : pas de fil imposé ; le carroyage (photos, voile, surtitres) relie le site",
+      "typo": "v11 : conseil seulement"
+    }
+  }
+}

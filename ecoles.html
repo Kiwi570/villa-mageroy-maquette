@@ -1,0 +1,369 @@
+<!doctype html>
+<html lang="fr" data-v="1">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Écoles : visites et ateliers gallo-romains à la villa de Mageroy</title>
+<meta name="description" content="Visite guidée du site à 3 € par élève et huit ateliers d&#39;1 h 15, de la 3e maternelle au secondaire, au site ou en classe.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://villa-mageroy-maquette.vercel.app/ecoles">
+<style>:root{--fond:#F2ECE2;--texte:#1D1A16;--voile-fond:#1D1A16;--ouverture-fond:#1D1A16;--menu-fond:#F2ECE2}:root { --entete-h: 72px; --barres-h: 0px; } html { background: var(--fond); color: var(--texte); scrollbar-gutter: stable; } body { margin: 0; background: var(--fond); } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime] { opacity: 0; } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime].vu { opacity: 1; } [data-voile] { position: fixed; inset: 0; z-index: 900; background: var(--voile-fond); transform: translateY(100%); visibility: hidden; pointer-events: none; } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) [data-voile] { transform: none; visibility: visible; } html.secours [data-voile] { visibility: hidden !important; } .ouverture-panneau { position: fixed; inset: 0; z-index: 850; display: none; place-content: center; justify-items: center; background: var(--ouverture-fond, var(--voile-fond)); color: var(--fond); text-align: center; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) .ouverture-panneau { display: grid; } html.defilement-bloque, html.defilement-bloque body, html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie), html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) body, html[data-arrivee="voile"]:not(.voile-leve):not(.secours), html[data-arrivee="voile"]:not(.voile-leve):not(.secours) body { overflow: hidden; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) { background-color: var(--ouverture-fond, var(--voile-fond)); } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) { background-color: var(--voile-fond); }</style>
+<script>(function () {
+var d = document.documentElement, ss = null, ls = null;
+try { ss = window.sessionStorage; ls = window.localStorage; } catch (e) {}
+d.classList.add('js');
+var nav = performance.getEntriesByType ? performance.getEntriesByType('navigation')[0] : null;
+var type = nav ? nav.type : 'navigate';
+var depart = null;
+try { depart = JSON.parse(ss.getItem('socle:depart') || 'null'); ss.removeItem('socle:depart'); } catch (e) {}
+if (depart && !(Date.now() - depart.t < 15000)) depart = null;
+var mode = type === 'back_forward' ? 'retour' : type === 'reload' ? 'intro' : depart ? 'voile' : 'intro';
+d.setAttribute('data-arrivee', mode);
+if (mode === 'voile' && depart.couleur) d.style.setProperty('--voile-fond', depart.couleur);
+if (type === 'reload' && 'scrollRestoration' in history) {
+history.scrollRestoration = 'manual';
+}
+try {
+var choisie = ls && ls.getItem('socle:langue');
+var langue = (d.lang || '').slice(0, 2);
+if (choisie && choisie !== langue && type === 'navigate' && !depart) {
+var alt = document.querySelector('link[rel="alternate"][hreflang="' + choisie + '"]');
+if (alt) location.replace(new URL(alt.href).pathname + location.search + location.hash);
+}
+} catch (e) {}
+setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('secours'); }, 2000);
+})();</script>
+<link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/socle.css?v=1">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<link rel="modulepreload" href="/assets/js/site.js?v=1">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<script src="/assets/vendor/gsap.min.js" defer></script>
+<script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/assets/vendor/SplitText.min.js" defer></script>
+<script type="module" src="/assets/js/site.js?v=1"></script>
+<meta name="theme-color" content="#F2ECE2">
+<link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Villa de Mageroy">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Écoles : visites et ateliers gallo-romains à la villa de Mageroy">
+<meta property="og:description" content="Visite guidée du site à 3 € par élève et huit ateliers d&#39;1 h 15, de la 3e maternelle au secondaire, au site ou en classe.">
+<meta property="og:url" content="https://villa-mageroy-maquette.vercel.app/ecoles">
+<meta property="og:image" content="https://villa-mageroy-maquette.vercel.app/assets/partage/ecoles-fr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Des enfants déguisés en légionnaires sur le site">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"TouristAttraction","name":"Villa gallo-romaine de Mageroy","description":"Site archéologique d'un domaine agricole gallo-romain occupé du Ier au IVe siècle, fouillé par l'asbl ARC-HAB. Accès libre toute l'année.","isAccessibleForFree":true,"publicAccess":true,"openingHours":"Mo-Su 00:00-23:59","address":{"@type":"PostalAddress","streetAddress":"Rue de Mageroy 2","postalCode":"6723","addressLocality":"Habay-la-Vieille","addressCountry":"BE"},"geo":{"@type":"GeoCoordinates","latitude":49.715932,"longitude":5.615396},"telephone":"+32 63 75 85 44","email":"villa.mageroy@gmail.com","sameAs":["https://www.facebook.com/villagalloromainedemageroy/","https://instagram.com/villamageroy","https://www.youtube.com/@villademageroyahabaylaviei9904"],"organizer":{"@type":"NGO","name":"ARC-HAB, groupe d'Archéologie de Habay asbl","address":{"@type":"PostalAddress","streetAddress":"Rue d'Hoffschmidt 13","postalCode":"6720","addressLocality":"Habay-la-Neuve","addressCountry":"BE"}}}</script>
+</head>
+<body id="haut">
+<div data-voile data-forme="carroyage" aria-hidden="true"><div class="voile-carres" aria-hidden="true"></div><div class="voile-contenu"><img src="/assets/images/logo-clair.svg" alt="" width="76" height="56"><span data-voile-libelle>Écoles</span></div></div>
+<div class="ouverture-panneau" data-ouverture aria-hidden="true">
+  <svg class="intro-m" viewBox="0 0 884 655" aria-hidden="true" data-ouverture-objet><path class="intro-m-corps" d="M834 647 L836 650 L852 650 L855 642 L850 640 L838 641ZM839 646 L842 644 L850 645 L848 647ZM446 636 L440 648 L442 650 L456 649 L457 639ZM446 646 L449 641 L452 641 L454 643 L452 646 L448 647ZM710 614 L697 624 L697 633 L702 638 L709 640 L715 638 L718 634 L717 620 L719 618ZM74 617 L86 618 L93 623 L97 621 L86 611 L83 611ZM747 596 L740 600 L732 608 L727 623 L731 631 L739 630 L750 636 L757 636 L770 629 L770 624 L764 618 L758 619 L755 616 L755 612 L758 607 L757 599 L755 596ZM786 587 L783 588 L767 606 L768 610 L772 611 L777 617 L780 628 L780 638 L784 644 L790 640 L792 623 L795 618 L796 601ZM702 588 L702 596 L706 600 L713 599 L724 604 L723 598 L711 587 L705 586ZM776 564 L773 565 L775 572 L774 581 L770 590 L764 594 L764 596 L778 581 L784 579 L789 580 L783 570ZM130 514 L130 524 L134 529 L153 531 L163 537 L179 537 L172 531 L172 528 L176 523 L158 524 L137 518 L131 513ZM409 487 L401 493 L401 515 L412 528 L416 536 L421 521 L420 509 L422 501 L426 496 L430 495 L428 492ZM135 489 L121 497 L117 496 L109 487 L102 488 L94 495 L77 494 L76 496 L80 497 L93 495 L101 499 L106 497 L126 498ZM100 444 L100 446 L120 448 L155 476 L172 466 L179 456 L179 454 L172 448 L160 442 L154 442 L133 451 L127 450 L123 444 L103 440ZM267 410 L265 408 L254 409 L251 413 L251 421 L256 422 L267 419ZM255 416 L258 412 L262 412 L264 414 L263 416 L260 417ZM853 336 L844 341 L837 348 L837 351 L844 354 L853 362 L858 363 L862 360 L863 339 L860 336ZM854 340 L858 340 L860 343 L859 356 L857 358 L844 349 L848 344ZM280 205 L272 205 L264 209 L258 215 L255 231 L259 239 L262 239 L267 233 L271 232 L282 217 L282 208ZM838 183 L834 182 L822 189 L817 198 L817 203 L819 205 L826 206 L831 202 L839 190ZM617 182 L613 188 L619 198 L624 198 L629 188 L625 184 L620 184ZM809 198 L812 213 L817 215 L833 213 L834 216 L839 218 L851 215 L854 212 L866 212 L872 209 L878 202 L879 189 L873 185 L863 187 L857 186 L850 193 L848 193 L848 183 L839 175 L831 175 L822 179 L815 185ZM876 193 L875 198 L872 201 L871 200 L873 196 L872 193 L868 193 L860 197 L859 204 L867 206 L862 209 L850 209 L849 211 L840 214 L837 212 L837 209 L844 203 L850 204 L850 198 L854 196 L859 190 L872 189ZM844 186 L844 196 L845 197 L835 210 L827 211 L816 210 L814 208 L813 199 L818 189 L823 184 L831 179 L835 178ZM271 165 L266 173 L266 177 L269 181 L271 190 L274 191 L281 184 L281 179 L278 171 L273 165ZM604 158 L600 158 L593 163 L592 171 L596 177 L602 178 L609 173 L608 161ZM603 163 L605 165 L605 170 L600 174 L596 170 L596 167 L600 163ZM332 159 L326 159 L298 181 L290 191 L290 199 L297 203 L302 201 L316 185 L326 179 L331 173 L333 167ZM18 244 L18 254 L21 257 L36 257 L44 251 L48 254 L43 255 L42 262 L45 265 L55 267 L57 259 L65 262 L59 266 L59 270 L69 279 L75 278 L78 288 L87 287 L97 290 L102 295 L109 314 L109 324 L95 346 L96 360 L100 369 L98 370 L91 368 L86 373 L79 387 L79 395 L81 398 L78 400 L67 401 L60 393 L54 391 L46 392 L37 396 L19 408 L17 434 L16 435 L12 432 L4 438 L4 445 L12 451 L16 448 L18 449 L18 459 L20 462 L20 483 L16 501 L16 516 L18 521 L16 526 L16 592 L30 598 L38 609 L38 621 L25 639 L26 644 L33 650 L60 650 L62 648 L53 643 L64 639 L81 640 L80 649 L82 650 L99 649 L99 640 L115 640 L115 649 L117 650 L161 650 L168 648 L176 650 L198 650 L200 648 L199 637 L207 624 L207 573 L206 565 L203 559 L194 552 L194 544 L203 543 L206 538 L207 511 L205 503 L209 483 L208 460 L210 457 L210 442 L213 440 L223 439 L225 446 L237 449 L244 441 L249 430 L249 427 L242 423 L247 416 L239 414 L232 408 L229 402 L230 396 L244 375 L244 365 L258 371 L290 378 L309 394 L317 407 L322 439 L321 482 L316 500 L316 527 L322 537 L316 544 L307 538 L291 543 L287 548 L286 557 L288 562 L296 566 L308 567 L315 560 L321 562 L320 577 L322 583 L326 587 L336 588 L337 592 L329 596 L329 601 L324 611 L323 650 L370 650 L365 648 L352 648 L340 641 L337 641 L332 646 L330 637 L331 632 L329 629 L329 612 L337 601 L355 594 L381 572 L388 558 L392 554 L391 543 L406 542 L407 548 L412 550 L420 547 L425 539 L427 540 L428 547 L435 551 L444 547 L448 553 L448 559 L441 564 L441 569 L433 580 L418 584 L416 586 L410 600 L416 606 L420 606 L426 600 L445 589 L453 581 L461 582 L460 591 L478 606 L482 618 L489 620 L489 631 L482 641 L474 636 L460 639 L459 649 L488 650 L490 648 L483 642 L495 640 L496 643 L502 648 L512 650 L510 645 L510 637 L514 626 L513 587 L517 571 L515 565 L516 556 L513 533 L511 532 L513 531 L516 511 L526 507 L538 505 L553 505 L562 501 L570 491 L568 472 L571 466 L590 448 L596 439 L604 433 L607 424 L618 424 L625 426 L626 440 L629 445 L632 504 L635 511 L644 517 L643 521 L637 522 L634 529 L628 536 L632 564 L638 578 L645 583 L644 587 L637 588 L632 594 L631 609 L634 617 L643 618 L654 614 L658 618 L661 624 L661 630 L654 634 L655 650 L662 649 L662 642 L666 640 L676 644 L678 649 L686 650 L688 648 L688 638 L696 645 L722 644 L726 639 L735 639 L736 640 L732 647 L734 650 L757 650 L759 648 L753 648 L752 645 L764 642 L765 649 L768 650 L820 649 L814 638 L814 631 L819 626 L818 609 L812 594 L804 593 L804 578 L814 579 L820 572 L818 553 L821 539 L817 532 L818 517 L821 512 L821 505 L819 501 L819 384 L816 375 L817 356 L815 348 L808 338 L806 324 L796 299 L790 291 L786 280 L780 275 L790 272 L799 264 L809 246 L808 229 L802 227 L783 233 L768 245 L766 254 L764 255 L756 247 L752 247 L730 237 L710 235 L700 228 L687 224 L676 223 L644 225 L629 221 L629 216 L624 203 L619 203 L611 221 L604 228 L585 235 L570 237 L562 244 L546 250 L535 258 L528 260 L520 268 L509 266 L507 264 L511 262 L512 256 L508 251 L501 249 L496 253 L494 259 L495 264 L501 266 L500 269 L491 276 L479 277 L473 269 L468 267 L451 250 L440 247 L433 240 L422 233 L388 224 L377 223 L369 218 L361 217 L358 211 L365 208 L364 196 L358 195 L348 188 L340 188 L336 191 L333 186 L339 177 L339 163 L342 154 L339 150 L333 151 L322 149 L315 154 L308 163 L300 168 L297 168 L290 174 L287 168 L274 157 L268 157 L259 164 L255 174 L245 174 L241 164 L223 145 L218 142 L210 141 L190 144 L185 143 L178 146 L174 154 L171 181 L174 199 L181 205 L181 208 L173 219 L161 222 L158 216 L139 210 L132 219 L132 222 L136 226 L135 229 L115 231 L111 221 L103 217 L94 217 L90 226 L96 231 L85 232 L76 239 L77 249 L51 249 L50 248 L54 244 L54 240 L48 235 L34 236ZM480 646 L472 647 L469 645 L468 647 L465 647 L463 643 L473 640ZM658 637 L663 635 L665 632 L675 633 L684 638 L684 645 L682 646 L680 641 L671 637 L661 638ZM82 602 L87 602 L99 610 L103 614 L106 621 L106 625 L97 632 L97 635 L95 637 L94 646 L85 645 L85 640 L88 637 L88 630 L84 626 L69 626 L66 623 L65 614 L76 605ZM40 600 L43 602 L46 608 L46 621 L60 629 L61 635 L59 637 L53 636 L47 633 L45 630 L39 629 L41 625 L41 605 L39 602ZM169 596 L176 596 L181 600 L181 610 L178 613 L174 614 L170 613 L165 606 L165 601ZM165 574 L172 574 L178 580 L178 585 L172 594 L168 594 L164 592 L156 585 L157 581ZM493 560 L498 569 L504 575 L504 577 L500 586 L496 590 L495 606 L493 613 L490 616 L487 616 L485 614 L485 611 L481 602 L476 597 L477 596 L482 597 L487 604 L488 588 L494 579 L489 570 L487 576 L484 579 L476 583 L473 586 L468 586 L467 591 L464 588 L465 582 L471 576 L478 573 L486 561ZM460 562 L461 571 L455 578 L449 578 L441 586 L435 589 L434 588 L428 591 L427 588 L424 587 L437 583 L441 579 L444 573 L444 568 L450 564 L452 560 L458 560ZM115 560 L123 561 L129 569 L135 563 L139 563 L147 568 L146 577 L136 582 L138 585 L145 588 L145 594 L143 598 L141 599 L138 598 L133 593 L131 588 L126 587 L119 594 L119 601 L124 602 L128 606 L132 614 L134 614 L136 617 L136 630 L131 637 L132 644 L139 642 L146 642 L151 640 L146 619 L148 613 L152 611 L156 613 L162 613 L168 618 L181 618 L184 620 L186 625 L190 629 L197 628 L198 630 L196 633 L196 645 L194 647 L193 640 L185 640 L184 646 L164 645 L163 646 L133 646 L131 647 L119 645 L119 640 L121 637 L121 633 L124 625 L122 621 L114 615 L110 606 L102 600 L102 592 L105 589 L115 587 L115 584 L110 577 L110 567ZM84 557 L89 557 L94 560 L94 567 L90 572 L85 572 L80 567 L80 562ZM737 547 L742 547 L747 551 L751 558 L751 563 L749 565 L739 564 L733 560 L733 552ZM816 544 L815 549 L816 569 L811 574 L801 574 L800 580 L794 583 L801 593 L801 597 L808 597 L811 602 L804 603 L804 611 L807 614 L806 618 L812 620 L813 619 L812 614 L814 612 L815 613 L816 622 L811 627 L811 642 L813 645 L812 646 L801 646 L800 645 L805 641 L806 629 L802 627 L800 628 L799 631 L800 636 L799 644 L801 646 L800 647 L769 646 L768 641 L772 638 L769 640 L760 639 L756 641 L749 641 L748 647 L738 647 L737 646 L739 642 L743 641 L739 639 L739 636 L722 636 L718 641 L711 642 L698 641 L692 635 L689 634 L689 621 L692 616 L691 612 L682 610 L677 611 L675 608 L677 596 L668 598 L665 601 L663 607 L658 611 L648 611 L642 614 L638 614 L634 605 L635 598 L641 591 L648 590 L649 588 L652 589 L648 583 L648 579 L641 574 L642 570 L652 575 L657 580 L658 584 L665 590 L669 586 L676 586 L676 575 L679 570 L683 566 L693 562 L698 562 L707 565 L717 571 L724 579 L729 581 L733 572 L747 574 L750 576 L752 583 L756 587 L758 586 L761 587 L767 576 L765 570 L765 562 L770 556 L779 555 L789 564 L794 572 L798 567 L807 566 L812 570 L811 566 L812 551 L815 543ZM633 543 L636 544 L637 555 L635 558 L632 546ZM302 543 L307 543 L317 549 L316 556 L311 557 L306 563 L299 562 L306 557 L309 551 L303 547 L303 545 L301 544ZM88 537 L91 534 L97 534 L103 540 L103 545 L97 548 L92 547 L89 543ZM447 534 L448 539 L444 544 L439 544 L436 546 L432 544 L430 541 L430 539 L433 536 L439 533ZM36 532 L38 532 L43 536 L43 541 L40 544 L35 544 L30 539 L30 537ZM781 531 L785 531 L788 535 L789 543 L785 547 L780 546 L776 538 L777 534ZM483 531 L483 537 L479 542 L476 542 L472 539 L468 539 L465 542 L462 550 L459 550 L452 543 L451 538 L455 532 L463 525 L472 525ZM99 523 L101 521 L110 522 L117 532 L117 537 L114 539 L108 539 L102 535 L98 529ZM453 504 L456 506 L456 511 L447 530 L445 531 L433 516 L440 506 L445 504ZM547 499 L550 501 L549 502 L534 502 L513 507 L510 527 L508 528 L507 531 L498 532 L507 534 L510 537 L512 552 L513 574 L510 583 L511 622 L507 633 L507 644 L506 645 L499 639 L505 634 L508 624 L508 608 L506 597 L507 585 L510 576 L510 569 L508 563 L509 559 L508 542 L501 542 L493 539 L488 535 L487 531 L488 528 L494 523 L508 523 L508 502 L509 501 L528 501 L536 499ZM42 495 L48 496 L61 503 L61 506 L55 511 L56 514 L66 517 L79 514 L91 514 L93 518 L92 523 L90 525 L85 526 L87 529 L86 536 L81 539 L75 546 L72 546 L69 543 L68 528 L67 526 L63 524 L57 543 L54 546 L51 546 L49 544 L47 533 L40 521 L36 517 L36 506ZM407 479 L414 479 L431 484 L435 487 L439 494 L438 500 L435 503 L430 504 L428 512 L429 523 L426 535 L421 536 L417 543 L412 545 L410 544 L410 539 L407 537 L404 531 L395 523 L393 518 L394 509 L392 502 L393 499 L392 491 L399 483ZM57 467 L62 466 L65 467 L69 471 L66 479 L60 480 L52 475ZM753 461 L759 463 L763 468 L763 473 L760 477 L751 476 L748 473 L748 465ZM567 461 L568 463 L565 468 L565 485 L563 486 L561 483 L560 477 L561 468ZM762 460 L768 455 L774 456 L778 460 L779 465 L778 470 L773 472 L766 471 L761 464ZM75 451 L81 452 L85 456 L85 468 L82 472 L78 472 L75 470 L71 463 L71 456 L72 453ZM43 443 L51 441 L55 445 L56 452 L52 457 L48 457 L42 453ZM8 441 L12 438 L16 438 L18 440 L18 444 L11 445ZM91 442 L93 437 L100 431 L108 431 L126 435 L131 437 L133 439 L133 442 L150 434 L159 433 L171 437 L179 442 L184 447 L186 446 L190 451 L185 463 L174 475 L171 476 L164 482 L155 485 L145 480 L117 456 L93 454 L91 451ZM238 425 L244 430 L239 440 L235 444 L231 444 L227 440 L227 435 L235 426ZM227 409 L236 418 L230 422 L224 429 L222 429 L219 425 L219 418 L221 413 L225 409ZM574 348 L584 345 L590 349 L593 355 L592 359 L593 370 L597 371 L602 376 L604 376 L607 380 L622 391 L626 396 L629 402 L629 405 L635 416 L637 467 L638 468 L640 503 L658 514 L668 524 L671 525 L677 531 L682 540 L688 537 L695 537 L703 540 L709 540 L716 547 L717 550 L715 552 L710 553 L698 544 L688 545 L682 551 L674 551 L667 547 L663 543 L662 539 L654 533 L644 531 L641 534 L637 533 L642 524 L652 524 L660 527 L655 522 L647 517 L647 513 L638 507 L635 500 L632 441 L629 436 L628 422 L625 421 L625 417 L621 410 L619 403 L614 396 L607 392 L592 379 L584 375 L572 375 L564 378 L572 384 L579 397 L584 397 L581 393 L581 386 L589 384 L593 386 L592 388 L593 393 L588 396 L603 397 L606 400 L606 407 L600 412 L604 420 L601 429 L593 435 L591 432 L595 429 L595 423 L591 417 L589 410 L591 405 L587 405 L583 407 L575 406 L570 401 L566 392 L556 384 L553 378 L555 373 L571 365 L571 352ZM752 340 L755 338 L763 339 L768 344 L769 350 L766 353 L762 354 L753 352 L750 348ZM443 335 L449 335 L453 340 L453 347 L448 352 L443 352 L439 349 L439 339ZM231 329 L235 332 L237 336 L238 346 L244 355 L258 359 L272 367 L288 369 L297 373 L300 377 L304 379 L305 381 L307 381 L317 391 L324 401 L328 421 L328 431 L330 443 L328 484 L323 505 L325 523 L331 531 L340 521 L344 520 L348 525 L348 529 L345 536 L338 543 L331 546 L331 569 L329 579 L335 576 L342 551 L346 548 L355 546 L356 532 L359 529 L362 529 L369 534 L368 549 L374 555 L378 553 L384 544 L387 546 L388 551 L385 554 L379 565 L373 564 L368 561 L361 553 L349 556 L342 581 L339 584 L330 584 L325 579 L324 575 L325 559 L323 558 L323 544 L326 539 L325 531 L320 525 L320 509 L319 508 L320 498 L324 486 L325 435 L320 403 L312 390 L294 375 L290 373 L262 368 L258 365 L249 362 L240 362 L241 371 L237 375 L233 385 L227 392 L226 401 L220 409 L213 423 L210 436 L207 438 L207 453 L205 456 L206 479 L202 499 L203 534 L199 540 L190 541 L186 540 L191 550 L191 556 L200 563 L203 569 L204 614 L202 615 L200 610 L191 610 L187 606 L190 597 L201 596 L200 569 L185 557 L180 546 L161 545 L151 539 L126 535 L122 526 L123 508 L121 505 L108 505 L103 508 L99 508 L94 504 L75 505 L70 503 L67 500 L67 495 L75 484 L78 484 L83 487 L91 487 L92 486 L89 484 L90 479 L98 481 L110 478 L113 479 L120 487 L132 481 L138 481 L150 488 L147 492 L141 495 L133 502 L140 510 L160 516 L174 514 L179 515 L186 520 L186 524 L182 529 L190 533 L200 535 L201 514 L199 511 L193 508 L188 503 L188 499 L190 497 L199 496 L202 490 L201 436 L202 426 L204 423 L205 417 L210 406 L235 374 L233 367 L228 366 L220 357 L220 351 L224 345 L223 338 L224 334 L228 329ZM497 321 L505 322 L509 329 L508 333 L502 339 L498 339 L491 330 L491 325ZM682 325 L685 321 L691 320 L697 324 L698 329 L691 334 L687 334 L683 331ZM652 317 L655 319 L657 323 L656 333 L650 341 L642 341 L637 337 L636 330 L644 319 L648 317ZM639 307 L642 313 L628 328 L623 328 L618 322 L618 317 L620 313 L626 307 L629 306ZM732 303 L740 303 L743 306 L744 313 L741 318 L734 319 L729 314 L728 307ZM157 281 L164 287 L166 293 L166 309 L164 313 L158 319 L151 320 L144 317 L140 313 L138 307 L138 297 L144 285 L152 281ZM626 279 L631 279 L636 283 L636 285 L632 290 L626 291 L623 288 L622 283ZM737 278 L741 275 L749 274 L753 277 L755 280 L755 283 L750 288 L741 288 L736 283ZM610 271 L617 272 L619 275 L618 282 L615 285 L611 285 L606 282 L606 275ZM686 277 L688 274 L695 270 L699 269 L709 270 L714 275 L715 282 L712 286 L708 288 L690 288 L686 284ZM564 269 L575 269 L578 273 L578 282 L572 288 L567 289 L562 285 L561 272ZM252 265 L256 265 L261 271 L260 276 L256 280 L252 280 L247 276 L247 271ZM64 268 L68 266 L69 263 L76 263 L81 268 L81 272 L78 275 L72 275ZM652 261 L654 260 L660 261 L663 268 L667 269 L670 272 L671 279 L667 284 L660 285 L655 281 L654 275 L649 266ZM119 263 L124 259 L128 258 L133 259 L138 263 L147 260 L153 264 L153 268 L138 277 L134 277 L129 270 L126 271 L120 270ZM52 256 L53 261 L49 262 L46 259 L51 258ZM502 254 L504 254 L507 259 L504 260 L503 262 L500 262 L499 257ZM677 254 L680 253 L684 254 L693 262 L693 267 L690 271 L683 272 L675 266 L674 258ZM49 242 L46 248 L40 248 L34 253 L23 253 L21 250 L21 248 L26 244 L38 239 L46 239ZM186 232 L191 233 L194 237 L193 243 L190 246 L185 245 L183 242 L183 236ZM337 195 L344 191 L350 196 L360 199 L361 205 L357 207 L353 204 L345 205 L341 204 L337 200ZM21 414 L28 407 L50 395 L56 396 L63 404 L67 405 L69 413 L74 414 L86 402 L82 391 L89 377 L93 373 L102 373 L105 376 L110 378 L103 370 L103 364 L99 356 L99 348 L112 328 L112 310 L108 297 L105 291 L101 287 L97 285 L80 283 L79 280 L80 277 L87 275 L95 276 L98 271 L97 259 L92 255 L85 252 L81 248 L80 242 L89 235 L99 235 L100 233 L99 226 L96 224 L98 220 L104 222 L110 227 L111 234 L137 233 L139 232 L138 219 L141 215 L154 219 L156 221 L156 224 L161 226 L159 230 L153 233 L168 233 L176 225 L176 223 L181 218 L184 210 L186 209 L184 206 L184 201 L177 195 L177 188 L174 177 L176 172 L177 158 L182 149 L187 147 L194 147 L201 145 L214 145 L219 148 L231 161 L230 163 L215 149 L197 150 L182 156 L179 171 L179 183 L181 192 L198 208 L215 207 L223 203 L233 195 L236 188 L237 179 L231 167 L232 163 L238 168 L241 177 L245 178 L245 187 L243 195 L235 205 L238 208 L238 214 L234 219 L226 219 L224 217 L225 211 L217 215 L201 217 L197 216 L198 222 L207 222 L215 224 L230 244 L234 246 L241 253 L251 243 L247 236 L247 222 L249 214 L257 203 L266 199 L264 196 L262 187 L257 179 L259 177 L262 168 L270 161 L272 161 L284 172 L285 176 L289 178 L294 177 L301 171 L308 169 L323 154 L325 153 L336 154 L337 155 L336 173 L330 181 L330 186 L320 193 L303 211 L298 212 L290 209 L291 219 L283 230 L290 230 L308 222 L314 223 L344 222 L346 217 L349 214 L354 214 L357 220 L365 221 L373 226 L384 227 L418 236 L421 239 L429 243 L436 250 L447 253 L464 270 L469 272 L475 280 L480 280 L493 300 L505 288 L516 285 L520 280 L521 273 L532 263 L539 261 L550 253 L558 251 L566 247 L574 240 L589 238 L608 231 L614 225 L621 210 L625 218 L625 224 L640 228 L683 227 L696 231 L706 238 L726 240 L748 250 L752 250 L760 258 L766 259 L769 258 L771 249 L781 240 L791 234 L804 232 L806 234 L806 242 L802 248 L801 247 L803 241 L801 237 L795 237 L788 239 L779 246 L775 261 L780 265 L787 263 L790 264 L786 269 L777 271 L777 279 L783 284 L787 295 L793 303 L803 328 L805 342 L813 355 L813 379 L816 388 L816 505 L817 506 L817 510 L815 513 L814 536 L817 543 L816 544 L807 537 L807 530 L811 524 L810 516 L815 509 L813 503 L812 385 L807 372 L807 354 L801 340 L799 324 L795 317 L791 305 L780 291 L779 288 L771 281 L764 272 L760 265 L745 251 L728 244 L708 244 L700 253 L696 253 L691 249 L689 245 L689 234 L690 233 L683 231 L668 232 L670 237 L676 243 L676 246 L672 249 L665 250 L660 249 L655 244 L655 234 L656 233 L654 231 L646 232 L650 239 L650 245 L640 254 L637 254 L630 246 L629 236 L632 232 L631 231 L627 231 L623 236 L618 238 L614 238 L609 234 L592 241 L576 244 L569 250 L553 257 L547 258 L531 272 L527 286 L520 293 L511 295 L506 298 L497 309 L490 309 L487 307 L472 283 L448 257 L444 257 L437 254 L417 239 L363 227 L359 227 L357 232 L346 232 L342 230 L341 231 L307 231 L299 236 L290 239 L283 239 L282 244 L278 251 L271 253 L261 253 L256 251 L251 255 L247 261 L235 260 L230 254 L224 250 L210 232 L203 230 L198 231 L191 229 L186 232 L183 231 L174 240 L170 242 L167 241 L118 241 L117 242 L115 241 L92 241 L87 242 L90 245 L100 250 L104 254 L107 265 L106 276 L110 278 L115 278 L120 281 L119 289 L116 292 L109 293 L112 298 L117 314 L118 325 L104 347 L104 351 L109 363 L119 375 L119 382 L114 386 L106 386 L100 384 L96 380 L93 379 L89 389 L96 397 L96 404 L89 414 L78 423 L68 424 L60 418 L61 416 L57 405 L52 400 L49 400 L32 409 L27 414 L28 470 L27 471 L27 485 L23 503 L23 512 L30 515 L32 523 L27 529 L23 530 L23 588 L33 591 L36 594 L35 596 L28 592 L22 591 L19 588 L19 530 L21 523 L23 521 L21 520 L19 512 L19 505 L23 487 L23 458 L21 455 L21 445 L18 442 L18 439 L20 438ZM367 131 L363 128 L359 128 L353 135 L350 142 L351 145 L365 143 L369 137ZM362 133 L364 137 L361 140 L357 140 L356 139 L357 137ZM303 114 L299 121 L299 128 L310 133 L314 133 L315 121 L313 116ZM307 118 L311 122 L312 125 L311 128 L303 125Z" fill-rule="evenodd"/><g class="intro-m-pierres"><path class="pierre" d="M469 94 L467 93 L450 94 L444 96 L440 100 L431 117 L431 126 L432 130 L435 133 L444 135 L448 134 L457 127 L460 126 L466 120 L468 116 L468 110 L471 104 L471 97Z" style="--px:452;--py:114"/><path class="pierre" d="M582 37 L573 34 L567 36 L560 42 L554 54 L555 59 L560 65 L564 67 L574 67 L579 64 L586 57 L590 51 L589 44Z" style="--px:572;--py:51"/><path class="pierre" d="M485 42 L479 48 L475 58 L475 62 L477 66 L487 75 L491 75 L495 72 L497 72 L498 77 L500 79 L504 80 L509 73 L507 71 L503 70 L499 71 L498 68 L505 57 L506 53 L505 47 L498 41Z" style="--px:492;--py:61"/><path class="pierre" d="M537 47 L529 45 L517 52 L512 57 L511 60 L512 70 L521 75 L528 75 L537 70 L540 67 L543 59 L542 52Z" style="--px:528;--py:60"/><path class="pierre" d="M168 46 L164 47 L160 51 L158 61 L158 70 L167 82 L171 82 L174 79 L173 77 L173 70 L175 64 L174 54 L176 49 L174 47Z" style="--px:168;--py:64"/><path class="pierre" d="M502 185 L498 189 L497 210 L500 214 L504 216 L508 216 L508 212 L510 207 L510 192 L505 186Z" style="--px:504;--py:201"/><path class="pierre" d="M66 311 L61 307 L51 306 L44 311 L42 316 L42 320 L48 324 L58 322 L66 314Z" style="--px:54;--py:316"/><path class="pierre" d="M272 20 L264 19 L258 22 L256 29 L257 38 L260 40 L263 40 L267 35 L274 31Z" style="--px:266;--py:30"/><path class="pierre" d="M289 71 L281 72 L280 76 L277 79 L274 88 L275 92 L283 92 L288 89 L292 78 L292 74Z" style="--px:284;--py:82"/><path class="pierre" d="M654 639 L655 650 L660 650 L660 640 L664 638 L669 638 L678 642 L681 645 L680 650 L686 650 L685 641 L682 638 L674 634 L662 633 L657 635Z" style="--px:670;--py:642"/><path class="pierre" d="M580 568 L573 570 L569 573 L568 577 L569 578 L569 583 L572 585 L579 584 L584 579 L584 575Z" style="--px:576;--py:577"/><path class="pierre" d="M189 5 L186 8 L184 14 L196 21 L199 14 L198 6 L193 4Z" style="--px:192;--py:13"/><path class="pierre" d="M856 568 L850 570 L847 573 L846 577 L851 583 L855 583 L859 581 L860 574 L859 570Z" style="--px:854;--py:576"/><path class="pierre" d="M862 262 L856 259 L849 262 L848 266 L849 272 L852 273 L859 271 L862 266Z" style="--px:856;--py:266"/><path class="pierre" d="M249 482 L244 485 L245 494 L248 496 L253 496 L256 492 L256 485 L252 482Z" style="--px:250;--py:490"/><path class="pierre" d="M836 287 L836 294 L837 295 L846 296 L850 294 L850 291 L847 285 L840 284Z" style="--px:844;--py:290"/><path class="pierre" d="M162 114 L157 120 L157 122 L162 125 L166 126 L169 125 L172 121 L172 118 L168 114Z" style="--px:165;--py:120"/><path class="pierre" d="M287 46 L280 49 L280 57 L281 58 L288 59 L291 57 L293 52Z" style="--px:287;--py:53"/><path class="pierre" d="M97 148 L96 154 L98 156 L108 156 L109 152 L107 147 L100 146Z" style="--px:103;--py:152"/><path class="pierre" d="M526 143 L523 146 L522 153 L530 155 L532 153 L533 147 L532 144Z" style="--px:528;--py:150"/><path class="pierre" d="M395 647 L395 650 L417 650 L418 649 L417 646 L411 647 L410 646 L398 645Z" style="--px:407;--py:648"/></g></svg>
+  <p class="ouverture-nom">Villa romaine de Mageroy</p>
+</div>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+<header data-entete>
+  <div class="entete-rangee">
+    <a class="entete-logo" href="/" data-libelle="Accueil">
+      <img src="/assets/images/logo.svg" alt="" width="48" height="36"><span>Villa de Mageroy</span>
+    </a>
+    <nav data-nav aria-label="Navigation principale">
+      <ul><li><a href="/visiter" data-libelle="Visiter">Visiter</a></li><li><a href="/ecoles" data-libelle="Écoles" aria-current="page">Écoles</a></li><li><a href="/le-site" data-libelle="Le site">Le site</a></li><li><a href="/agenda" data-libelle="Agenda">Agenda</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div class="entete-actions">
+      <a class="bouton" href="/visiter#reserver" data-libelle="Visiter"><span class="masque-etroit">Réserver une visite</span><span class="seul-etroit">Réserver</span></a>
+      <button type="button" data-menu-bouton aria-controls="menu" aria-expanded="false" data-libelle-ouvrir="Menu" data-libelle-fermer="Fermer"><span data-libelle-bouton>Menu</span></button>
+      <a class="menu-sansjs" href="#menu" data-menu-lien>Menu</a>
+    </div>
+  </div>
+</header>
+<script>/* Avant le premier affichage : rangées de la navigation (même règle que ajusterNav dans assets/js/socle/entete.js)
+   et hauteur réelle de l'en-tête, pour que rien ne saute quand le JavaScript du site prend la main. */
+(function () {
+  var h = document.documentElement, u = document.querySelector('[data-nav] ul'), e = document.querySelector('[data-entete]');
+  if (u) {
+    var deborde = function () { return u.scrollWidth > u.clientWidth + 1; }, c = deborde();
+    if (c && window.matchMedia('(min-width: 900px)').matches) {
+      h.classList.add('nav-deux-rangees'); c = deborde();
+      if (c) { h.classList.add('nav-deux-lignes'); var a = u.querySelector('a'); c = !a || u.getBoundingClientRect().height > a.getBoundingClientRect().height * 2.5; }
+      if (c) h.classList.remove('nav-deux-rangees', 'nav-deux-lignes');
+    }
+    if (c) h.classList.add('nav-compacte');
+  }
+  if (e) h.style.setProperty('--entete-h', Math.round(e.getBoundingClientRect().height) + 'px');
+})();</script>
+<span id="menu-ferme" aria-hidden="true"></span>
+<div id="menu" data-menu role="dialog" aria-modal="true" aria-label="Menu">
+  <p class="menu-sansjs-fermer"><a href="#menu-ferme">Fermer</a></p>
+  <ul><li style="--i:0"><a href="/" class="menu-lien" data-libelle="Accueil">Accueil</a></li><li style="--i:1"><a href="/visiter" class="menu-lien" data-libelle="Visiter">Visiter</a></li><li style="--i:2"><a href="/ecoles" class="menu-lien" data-libelle="Écoles" aria-current="page">Écoles</a></li><li style="--i:3"><a href="/le-site" class="menu-lien" data-libelle="Le site">Le site</a></li><li style="--i:4"><a href="/agenda" class="menu-lien" data-libelle="Agenda">Agenda</a></li><li style="--i:5"><a href="/contact" class="menu-lien" data-libelle="Contact">Contact</a></li></ul>
+  <p><a class="bouton" href="tel:+3263758544">Appeler 063 75 85 44</a></p>
+</div>
+<main id="contenu" tabindex="-1">
+<section class="tete-bandeau" id="debut">
+  <div class="conteneur tete-bandeau-texte">
+    <div>
+      <p class="surtitre tete-anime">Écoles</p>
+      <h1 class="titre-page" data-anime="gsap"><span class="ligne"><span>L&#39;Antiquité,</span></span><span class="ligne"><span class="mot">les mains dans la terre</span></span></h1>
+    </div>
+    <div class="tete-cote">
+      <p class="tete-intro tete-anime masque-ecran-tres-bas">Visite guidée du site et ateliers pratiques, de la 3e maternelle à la 6e secondaire. Réservation obligatoire, du lundi au vendredi.</p>
+      <p class="tete-actions tete-anime">
+        <a class="bouton" href="#reserver" data-action-principale>Demander une réservation</a>
+        <span class="info-cle" data-info-cle>Visite : 3 € par élève · accompagnants gratuits</span>
+      </p>
+    </div>
+  </div>
+  <div class="bandeau apercu" data-effet="bandeau" data-iris-centre style="--apercu:url(data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAACQAwCdASoYAAoAPu1Ct1apoqakGAEwHYlkALDsZLz2BZVYZjoAAP1REOnYzQqjMTPt2rCN6YzjONgCnd84NF+p+GRECg9Z5PjB9BK/4cE/AHdOuoCAAA==);--apercu-mobile:url(data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBQCdASoYAB4APu1oqU2ppiQiMAgBMB2JQBYdhEAkGeQRdyySvAFS6SBTMyfw1RAAAP2dWnkQwaQAKFxa02fFNMr9PVOUxCyyXr6fhiJHfNYuCgsnNDGZFzOTvsFoWv+UdKQ9OojFgs8BS5SPqD430y3gEurdUk2Zvs39wDwOFDBANOtuaptbmWMhcSAA)">
+    <figure class="media " style="--cadrage:62% 55%">
+  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/ecoles-legionnaires-mobile-640.webp 640w, /assets/images/ecoles-legionnaires-mobile-1080.webp 1080w" sizes="100vw">
+    <img src="/assets/images/ecoles-legionnaires-1280.webp" srcset="/assets/images/ecoles-legionnaires-640.webp 640w, /assets/images/ecoles-legionnaires-1280.webp 1280w, /assets/images/ecoles-legionnaires-1920.webp 1920w" sizes="100vw" alt="Des enfants déguisés en légionnaires derrière leurs boucliers de carton peints, devant le pavillon d&#39;accueil" width="1280" height="548" fetchpriority="high" loading="eager" decoding="async">
+  </picture>
+</figure>
+  </div>
+</section>
+<section class="section section--serree" id="travaux">
+  <div class="conteneur">
+    <div class="avis" data-anime="rideau">
+      <svg viewBox="0 0 48 48" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M6 40h36M10 40V22l14-10 14 10v18"/><path d="M19 40V28h10v12"/><path d="M4 18l20-14 20 14"/></svg>
+      <div><h2>Pendant les travaux du pavillon</h2><p>Les ateliers en intérieur sont suspendus. La visite guidée du site continue, et six ateliers se donnent dans votre classe : l&#39;animateur se déplace jusqu&#39;à votre école.</p></div>
+    </div>
+  </div>
+</section>
+<section class="section bande-sable" id="visite">
+  <div class="conteneur visite-scolaire">
+    <figure class="media " data-anime="rideau" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/carte-visite-guidee-784.webp" srcset="/assets/images/carte-visite-guidee-480.webp 480w, /assets/images/carte-visite-guidee-640.webp 640w, /assets/images/carte-visite-guidee-784.webp 784w" sizes="(max-width: 860px) 100vw, 45vw" alt="Un groupe suit le chemin de visite entre les vestiges de la villa" width="784" height="1045" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <div>
+      <p class="surtitre">Au site</p>
+      <h2 class="titre-section" data-anime="lignes">La visite guidée</h2>
+      <p data-anime>1 h 30 sur le site avec un guide, de la 1re primaire à la 6e secondaire : la vie d&#39;un domaine agricole gallo-romain et le travail des archéologues.</p>
+      <p class="prix-ligne" data-anime><strong data-prix>3 €</strong><span>par élève, accompagnants gratuits</span></p>
+      <a class="bouton" href="/ecoles?formule=visite#reserver">Demander une réservation</a>
+    </div>
+  </div>
+</section>
+<section class="section" id="ateliers">
+  <div class="conteneur">
+    <div class="section-tete"><p class="surtitre">Ateliers</p><h2 data-anime="lignes">Huit ateliers d&#39;1 h 15</h2></div>
+    <div class="filtres" role="group" aria-label="Filtrer par niveau" data-filtres-ateliers>
+      <button type="button" class="filtre" data-filtre="tous" aria-pressed="true">Tous</button><button type="button" class="filtre" data-filtre="maternelle" aria-pressed="false">Maternelle</button><button type="button" class="filtre" data-filtre="primaire" aria-pressed="false">Primaire</button><button type="button" class="filtre" data-filtre="secondaire" aria-pressed="false">Secondaire</button><button type="button" class="filtre" data-filtre="classe" aria-pressed="false">En classe</button>
+    </div>
+    <ul class="ateliers" data-anime="cascade" data-liste-ateliers>
+      <li class="atelier" id="atelier-ceramique" data-niveaux="primaire secondaire classe">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-ceramique-784.webp" srcset="/assets/images/atelier-ceramique-480.webp 480w, /assets/images/atelier-ceramique-640.webp 640w, /assets/images/atelier-ceramique-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Aussi en classe</span>
+          <h3>Atelier céramique</h3>
+          <p class="atelier-prix"><strong data-prix>4 €</strong><span>par élève · 1 h 15</span></p>
+          <p class="atelier-public">Primaire 1re à 6e · secondaire 1re et 2e</p>
+          <p>Montage aux colombins, lissage et décor : chaque élève repart avec sa poterie (prévoir une caisse pour le transport).</p>
+          <a class="lien-fleche" href="/ecoles?formule=ceramique#reserver">Demander cet atelier<span class="visuellement-cache"> : Atelier céramique</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-mosaique" data-niveaux="primaire secondaire classe">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-mosaique-784.webp" srcset="/assets/images/atelier-mosaique-480.webp 480w, /assets/images/atelier-mosaique-640.webp 640w, /assets/images/atelier-mosaique-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Aussi en classe</span>
+          <h3>Atelier mosaïque</h3>
+          <p class="atelier-prix"><strong data-prix>6,50 €</strong><span>par élève · 1 h 15</span></p>
+          <p class="atelier-public">Primaire 1re à 6e · secondaire 1re et 2e</p>
+          <p>Support, dessin, choix des tesselles : chaque élève compose sa mosaïque et l&#39;emporte (prévoir une caisse).</p>
+          <a class="lien-fleche" href="/ecoles?formule=mosaique#reserver">Demander cet atelier<span class="visuellement-cache"> : Atelier mosaïque</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-alimentation" data-niveaux="primaire secondaire">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-alimentation-784.webp" srcset="/assets/images/atelier-alimentation-480.webp 480w, /assets/images/atelier-alimentation-640.webp 640w, /assets/images/atelier-alimentation-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette etiquette--suspendu">Suspendu pendant les travaux du pavillon</span>
+          <h3>Atelier alimentation</h3>
+          <p class="atelier-prix"><strong data-prix>6,50 €</strong><span>par élève · 1 h 15, dégustation en plus</span></p>
+          <p class="atelier-public">Primaire 1re à 6e · secondaire 1re et 4e</p>
+          <p>Cuisiner des recettes romaines, les comparer à nos repas, puis goûter.</p>
+          <a class="lien-fleche" href="/ecoles?formule=alimentation#reserver">Demander cet atelier<span class="visuellement-cache"> : Atelier alimentation</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-enfance" data-niveaux="maternelle primaire specialise classe">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-enfance-784.webp" srcset="/assets/images/atelier-enfance-480.webp 480w, /assets/images/atelier-enfance-640.webp 640w, /assets/images/atelier-enfance-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Aussi en classe</span>
+          <h3>Enfance gallo-romaine</h3>
+          <p class="atelier-prix"><strong data-prix>4 €</strong><span>par élève · 1 h 15</span></p>
+          <p class="atelier-public">3e maternelle · primaire 1re à 6e · enseignement spécialisé</p>
+          <p>Une histoire pour découvrir les vêtements, l&#39;écriture, les jeux et la société en Gaule romaine.</p>
+          <a class="lien-fleche" href="/ecoles?formule=enfance#reserver">Demander cet atelier<span class="visuellement-cache"> : Enfance gallo-romaine</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-stratification" data-niveaux="primaire secondaire classe">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-stratification-784.webp" srcset="/assets/images/atelier-stratification-480.webp 480w, /assets/images/atelier-stratification-640.webp 640w, /assets/images/atelier-stratification-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Aussi en classe</span>
+          <h3>Stratification sociale</h3>
+          <p class="atelier-prix"><strong data-prix>4 €</strong><span>par élève · 1 h 15</span></p>
+          <p class="atelier-public">Primaire 5e et 6e · secondaire 1re et 2e</p>
+          <p>De l&#39;empereur Gallien aux esclaves de la villa : chacun joue un rôle et la classe résout une crise ensemble.</p>
+          <a class="lien-fleche" href="/ecoles?formule=stratification#reserver">Demander cet atelier<span class="visuellement-cache"> : Stratification sociale</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-fouille" data-niveaux="secondaire">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-fouille-784.webp" srcset="/assets/images/atelier-fouille-480.webp 480w, /assets/images/atelier-fouille-640.webp 640w, /assets/images/atelier-fouille-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Pendant la campagne de fouille</span>
+          <h3>Initiation à la fouille</h3>
+          <p class="atelier-prix"><strong data-prix>4 €</strong><span>par élève · 1 h 15</span></p>
+          <p class="atelier-public">Secondaire 1re à 4e</p>
+          <p>Sur un vrai chantier, avec un archéologue : dégager les vestiges, prélever et analyser les objets. Pendant la campagne de fouille (en général de juillet à septembre), si la météo le permet.</p>
+          <a class="lien-fleche" href="/ecoles?formule=fouille#reserver">Demander cet atelier<span class="visuellement-cache"> : Initiation à la fouille</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-sport" data-niveaux="primaire secondaire classe">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-sport-784.webp" srcset="/assets/images/atelier-sport-480.webp 480w, /assets/images/atelier-sport-640.webp 640w, /assets/images/atelier-sport-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Aussi en classe</span>
+          <h3>Aux origines du sport</h3>
+          <p class="atelier-prix"><strong data-prix>4 €</strong><span>par élève · 1 h 15</span></p>
+          <p class="atelier-public">Primaire 3e à 6e · secondaire 1re à 6e</p>
+          <p>Les jeux grecs et romains, puis la pratique : tenue de sport et chaussures fermées, séance adaptée à la météo.</p>
+          <a class="lien-fleche" href="/ecoles?formule=sport#reserver">Demander cet atelier<span class="visuellement-cache"> : Aux origines du sport</span></a>
+        </div>
+      </li><li class="atelier" id="atelier-objets" data-niveaux="primaire secondaire classe">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/atelier-objets-784.webp" srcset="/assets/images/atelier-objets-480.webp 480w, /assets/images/atelier-objets-640.webp 640w, /assets/images/atelier-objets-784.webp 784w" sizes="(max-width: 560px) 100vw, (max-width: 1100px) 50vw, 25vw" alt="" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <div class="atelier-corps">
+          <span class="etiquette">Aussi en classe</span>
+          <h3>Quand les objets nous parlent</h3>
+          <p class="atelier-prix"><strong data-prix>4 €</strong><span>par élève + déplacement · 50 min à 1 h 30</span></p>
+          <p class="atelier-public">Primaire 3e à 6e · secondaire 1re à 4e</p>
+          <p>L&#39;animateur vient avec une mallette d&#39;objets et des supports graphiques. Du mardi au jeudi de préférence.</p>
+          <a class="lien-fleche" href="/ecoles?formule=objets#reserver">Demander cet atelier<span class="visuellement-cache"> : Quand les objets nous parlent</span></a>
+        </div>
+      </li>
+    </ul>
+    <p class="ateliers-vide" data-ateliers-vide hidden>Aucun atelier pour ce niveau.</p>
+  </div>
+</section>
+<section class="section bande-sable" id="dossier">
+  <div class="conteneur dossier">
+    <figure class="media " data-fx="vitesse" data-fx-force="4" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/dossier-pedagogique-800.webp" srcset="/assets/images/dossier-pedagogique-480.webp 480w, /assets/images/dossier-pedagogique-640.webp 640w, /assets/images/dossier-pedagogique-800.webp 800w" sizes="280px" alt="Le dossier pédagogique « Mageroy » et ses fiches" width="800" height="1067" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <div>
+      <p class="surtitre">Préparer la sortie</p>
+      <h2 class="titre-section" data-anime="lignes">Le dossier pédagogique « Mageroy »</h2>
+      <p data-anime>48 pages pour la 4e à la 6e primaire et la 1re secondaire : la conquête romaine, la civilisation gallo-romaine, le métier d&#39;archéologue et la vie quotidienne. À utiliser seul ou pendant la visite.</p>
+      <a href="/contact?sujet=ecole#formulaire" class="bouton bouton--contour" data-libelle="Contact">Demander le dossier</a>
+    </div>
+  </div>
+</section>
+<section class="section cordeaux" id="reserver">
+  <div class="conteneur formulaire-grille">
+    <div class="formulaire-cote">
+      <p class="surtitre">Réserver</p>
+      <h2 class="titre-section" data-anime="lignes">Demander une réservation</h2>
+      <p data-anime>Réservation obligatoire, du lundi au vendredi de 9 h à 17 h 30. Vous pouvez aussi appeler le 063 75 85 44.</p>
+      <p class="joindre-court" data-anime>Ou directement :<br><a href="tel:+3263758544">063 75 85 44</a><br><a href="mailto:villa.mageroy@gmail.com">villa.mageroy@gmail.com</a></p>
+    </div>
+    <form class="formulaire" data-formulaire data-estimation-ecole action="#" novalidate data-anime>
+      <div class="champ champ--large"><label for="e-ecole">École</label><input id="e-ecole" name="ecole" required></div>
+      <div class="champ"><label for="e-niveau">Niveau</label>
+        <select id="e-niveau" name="niveau" required><option value="">Choisir</option><option>Maternelle</option><option>Primaire</option><option>Secondaire</option><option>Enseignement spécialisé</option></select></div>
+      <div class="champ"><label for="e-eleves">Nombre d&#39;élèves</label><input id="e-eleves" name="eleves" type="number" min="1" max="120" value="22" required></div>
+      <div class="champ"><label for="e-formule">Formule</label>
+        <select id="e-formule" name="formule" required>
+          <option value="visite" data-prix="3">Visite guidée du site (3 €)</option>
+          <option value="ceramique" data-prix="4">Atelier céramique (4 €)</option><option value="mosaique" data-prix="6.5">Atelier mosaïque (6,50 €)</option><option value="alimentation" data-prix="6.5">Atelier alimentation (6,50 €)</option><option value="enfance" data-prix="4">Enfance gallo-romaine (4 €)</option><option value="stratification" data-prix="4">Stratification sociale (4 €)</option><option value="fouille" data-prix="4">Initiation à la fouille (4 €)</option><option value="sport" data-prix="4">Aux origines du sport (4 €)</option><option value="objets" data-prix="4">Quand les objets nous parlent (4 € + déplacement)</option>
+        </select></div>
+      <div class="champ"><label for="e-lieu">Où ?</label>
+        <select id="e-lieu" name="lieu"><option value="site">Au site</option><option value="classe">Dans notre classe</option></select></div>
+      <div class="champ champ--large"><label for="e-date">Période souhaitée</label><input id="e-date" name="periode" placeholder="Ex. : semaine du 8 mars"></div>
+      <div class="champ"><label for="e-nom">Nom de l&#39;enseignant</label><input id="e-nom" name="nom" autocomplete="name" required></div>
+      <div class="champ"><label for="e-email">E-mail</label><input id="e-email" name="email" type="email" autocomplete="email" required></div>
+      <div class="champ champ--large"><label for="e-tel">Téléphone</label><input id="e-tel" name="telephone" type="tel" autocomplete="tel"></div>
+      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande. Politique de confidentialité : à compléter.</p>
+      <p data-message-envoi tabindex="-1" hidden data-texte="Demande simulée : rien n&#39;a été envoyé. Sur le site final, elle partira vers l&#39;équipe de la villa."></p>
+      <div class="formulaire-pied">
+        <p class="estimation" aria-live="polite"><span>Estimation</span><strong data-estimation data-prix>66 €</strong><span>hors déplacement et dégustation, accompagnants gratuits</span></p>
+        <button class="bouton" type="submit">Envoyer la demande</button>
+      </div>
+    </form>
+  </div>
+</section>
+<section class="fin sur-charbon" id="fin" data-section>
+  <figure class="media " data-fx="parallaxe" data-fx-force="8" style="--cadrage:50% 50%">
+  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/fin-ecoles-mobile-640.webp 640w, /assets/images/fin-ecoles-mobile-1080.webp 1080w" sizes="100vw">
+    <img src="/assets/images/fin-ecoles-1280.webp" srcset="/assets/images/fin-ecoles-640.webp 640w, /assets/images/fin-ecoles-1280.webp 1280w, /assets/images/fin-ecoles-1920.webp 1920w" sizes="100vw" alt="Des enfants avec leurs boucliers peints au bord de l&#39;étang du site" width="1280" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
+  <div class="fin-contenu">
+    <h2 data-anime="lignes">Demander une réservation</h2>
+    <p data-anime>Visite guidée du site et ateliers pratiques, de la 3e maternelle à la 6e secondaire. Réservation obligatoire, du lundi au vendredi.</p>
+    <p class="fin-actions" data-anime><a class="bouton" href="#reserver">Demander une réservation</a><a class="bouton bouton--contour" href="tel:+3263758544">Appeler 063 75 85 44</a></p>
+  </div>
+</section>
+</main>
+<footer class="pied" id="pied">
+  <div class="conteneur pied-grille">
+    <div class="pied-marque">
+      <img src="/assets/images/logo-clair.svg" alt="" width="96" height="71">
+      <p class="pied-nom">Villa gallo-romaine de Mageroy</p>
+      <p>Rue de Mageroy 2, 6723 Habay-la-Vieille<br><a href="tel:+3263758544">063 75 85 44</a><br><a href="mailto:villa.mageroy@gmail.com">villa.mageroy@gmail.com</a></p>
+    </div>
+    <nav aria-label="Sommaire">
+      <p class="pied-titre">Sommaire</p>
+      <ul><li><a href="/" data-libelle="Accueil">Accueil</a></li><li><a href="/visiter" data-libelle="Visiter">Visiter</a></li><li><a href="/ecoles" data-libelle="Écoles" aria-current="page">Écoles</a></li><li><a href="/le-site" data-libelle="Le site">Le site</a></li><li><a href="/agenda" data-libelle="Agenda">Agenda</a></li><li><a href="/contact" data-libelle="Contact">Contact</a></li></ul>
+    </nav>
+    <div>
+      <p class="pied-titre">Pratique</p>
+      <p>Site accessible toute l&#39;année, jour et nuit<br>Bureau : du lundi au vendredi, de 9 h à 17 h</p>
+      <ul><li><a href="#haut" data-sans-transition>Retour en haut</a></li></ul>
+    </div>
+    <div>
+      <p class="pied-titre">Suivre la villa</p>
+      <ul><li><a href="https://www.facebook.com/villagalloromainedemageroy/" target="_blank" rel="noopener">Facebook</a></li><li><a href="https://instagram.com/villamageroy" target="_blank" rel="noopener">Instagram</a></li><li><a href="https://www.youtube.com/@villademageroyahabaylaviei9904" target="_blank" rel="noopener">YouTube</a></li></ul>
+    </div>
+  </div>
+  <div class="conteneur pied-bas">
+    <p class="pied-soutiens">Avec le soutien de l&#39;Agence wallonne du Patrimoine, de la Province de Luxembourg, de la Commune de Habay, du Fonds Maribel socioculturel, du Forem et du programme européen LEADER.</p>
+    <p>Mentions légales : à compléter · Politique de confidentialité : à compléter</p>
+    <p>© 2026 ARC-HAB, groupe d&#39;Archéologie de Habay asbl · Maquette de démonstration : formulaires et réservations sont simulés.</p>
+  </div>
+</footer>
+<div data-barre-fixe>
+  <a class="bouton bouton--contour" href="tel:+3263758544">Appeler</a>
+  <a class="bouton" href="/visiter#reserver" data-libelle="Visiter">Réserver une visite</a>
+</div>
+</body>
+</html>

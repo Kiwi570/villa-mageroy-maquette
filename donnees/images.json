@@ -1,0 +1,3108 @@
+{
+  "logo-villa": {
+    "nom": "logo-villa",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-3.jpg",
+    "role": "logo",
+    "alt": "Villa romaine de Mageroy",
+    "grok": false,
+    "mention": null,
+    "beaute": null,
+    "empreinte": "e73c217605007d2f",
+    "ratio": null,
+    "largeurs": [
+      240,
+      480
+    ],
+    "mobile": null,
+    "cadrage": null,
+    "sujet": null,
+    "zones_calmes": null,
+    "zone_texte": null,
+    "recadrage": null,
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "logo-villa-240.webp",
+      "logo-villa-480.webp"
+    ],
+    "poids": {
+      "logo-villa-240.webp": 6684,
+      "logo-villa-480.webp": 16862
+    },
+    "media": "c.media({ nom: 'logo-villa', alt: \"Villa romaine de Mageroy\", sizes: '240px' })"
+  },
+  "accueil-coquelicots": {
+    "nom": "accueil-coquelicots",
+    "source": "recu/site/villa-mageroy-recu/jardins-memoire-mageroy-vivant.jpg",
+    "role": "ouverture",
+    "alt": "Les murs arasés de la villa de Mageroy au milieu des herbes, des coquelicots au premier plan et la forêt au fond",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "457ece04467250c6",
+    "ratio": "1:1",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "62% 55%"
+    },
+    "cadrage": "50% 55%",
+    "sujet": {
+      "x": 0.3,
+      "y": 13.2,
+      "l": 72.5,
+      "h": 63.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.18,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.08,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 290,
+      "top": 0,
+      "width": 1500,
+      "height": 1500,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,28 fois (source de 1500 px après recadrage)"
+    ],
+    "fichiers": [
+      "accueil-coquelicots-640.webp",
+      "accueil-coquelicots-1280.webp",
+      "accueil-coquelicots-1920.webp",
+      "accueil-coquelicots-mobile-640.webp",
+      "accueil-coquelicots-mobile-1080.webp"
+    ],
+    "poids": {
+      "accueil-coquelicots-640.webp": 114910,
+      "accueil-coquelicots-1280.webp": 304746,
+      "accueil-coquelicots-1920.webp": 469602,
+      "accueil-coquelicots-mobile-640.webp": 144506,
+      "accueil-coquelicots-mobile-1080.webp": 301498
+    },
+    "media": "c.media({ nom: 'accueil-coquelicots', alt: \"Les murs arasés de la villa de Mageroy au milieu des herbes, des coquelicots au premier plan et la forêt au fond\", cadrage: '50% 55%', cadrageMobile: '62% 55%', sizes: '100vw', priorite: true })"
+  },
+  "carte-visite-libre": {
+    "nom": "carte-visite-libre",
+    "source": "recu/site/villa-mageroy-recu/latrines1.jpg",
+    "role": "carte-service",
+    "alt": "Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "2dd8d9eef30b439b",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 34%",
+    "sujet": {
+      "x": 22.6,
+      "y": 23.5,
+      "l": 55.8,
+      "h": 20.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.33,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.27,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.27,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.26,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 480,
+      "top": 0,
+      "width": 1000,
+      "height": 1333,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "carte-visite-libre-480.webp",
+      "carte-visite-libre-640.webp",
+      "carte-visite-libre-784.webp"
+    ],
+    "poids": {
+      "carte-visite-libre-480.webp": 66632,
+      "carte-visite-libre-640.webp": 106734,
+      "carte-visite-libre-784.webp": 144818
+    },
+    "media": "c.media({ nom: 'carte-visite-libre', alt: \"Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre\", cadrage: '50% 34%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '3 / 4' })"
+  },
+  "carte-visite-guidee": {
+    "nom": "carte-visite-guidee",
+    "source": "recu/site/villa-mageroy-recu/scolaire.jpg",
+    "role": "carte-service",
+    "alt": "Un groupe suit le chemin de visite entre les vestiges de la villa",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "4a2573c7dca4b281",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 52%",
+    "sujet": {
+      "x": 0,
+      "y": 26.5,
+      "l": 52.5,
+      "h": 41.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.29,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.19,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.09,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 763,
+      "top": 0,
+      "width": 954,
+      "height": 1272,
+      "source": [
+        2000,
+        1272
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "carte-visite-guidee-480.webp",
+      "carte-visite-guidee-640.webp",
+      "carte-visite-guidee-784.webp"
+    ],
+    "poids": {
+      "carte-visite-guidee-480.webp": 77158,
+      "carte-visite-guidee-640.webp": 128596,
+      "carte-visite-guidee-784.webp": 176028
+    },
+    "media": "c.media({ nom: 'carte-visite-guidee', alt: \"Un groupe suit le chemin de visite entre les vestiges de la villa\", cadrage: '50% 52%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '3 / 4' })"
+  },
+  "carte-ecoles": {
+    "nom": "carte-ecoles",
+    "source": "recu/site/villa-mageroy-recu/public-scolaire.jpg",
+    "role": "carte-service",
+    "alt": "Des enfants façonnent des poteries en argile pendant un atelier",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "dc79d7faf228615f",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 0,
+      "y": 6.1,
+      "l": 86.5,
+      "h": 92.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.18,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.08,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.04,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 818,
+      "top": 0,
+      "width": 1004,
+      "height": 1339,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "carte-ecoles-480.webp",
+      "carte-ecoles-640.webp",
+      "carte-ecoles-784.webp"
+    ],
+    "poids": {
+      "carte-ecoles-480.webp": 32518,
+      "carte-ecoles-640.webp": 47682,
+      "carte-ecoles-784.webp": 62414
+    },
+    "media": "c.media({ nom: 'carte-ecoles', alt: \"Des enfants façonnent des poteries en argile pendant un atelier\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '3 / 4' })"
+  },
+  "carte-evenements": {
+    "nom": "carte-evenements",
+    "source": "recu/site/villa-mageroy-recu/mageroy-fil-eau-traces.jpg",
+    "role": "carte-service",
+    "alt": "Un groupe d'enfants au bord de l'étang du site, devant le pavillon d'accueil",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "c451bdfe3278f6d7",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 50%",
+    "sujet": {
+      "x": 7.6,
+      "y": 33.8,
+      "l": 81.1,
+      "h": 22.1
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.32,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.31,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.25,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 238,
+      "top": 0,
+      "width": 1125,
+      "height": 1500,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "recadrage fort (56 % de l'image gardée) sur une image qui contient du texte (marque) : texte coupé probable, choisir un autre rôle ou une autre image"
+    ],
+    "fichiers": [
+      "carte-evenements-480.webp",
+      "carte-evenements-640.webp",
+      "carte-evenements-784.webp"
+    ],
+    "poids": {
+      "carte-evenements-480.webp": 89978,
+      "carte-evenements-640.webp": 157666,
+      "carte-evenements-784.webp": 229356
+    },
+    "media": "c.media({ nom: 'carte-evenements', alt: \"Un groupe d'enfants au bord de l'étang du site, devant le pavillon d'accueil\", sizes: '(max-width: 760px) 100vw, 33vw', ratio: '3 / 4' })"
+  },
+  "domaine-vu-du-ciel": {
+    "nom": "domaine-vu-du-ciel",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-8.jpg",
+    "role": "section-fond",
+    "alt": "Vue aérienne zénithale du domaine de Mageroy : l'enclos, les murs de la villa, l'étang et les champs autour",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "803f804305f91f73",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 50%"
+    },
+    "cadrage": "50% 55%",
+    "sujet": {
+      "x": 39.7,
+      "y": 0,
+      "l": 23.5,
+      "h": 62.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.34,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.29,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.29,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 132,
+      "width": 2000,
+      "height": 1125,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "domaine-vu-du-ciel-640.webp",
+      "domaine-vu-du-ciel-1280.webp",
+      "domaine-vu-du-ciel-1920.webp",
+      "domaine-vu-du-ciel-mobile-640.webp",
+      "domaine-vu-du-ciel-mobile-1080.webp"
+    ],
+    "poids": {
+      "domaine-vu-du-ciel-640.webp": 67780,
+      "domaine-vu-du-ciel-1280.webp": 293316,
+      "domaine-vu-du-ciel-1920.webp": 448522,
+      "domaine-vu-du-ciel-mobile-640.webp": 178644,
+      "domaine-vu-du-ciel-mobile-1080.webp": 375830
+    },
+    "media": "c.media({ nom: 'domaine-vu-du-ciel', alt: \"Vue aérienne zénithale du domaine de Mageroy : l'enclos, les murs de la villa, l'étang et les champs autour\", cadrage: '50% 55%', cadrageMobile: '50% 50%', sizes: '100vw' })"
+  },
+  "evocation-villa": {
+    "nom": "evocation-villa",
+    "source": "recu/grok/evocation-villa.png",
+    "role": "galerie",
+    "alt": "Évocation d'une villa gallo-romaine à son apogée, au IIe siècle (illustration générée, pas une reconstitution scientifique de Mageroy)",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "b36dd2480b09076d",
+    "ratio": "3:2",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "38% 13%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 96.9,
+      "h": 73.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.35,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.06,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.02,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 1067,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "evocation-villa-480.webp",
+      "evocation-villa-640.webp",
+      "evocation-villa-960.webp"
+    ],
+    "poids": {
+      "evocation-villa-480.webp": 41034,
+      "evocation-villa-640.webp": 73978,
+      "evocation-villa-960.webp": 154300
+    },
+    "media": "c.media({ nom: 'evocation-villa', alt: \"Évocation d'une villa gallo-romaine à son apogée, au IIe siècle (illustration générée, pas une reconstitution scientifique de Mageroy)\", cadrage: '38% 13%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '3 / 2' })"
+  },
+  "ecoles-tablettes": {
+    "nom": "ecoles-tablettes",
+    "source": "recu/site/villa-mageroy-recu/stages-ete-2026-2.jpg",
+    "role": "galerie",
+    "alt": "Des enfants écrivent sur des tablettes de cire avec un stylet",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "b73aec3938f9916f",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 0,
+      "y": 0,
+      "l": 100,
+      "h": 91.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.24,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.02,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 419,
+      "top": 0,
+      "width": 1011,
+      "height": 1264,
+      "source": [
+        1848,
+        1264
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "recadrage fort (55 % de l'image gardée) sur une image qui contient du texte (marque) : texte coupé probable, choisir un autre rôle ou une autre image"
+    ],
+    "fichiers": [
+      "ecoles-tablettes-480.webp",
+      "ecoles-tablettes-640.webp",
+      "ecoles-tablettes-960.webp"
+    ],
+    "poids": {
+      "ecoles-tablettes-480.webp": 39330,
+      "ecoles-tablettes-640.webp": 61058,
+      "ecoles-tablettes-960.webp": 109038
+    },
+    "media": "c.media({ nom: 'ecoles-tablettes', alt: \"Des enfants écrivent sur des tablettes de cire avec un stylet\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "vivre-treviri": {
+    "nom": "vivre-treviri",
+    "source": "recu/site/villa-mageroy-recu/tabletterie.jpg",
+    "role": "galerie",
+    "alt": "Objets de tabletterie en os, corne et bois de cerf posés sur une peau, travail des Treviri",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "65d6eafb5f2828cf",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 62%",
+    "sujet": {
+      "x": 0,
+      "y": 47.1,
+      "l": 100,
+      "h": 52.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.08,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.04,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.01,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 232,
+      "top": 0,
+      "width": 929,
+      "height": 1161,
+      "source": [
+        1548,
+        1161
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "vivre-treviri-480.webp",
+      "vivre-treviri-640.webp",
+      "vivre-treviri-960.webp"
+    ],
+    "poids": {
+      "vivre-treviri-480.webp": 75966,
+      "vivre-treviri-640.webp": 131976,
+      "vivre-treviri-960.webp": 253996
+    },
+    "media": "c.media({ nom: 'vivre-treviri', alt: \"Objets de tabletterie en os, corne et bois de cerf posés sur une peau, travail des Treviri\", cadrage: '50% 62%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "vivre-olitores": {
+    "nom": "vivre-olitores",
+    "source": "recu/site/villa-mageroy-recu/plantes-aromatiques.jpg",
+    "role": "galerie",
+    "alt": "Persil et plantes aromatiques du jardin gallo-romain des Olitores",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "93baf14d8c262c5e",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 55%",
+    "sujet": {
+      "x": 7.7,
+      "y": 11.8,
+      "l": 92.3,
+      "h": 67.6
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.19,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.18,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.08,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 63,
+      "top": 0,
+      "width": 1014,
+      "height": 1267,
+      "source": [
+        1900,
+        1267
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "vivre-olitores-480.webp",
+      "vivre-olitores-640.webp",
+      "vivre-olitores-960.webp"
+    ],
+    "poids": {
+      "vivre-olitores-480.webp": 73948,
+      "vivre-olitores-640.webp": 113076,
+      "vivre-olitores-960.webp": 196580
+    },
+    "media": "c.media({ nom: 'vivre-olitores', alt: \"Persil et plantes aromatiques du jardin gallo-romain des Olitores\", cadrage: '50% 55%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "vivre-benevoles": {
+    "nom": "vivre-benevoles",
+    "source": "recu/site/villa-mageroy-recu/ein-uberblick-uber-ihre.jpg",
+    "role": "galerie",
+    "alt": "Deux fouilleurs dégagent des vestiges à la truelle",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "5eaa1257c77f9dbe",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 0,
+      "y": 14.3,
+      "l": 100,
+      "h": 63.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.23,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.15,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.11,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.03,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 625,
+      "top": 0,
+      "width": 1071,
+      "height": 1339,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "vivre-benevoles-480.webp",
+      "vivre-benevoles-640.webp",
+      "vivre-benevoles-960.webp"
+    ],
+    "poids": {
+      "vivre-benevoles-480.webp": 49164,
+      "vivre-benevoles-640.webp": 74158,
+      "vivre-benevoles-960.webp": 129746
+    },
+    "media": "c.media({ nom: 'vivre-benevoles', alt: \"Deux fouilleurs dégagent des vestiges à la truelle\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "venir-pavillon": {
+    "nom": "venir-pavillon",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-13.jpg",
+    "role": "galerie",
+    "alt": "Le pavillon d'accueil vitré derrière les vestiges de la villa",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "b91aef880ff34fca",
+    "ratio": "3:2",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "49% 39%",
+    "sujet": {
+      "x": 26.5,
+      "y": 22.1,
+      "l": 47.1,
+      "h": 38.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.16,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.14,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1417,
+      "height": 945,
+      "source": [
+        1417,
+        945
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "venir-pavillon-480.webp",
+      "venir-pavillon-640.webp",
+      "venir-pavillon-960.webp"
+    ],
+    "poids": {
+      "venir-pavillon-480.webp": 40776,
+      "venir-pavillon-640.webp": 68944,
+      "venir-pavillon-960.webp": 137078
+    },
+    "media": "c.media({ nom: 'venir-pavillon', alt: \"Le pavillon d'accueil vitré derrière les vestiges de la villa\", cadrage: '49% 39%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '3 / 2' })"
+  },
+  "trouvaille": {
+    "nom": "trouvaille",
+    "source": "recu/site/villa-mageroy-recu/decouvrez-archeologie-action-portes.jpg",
+    "role": "vignette",
+    "alt": "Deux mains tiennent un objet tout juste sorti de la fouille",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "b1f1dec9718854c2",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "51% 50%",
+    "sujet": {
+      "x": 0.1,
+      "y": 14.8,
+      "l": 99.9,
+      "h": 85
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.06,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1200,
+      "height": 1600,
+      "source": [
+        1200,
+        1600
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1200 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "trouvaille-480.webp",
+      "trouvaille-640.webp",
+      "trouvaille-800.webp"
+    ],
+    "poids": {
+      "trouvaille-480.webp": 32198,
+      "trouvaille-640.webp": 47952,
+      "trouvaille-800.webp": 64180
+    },
+    "media": "c.media({ nom: 'trouvaille', alt: \"Deux mains tiennent un objet tout juste sorti de la fouille\", cadrage: '51% 50%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '3 / 4' })"
+  },
+  "appel-crepuscule": {
+    "nom": "appel-crepuscule",
+    "source": "recu/grok/crepuscule.png",
+    "role": "section-fond",
+    "alt": "Les murs bas d'un domaine romain à la tombée du jour (illustration générée)",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "e7e72280fa1687b9",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "47% 51%"
+    },
+    "cadrage": "49% 49%",
+    "sujet": {
+      "x": 18.8,
+      "y": 37.9,
+      "l": 56.3,
+      "h": 54.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.87,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.62,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.57,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.43,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,2 fois (source de 1600 px après recadrage)"
+    ],
+    "fichiers": [
+      "appel-crepuscule-640.webp",
+      "appel-crepuscule-1280.webp",
+      "appel-crepuscule-1920.webp",
+      "appel-crepuscule-mobile-640.webp",
+      "appel-crepuscule-mobile-1080.webp"
+    ],
+    "poids": {
+      "appel-crepuscule-640.webp": 21922,
+      "appel-crepuscule-1280.webp": 66288,
+      "appel-crepuscule-1920.webp": 107296,
+      "appel-crepuscule-mobile-640.webp": 67906,
+      "appel-crepuscule-mobile-1080.webp": 123058
+    },
+    "media": "c.media({ nom: 'appel-crepuscule', alt: \"Les murs bas d'un domaine romain à la tombée du jour (illustration générée)\", cadrage: '49% 49%', cadrageMobile: '47% 51%', sizes: '100vw' })"
+  },
+  "visiter-vestiges-pavillon": {
+    "nom": "visiter-vestiges-pavillon",
+    "source": "recu/site/villa-mageroy-recu/logo.jpg",
+    "role": "ouverture",
+    "alt": "Les fondations de la villa au premier plan, deux cyprès et le pavillon d'accueil au fond sous un ciel bleu",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "079fc4801dad1aee",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 50%"
+    },
+    "cadrage": "45% 50%",
+    "sujet": {
+      "x": 11.8,
+      "y": 26,
+      "l": 54.4,
+      "h": 40.7
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.62,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.28,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.18,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.14,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 144,
+      "width": 2000,
+      "height": 1125,
+      "source": [
+        2000,
+        1413
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "visiter-vestiges-pavillon-640.webp",
+      "visiter-vestiges-pavillon-1280.webp",
+      "visiter-vestiges-pavillon-1920.webp",
+      "visiter-vestiges-pavillon-mobile-640.webp",
+      "visiter-vestiges-pavillon-mobile-1080.webp"
+    ],
+    "poids": {
+      "visiter-vestiges-pavillon-640.webp": 61774,
+      "visiter-vestiges-pavillon-1280.webp": 238640,
+      "visiter-vestiges-pavillon-1920.webp": 336446,
+      "visiter-vestiges-pavillon-mobile-640.webp": 170270,
+      "visiter-vestiges-pavillon-mobile-1080.webp": 280092
+    },
+    "media": "c.media({ nom: 'visiter-vestiges-pavillon', alt: \"Les fondations de la villa au premier plan, deux cyprès et le pavillon d'accueil au fond sous un ciel bleu\", cadrage: '45% 50%', cadrageMobile: '50% 50%', sizes: '100vw', priorite: true })"
+  },
+  "visiter-guide": {
+    "nom": "visiter-guide",
+    "source": "recu/site/villa-mageroy-recu/soutenir-asbl-arc-hab-2.jpg",
+    "role": "galerie",
+    "alt": "Une guide montre un panneau à un visiteur sur le site",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "98d66395555b25c9",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 41%",
+    "sujet": {
+      "x": 26.1,
+      "y": 22.1,
+      "l": 47.2,
+      "h": 62.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.72,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.39,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.23,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1269,
+      "height": 952,
+      "source": [
+        1269,
+        952
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1269 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "visiter-guide-480.webp",
+      "visiter-guide-640.webp",
+      "visiter-guide-960.webp"
+    ],
+    "poids": {
+      "visiter-guide-480.webp": 30500,
+      "visiter-guide-640.webp": 49222,
+      "visiter-guide-960.webp": 89760
+    },
+    "media": "c.media({ nom: 'visiter-guide', alt: \"Une guide montre un panneau à un visiteur sur le site\", cadrage: '50% 41%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 3' })"
+  },
+  "visiter-combinee": {
+    "nom": "visiter-combinee",
+    "source": "recu/site/villa-mageroy-recu/biere-antiquite-oktoberfeest-mageroy.jpg",
+    "role": "galerie",
+    "alt": "Amphore, cruches et tonneau posés dans l'herbe devant les vestiges",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "c638945f03c5a892",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "55% 68%",
+    "sujet": {
+      "x": 69,
+      "y": 64.4,
+      "l": 25.9,
+      "h": 24.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.24,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.15,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 125,
+      "width": 1500,
+      "height": 1875,
+      "source": [
+        1500,
+        2000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "visiter-combinee-480.webp",
+      "visiter-combinee-640.webp",
+      "visiter-combinee-960.webp"
+    ],
+    "poids": {
+      "visiter-combinee-480.webp": 109900,
+      "visiter-combinee-640.webp": 203050,
+      "visiter-combinee-960.webp": 307036
+    },
+    "media": "c.media({ nom: 'visiter-combinee', alt: \"Amphore, cruches et tonneau posés dans l'herbe devant les vestiges\", cadrage: '55% 68%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "visiter-conference": {
+    "nom": "visiter-conference",
+    "source": "recu/site/villa-mageroy-recu/soutenir-asbl-arc-hab.jpg",
+    "role": "vignette",
+    "alt": "Une conférence dans la salle du pavillon d'accueil",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "a14778a5999c7ef7",
+    "ratio": "3:2",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "58% 45%",
+    "sujet": {
+      "x": 27.9,
+      "y": 35.5,
+      "l": 58.8,
+      "h": 19.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.55,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.32,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.28,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.17,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1333,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "visiter-conference-480.webp",
+      "visiter-conference-640.webp",
+      "visiter-conference-800.webp"
+    ],
+    "poids": {
+      "visiter-conference-480.webp": 21454,
+      "visiter-conference-640.webp": 33648,
+      "visiter-conference-800.webp": 45998
+    },
+    "media": "c.media({ nom: 'visiter-conference', alt: \"Une conférence dans la salle du pavillon d'accueil\", cadrage: '58% 45%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '3 / 2' })"
+  },
+  "ecoles-legionnaires": {
+    "nom": "ecoles-legionnaires",
+    "source": "recu/site/villa-mageroy-recu/anniversaires-enfants.jpg",
+    "role": "ouverture",
+    "alt": "Des enfants déguisés en légionnaires derrière leurs boucliers de carton peints, devant le pavillon d'accueil",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "92091c882fafe87d",
+    "ratio": "21:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 55%"
+    },
+    "cadrage": "62% 50%",
+    "sujet": {
+      "x": 65.9,
+      "y": 21.4,
+      "l": 21.3,
+      "h": 68.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.12,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 308,
+      "width": 2000,
+      "height": 857,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "ecoles-legionnaires-640.webp",
+      "ecoles-legionnaires-1280.webp",
+      "ecoles-legionnaires-1920.webp",
+      "ecoles-legionnaires-mobile-640.webp",
+      "ecoles-legionnaires-mobile-1080.webp"
+    ],
+    "poids": {
+      "ecoles-legionnaires-640.webp": 47062,
+      "ecoles-legionnaires-1280.webp": 155498,
+      "ecoles-legionnaires-1920.webp": 289562,
+      "ecoles-legionnaires-mobile-640.webp": 107000,
+      "ecoles-legionnaires-mobile-1080.webp": 226198
+    },
+    "media": "c.media({ nom: 'ecoles-legionnaires', alt: \"Des enfants déguisés en légionnaires derrière leurs boucliers de carton peints, devant le pavillon d'accueil\", cadrage: '62% 50%', cadrageMobile: '50% 55%', sizes: '100vw', priorite: true })"
+  },
+  "atelier-ceramique": {
+    "nom": "atelier-ceramique",
+    "source": "recu/site/villa-mageroy-recu/public-scolaire.jpg",
+    "role": "carte-service",
+    "alt": "Atelier céramique : des enfants montent leurs poteries aux colombins",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "31e6217f8f9a6786",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "62% 45%",
+    "sujet": {
+      "x": 0,
+      "y": 6.1,
+      "l": 82.9,
+      "h": 92.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.18,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.08,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.04,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 206,
+      "top": 0,
+      "width": 1785,
+      "height": 1339,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-ceramique-480.webp",
+      "atelier-ceramique-640.webp",
+      "atelier-ceramique-784.webp"
+    ],
+    "poids": {
+      "atelier-ceramique-480.webp": 24846,
+      "atelier-ceramique-640.webp": 36384,
+      "atelier-ceramique-784.webp": 47352
+    },
+    "media": "c.media({ nom: 'atelier-ceramique', alt: \"Atelier céramique : des enfants montent leurs poteries aux colombins\", cadrage: '62% 45%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-mosaique": {
+    "nom": "atelier-mosaique",
+    "source": "recu/site/villa-mageroy-recu/public-scolaire-2.jpg",
+    "role": "carte-service",
+    "alt": "Atelier mosaïque : une élève pose des tesselles sur son motif",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "aa80b2ddc8909b8d",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 55%",
+    "sujet": {
+      "x": 19.7,
+      "y": 21.2,
+      "l": 50.2,
+      "h": 78.5
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.49,
+        "ton": "clair"
+      },
+      {
+        "cote": "haut",
+        "score": 0.42,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.23,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.21,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 108,
+      "top": 0,
+      "width": 1785,
+      "height": 1339,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "compression visible"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-mosaique-480.webp",
+      "atelier-mosaique-640.webp",
+      "atelier-mosaique-784.webp"
+    ],
+    "poids": {
+      "atelier-mosaique-480.webp": 15802,
+      "atelier-mosaique-640.webp": 22670,
+      "atelier-mosaique-784.webp": 28940
+    },
+    "media": "c.media({ nom: 'atelier-mosaique', alt: \"Atelier mosaïque : une élève pose des tesselles sur son motif\", cadrage: '50% 55%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-alimentation": {
+    "nom": "atelier-alimentation",
+    "source": "recu/site/villa-mageroy-recu/public-scolaire-3.jpg",
+    "role": "carte-service",
+    "alt": "Atelier alimentation : des élèves préparent une recette romaine",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "801176c589ad4c8d",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 1.3,
+      "y": 17,
+      "l": 98.7,
+      "h": 83
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.1,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1500,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-alimentation-480.webp",
+      "atelier-alimentation-640.webp",
+      "atelier-alimentation-784.webp"
+    ],
+    "poids": {
+      "atelier-alimentation-480.webp": 37074,
+      "atelier-alimentation-640.webp": 60984,
+      "atelier-alimentation-784.webp": 84466
+    },
+    "media": "c.media({ nom: 'atelier-alimentation', alt: \"Atelier alimentation : des élèves préparent une recette romaine\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-enfance": {
+    "nom": "atelier-enfance",
+    "source": "recu/site/villa-mageroy-recu/stages-ete-2026-2.jpg",
+    "role": "carte-service",
+    "alt": "Atelier enfance gallo-romaine : écrire sur des tablettes de cire",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "3ddbe655bc4c28e1",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 40%",
+    "sujet": {
+      "x": 2,
+      "y": 0,
+      "l": 98,
+      "h": 91.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.24,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.02,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 82,
+      "top": 0,
+      "width": 1685,
+      "height": 1264,
+      "source": [
+        1848,
+        1264
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-enfance-480.webp",
+      "atelier-enfance-640.webp",
+      "atelier-enfance-784.webp"
+    ],
+    "poids": {
+      "atelier-enfance-480.webp": 25816,
+      "atelier-enfance-640.webp": 39708,
+      "atelier-enfance-784.webp": 54110
+    },
+    "media": "c.media({ nom: 'atelier-enfance', alt: \"Atelier enfance gallo-romaine : écrire sur des tablettes de cire\", cadrage: '50% 40%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-stratification": {
+    "nom": "atelier-stratification",
+    "source": "recu/site/villa-mageroy-recu/stages.jpg",
+    "role": "carte-service",
+    "alt": "Des enfants avec leurs boucliers au bord de l'étang",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "834ff2e780407e3a",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 55%",
+    "sujet": {
+      "x": 14.6,
+      "y": 21.3,
+      "l": 68.5,
+      "h": 74.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.16,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 72,
+      "top": 0,
+      "width": 1777,
+      "height": 1333,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-stratification-480.webp",
+      "atelier-stratification-640.webp",
+      "atelier-stratification-784.webp"
+    ],
+    "poids": {
+      "atelier-stratification-480.webp": 36922,
+      "atelier-stratification-640.webp": 61966,
+      "atelier-stratification-784.webp": 89330
+    },
+    "media": "c.media({ nom: 'atelier-stratification', alt: \"Des enfants avec leurs boucliers au bord de l'étang\", cadrage: '50% 55%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-fouille": {
+    "nom": "atelier-fouille",
+    "source": "recu/site/villa-mageroy-recu/stages-ete-2026.jpg",
+    "role": "carte-service",
+    "alt": "Initiation à la fouille : des enfants dégagent la terre à la truelle",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "77863a430d28b6c9",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 50%",
+    "sujet": {
+      "x": 16.4,
+      "y": 7.6,
+      "l": 70.1,
+      "h": 92.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.21,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.11,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.05,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.03,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 478,
+      "width": 1500,
+      "height": 1125,
+      "source": [
+        1500,
+        2000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "recadrage fort (56 % de l'image gardée) sur une image qui contient du texte (marque) : texte coupé probable, choisir un autre rôle ou une autre image"
+    ],
+    "fichiers": [
+      "atelier-fouille-480.webp",
+      "atelier-fouille-640.webp",
+      "atelier-fouille-784.webp"
+    ],
+    "poids": {
+      "atelier-fouille-480.webp": 47656,
+      "atelier-fouille-640.webp": 79724,
+      "atelier-fouille-784.webp": 115050
+    },
+    "media": "c.media({ nom: 'atelier-fouille', alt: \"Initiation à la fouille : des enfants dégagent la terre à la truelle\", sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-sport": {
+    "nom": "atelier-sport",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-16.jpg",
+    "role": "carte-service",
+    "alt": "Des enfants s'exercent avec boucliers et épées en bois sur la pelouse",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "103b0d07ea85b01f",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "52% 43%",
+    "sujet": {
+      "x": 6.4,
+      "y": 24,
+      "l": 90.5,
+      "h": 64.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.12,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.12,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.05,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.03,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1060,
+      "height": 795,
+      "source": [
+        1060,
+        795
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1060 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-sport-480.webp",
+      "atelier-sport-640.webp",
+      "atelier-sport-784.webp"
+    ],
+    "poids": {
+      "atelier-sport-480.webp": 54592,
+      "atelier-sport-640.webp": 96904,
+      "atelier-sport-784.webp": 140114
+    },
+    "media": "c.media({ nom: 'atelier-sport', alt: \"Des enfants s'exercent avec boucliers et épées en bois sur la pelouse\", cadrage: '52% 43%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "atelier-objets": {
+    "nom": "atelier-objets",
+    "source": "recu/site/villa-mageroy-recu/decouvrez-archeologie-action-portes.jpg",
+    "role": "carte-service",
+    "alt": "Un objet ancien tenu dans deux mains, prêt à raconter son histoire",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "1f934fff368255ae",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 50%",
+    "sujet": {
+      "x": 0.1,
+      "y": 0,
+      "l": 99.9,
+      "h": 100
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.06,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 270,
+      "width": 1200,
+      "height": 900,
+      "source": [
+        1200,
+        1600
+      ]
+    },
+    "faible": true,
+    "raisons_faible": [
+      "1200 px de large"
+    ],
+    "avertissements": [],
+    "fichiers": [
+      "atelier-objets-480.webp",
+      "atelier-objets-640.webp",
+      "atelier-objets-784.webp"
+    ],
+    "poids": {
+      "atelier-objets-480.webp": 20998,
+      "atelier-objets-640.webp": 31256,
+      "atelier-objets-784.webp": 42144
+    },
+    "media": "c.media({ nom: 'atelier-objets', alt: \"Un objet ancien tenu dans deux mains, prêt à raconter son histoire\", sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "dossier-pedagogique": {
+    "nom": "dossier-pedagogique",
+    "source": "recu/site/villa-mageroy-recu/publications.jpg",
+    "role": "vignette",
+    "alt": "Le dossier pédagogique « Mageroy » et ses fiches",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "9d02d0571b4bc3a6",
+    "ratio": "3:4",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "50% 54%",
+    "sujet": {
+      "x": 5.5,
+      "y": 8.3,
+      "l": 84.1,
+      "h": 91.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.25,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.21,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.14,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.04,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1500,
+      "height": 2000,
+      "source": [
+        1500,
+        2000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "dossier-pedagogique-480.webp",
+      "dossier-pedagogique-640.webp",
+      "dossier-pedagogique-800.webp"
+    ],
+    "poids": {
+      "dossier-pedagogique-480.webp": 41456,
+      "dossier-pedagogique-640.webp": 65970,
+      "dossier-pedagogique-800.webp": 90408
+    },
+    "media": "c.media({ nom: 'dossier-pedagogique', alt: \"Le dossier pédagogique « Mageroy » et ses fiches\", cadrage: '50% 54%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '3 / 4' })"
+  },
+  "site-fouilles": {
+    "nom": "site-fouilles",
+    "source": "recu/site/villa-mageroy-recu/fouilles.jpg",
+    "role": "ouverture",
+    "alt": "Vue plongeante sur un sondage : quatre fouilleurs dégagent des tuiles et des pierres",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "652fb38651eacad7",
+    "ratio": "1:1",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 48%"
+    },
+    "cadrage": "50% 48%",
+    "sujet": {
+      "x": 0,
+      "y": 7.4,
+      "l": 100,
+      "h": 92.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.19,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.15,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 231,
+      "top": 0,
+      "width": 1339,
+      "height": 1339,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,43 fois (source de 1339 px après recadrage)"
+    ],
+    "fichiers": [
+      "site-fouilles-640.webp",
+      "site-fouilles-1280.webp",
+      "site-fouilles-1920.webp",
+      "site-fouilles-mobile-640.webp",
+      "site-fouilles-mobile-1080.webp"
+    ],
+    "poids": {
+      "site-fouilles-640.webp": 75080,
+      "site-fouilles-1280.webp": 209768,
+      "site-fouilles-1920.webp": 261412,
+      "site-fouilles-mobile-640.webp": 91540,
+      "site-fouilles-mobile-1080.webp": 184326
+    },
+    "media": "c.media({ nom: 'site-fouilles', alt: \"Vue plongeante sur un sondage : quatre fouilleurs dégagent des tuiles et des pierres\", cadrage: '50% 48%', cadrageMobile: '50% 48%', sizes: '100vw', priorite: true })"
+  },
+  "site-fouilleur": {
+    "nom": "site-fouilleur",
+    "source": "recu/site/villa-mageroy-recu/journees-fouille.jpg",
+    "role": "galerie",
+    "alt": "Un jeune fouilleur accroupi nettoie un niveau de terre",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "539bf34b986309b2",
+    "ratio": "1:1",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 17.4,
+      "y": 5.9,
+      "l": 58.5,
+      "h": 84
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.23,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.14,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.09,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.03,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 91,
+      "top": 0,
+      "width": 1299,
+      "height": 1299,
+      "source": [
+        1948,
+        1299
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "site-fouilleur-480.webp",
+      "site-fouilleur-640.webp",
+      "site-fouilleur-960.webp"
+    ],
+    "poids": {
+      "site-fouilleur-480.webp": 43204,
+      "site-fouilleur-640.webp": 66510,
+      "site-fouilleur-960.webp": 122978
+    },
+    "media": "c.media({ nom: 'site-fouilleur', alt: \"Un jeune fouilleur accroupi nettoie un niveau de terre\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '1 / 1' })"
+  },
+  "site-murs": {
+    "nom": "site-murs",
+    "source": "recu/site/villa-mageroy-recu/public-adultes-2.jpg",
+    "role": "galerie",
+    "alt": "Murs de fondation de la villa dans l'herbe, collines boisées au fond",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "bdffeda20f8f51f6",
+    "ratio": "1:1",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 48%",
+    "sujet": {
+      "x": 18.2,
+      "y": 30.9,
+      "l": 64.2,
+      "h": 30.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.35,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0.31,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.24,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 376,
+      "top": 0,
+      "width": 1328,
+      "height": 1328,
+      "source": [
+        2000,
+        1328
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "site-murs-480.webp",
+      "site-murs-640.webp",
+      "site-murs-960.webp"
+    ],
+    "poids": {
+      "site-murs-480.webp": 54188,
+      "site-murs-640.webp": 96598,
+      "site-murs-960.webp": 216004
+    },
+    "media": "c.media({ nom: 'site-murs', alt: \"Murs de fondation de la villa dans l'herbe, collines boisées au fond\", cadrage: '50% 48%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '1 / 1' })"
+  },
+  "site-aerien": {
+    "nom": "site-aerien",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-5.jpg",
+    "role": "section-fond",
+    "alt": "Vue aérienne du domaine de Mageroy entouré de champs",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "e4e5823e7fec8964",
+    "ratio": "4:3",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 50%"
+    },
+    "cadrage": "48% 50%",
+    "sujet": {
+      "x": 27.9,
+      "y": 33.8,
+      "l": 33.8,
+      "h": 38.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.64,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.58,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.52,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.5,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1500,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "site-aerien-640.webp",
+      "site-aerien-1280.webp",
+      "site-aerien-1920.webp",
+      "site-aerien-mobile-640.webp",
+      "site-aerien-mobile-1080.webp"
+    ],
+    "poids": {
+      "site-aerien-640.webp": 61038,
+      "site-aerien-1280.webp": 243248,
+      "site-aerien-1920.webp": 287754,
+      "site-aerien-mobile-640.webp": 105788,
+      "site-aerien-mobile-1080.webp": 276994
+    },
+    "media": "c.media({ nom: 'site-aerien', alt: \"Vue aérienne du domaine de Mageroy entouré de champs\", cadrage: '48% 50%', cadrageMobile: '50% 50%', sizes: '100vw' })"
+  },
+  "site-vallee": {
+    "nom": "site-vallee",
+    "source": "recu/site/villa-mageroy-recu/public-scolaire-5.jpg",
+    "role": "galerie",
+    "alt": "Les vestiges de la villa dans le creux de la vallée",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "6ce9c7cbf79e4477",
+    "ratio": "16:9",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 13.2,
+      "y": 11.8,
+      "l": 75,
+      "h": 58.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.31,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.21,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.1,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1125,
+      "source": [
+        2000,
+        1125
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "site-vallee-480.webp",
+      "site-vallee-640.webp",
+      "site-vallee-960.webp"
+    ],
+    "poids": {
+      "site-vallee-480.webp": 28954,
+      "site-vallee-640.webp": 54510,
+      "site-vallee-960.webp": 127402
+    },
+    "media": "c.media({ nom: 'site-vallee', alt: \"Les vestiges de la villa dans le creux de la vallée\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '16 / 9' })"
+  },
+  "agenda-fete-romaine": {
+    "nom": "agenda-fete-romaine",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-4.jpg",
+    "role": "ouverture",
+    "alt": "Des reconstitueurs en tunique devant une table de mets romains lors d'une fête à Mageroy",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "ef61d85689ed366c",
+    "ratio": "3:2",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:3",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "57% 40%"
+    },
+    "cadrage": "62% 40%",
+    "sujet": {
+      "x": 0.1,
+      "y": 6.9,
+      "l": 99.9,
+      "h": 93.1
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1900,
+      "height": 1267,
+      "source": [
+        1900,
+        1267
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "agenda-fete-romaine-640.webp",
+      "agenda-fete-romaine-1280.webp",
+      "agenda-fete-romaine-1920.webp",
+      "agenda-fete-romaine-mobile-640.webp",
+      "agenda-fete-romaine-mobile-1080.webp"
+    ],
+    "poids": {
+      "agenda-fete-romaine-640.webp": 49496,
+      "agenda-fete-romaine-1280.webp": 132306,
+      "agenda-fete-romaine-1920.webp": 216074,
+      "agenda-fete-romaine-mobile-640.webp": 53996,
+      "agenda-fete-romaine-mobile-1080.webp": 114244
+    },
+    "media": "c.media({ nom: 'agenda-fete-romaine', alt: \"Des reconstitueurs en tunique devant une table de mets romains lors d'une fête à Mageroy\", cadrage: '62% 40%', cadrageMobile: '57% 40%', sizes: '100vw', priorite: true })"
+  },
+  "affiche-saint-nicolas": {
+    "nom": "affiche-saint-nicolas",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy.png",
+    "role": "vignette",
+    "alt": "Affiche de la chasse aux signes de Saint-Nicolas, samedi 5 décembre 2026",
+    "grok": false,
+    "mention": null,
+    "beaute": 3,
+    "empreinte": "cc2bd21eb2acaed2",
+    "ratio": "5:7",
+    "largeurs": [
+      480,
+      640,
+      800
+    ],
+    "mobile": null,
+    "cadrage": "46% 38%",
+    "sujet": {
+      "x": 0,
+      "y": 5.1,
+      "l": 85,
+      "h": 94.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 19,
+      "width": 1415,
+      "height": 1981,
+      "source": [
+        1415,
+        2000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "affiche-saint-nicolas-480.webp",
+      "affiche-saint-nicolas-640.webp",
+      "affiche-saint-nicolas-800.webp"
+    ],
+    "poids": {
+      "affiche-saint-nicolas-480.webp": 60870,
+      "affiche-saint-nicolas-640.webp": 92798,
+      "affiche-saint-nicolas-800.webp": 128412
+    },
+    "media": "c.media({ nom: 'affiche-saint-nicolas', alt: \"Affiche de la chasse aux signes de Saint-Nicolas, samedi 5 décembre 2026\", cadrage: '46% 38%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '5 / 7' })"
+  },
+  "contact-pavillon": {
+    "nom": "contact-pavillon",
+    "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-12.jpg",
+    "role": "ouverture",
+    "alt": "Le pavillon d'accueil vitré se reflète dans l'étang du site",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "55d2b6794e4454d6",
+    "ratio": "21:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "4:5",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 40%"
+    },
+    "cadrage": "30% 50%",
+    "sujet": {
+      "x": 11.8,
+      "y": 10.6,
+      "l": 57.4,
+      "h": 64.1
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.25,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.21,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.16,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.11,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 105,
+      "width": 2000,
+      "height": 857,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "contact-pavillon-640.webp",
+      "contact-pavillon-1280.webp",
+      "contact-pavillon-1920.webp",
+      "contact-pavillon-mobile-640.webp",
+      "contact-pavillon-mobile-1080.webp"
+    ],
+    "poids": {
+      "contact-pavillon-640.webp": 51038,
+      "contact-pavillon-1280.webp": 189686,
+      "contact-pavillon-1920.webp": 297826,
+      "contact-pavillon-mobile-640.webp": 117270,
+      "contact-pavillon-mobile-1080.webp": 264088
+    },
+    "media": "c.media({ nom: 'contact-pavillon', alt: \"Le pavillon d'accueil vitré se reflète dans l'étang du site\", cadrage: '30% 50%', cadrageMobile: '50% 40%', sizes: '100vw', priorite: true })"
+  },
+  "page-404": {
+    "nom": "page-404",
+    "source": "recu/grok/fouille-vide.png",
+    "role": "404",
+    "alt": "Un carré de fouille vide, une truelle posée au bord (illustration générée)",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "0609f3181cf4c958",
+    "ratio": "16:9",
+    "largeurs": [
+      800,
+      1600
+    ],
+    "mobile": null,
+    "cadrage": "50% 56%",
+    "sujet": {
+      "x": 3.1,
+      "y": 7.8,
+      "l": 93.8,
+      "h": 86.8
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.25,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.09,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.09,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.03,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 174,
+      "width": 1600,
+      "height": 900,
+      "source": [
+        1600,
+        1074
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "page-404-800.webp",
+      "page-404-1600.webp"
+    ],
+    "poids": {
+      "page-404-800.webp": 131612,
+      "page-404-1600.webp": 283802
+    },
+    "media": "c.media({ nom: 'page-404', alt: \"Un carré de fouille vide, une truelle posée au bord (illustration générée)\", cadrage: '50% 56%', sizes: '100vw', ratio: '16 / 9' })"
+  },
+  "fin-visiter": {
+    "nom": "fin-visiter",
+    "source": "recu/site/villa-mageroy-recu/latrines1.jpg",
+    "role": "section-fond",
+    "alt": "Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "0c2bd64ad3d4d1ad",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 40%"
+    },
+    "cadrage": "49% 47%",
+    "sujet": {
+      "x": 35.3,
+      "y": 27.8,
+      "l": 27.9,
+      "h": 24.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.33,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.27,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.27,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.26,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 2000,
+      "height": 1125,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "fin-visiter-640.webp",
+      "fin-visiter-1280.webp",
+      "fin-visiter-1920.webp",
+      "fin-visiter-mobile-640.webp",
+      "fin-visiter-mobile-1080.webp"
+    ],
+    "poids": {
+      "fin-visiter-640.webp": 49940,
+      "fin-visiter-1280.webp": 158800,
+      "fin-visiter-1920.webp": 291284,
+      "fin-visiter-mobile-640.webp": 124456,
+      "fin-visiter-mobile-1080.webp": 223728
+    },
+    "media": "c.media({ nom: 'fin-visiter', alt: \"Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre\", cadrage: '49% 47%', cadrageMobile: '50% 40%', sizes: '100vw' })"
+  },
+  "fin-ecoles": {
+    "nom": "fin-ecoles",
+    "source": "recu/site/villa-mageroy-recu/stages.jpg",
+    "role": "section-fond",
+    "alt": "Des enfants avec leurs boucliers peints au bord de l'étang du site",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "125f92079ce95d51",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640,
+        1080
+      ],
+      "cadrage": "50% 55%"
+    },
+    "cadrage": "49% 50%",
+    "sujet": {
+      "x": 16.6,
+      "y": 10,
+      "l": 60.9,
+      "h": 87.9
+    },
+    "zones_calmes": [
+      {
+        "cote": "droite",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.16,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 171,
+      "width": 2000,
+      "height": 1125,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "fin-ecoles-640.webp",
+      "fin-ecoles-1280.webp",
+      "fin-ecoles-1920.webp",
+      "fin-ecoles-mobile-640.webp",
+      "fin-ecoles-mobile-1080.webp"
+    ],
+    "poids": {
+      "fin-ecoles-640.webp": 49918,
+      "fin-ecoles-1280.webp": 163936,
+      "fin-ecoles-1920.webp": 282328,
+      "fin-ecoles-mobile-640.webp": 89478,
+      "fin-ecoles-mobile-1080.webp": 159410
+    },
+    "media": "c.media({ nom: 'fin-ecoles', alt: \"Des enfants avec leurs boucliers peints au bord de l'étang du site\", cadrage: '49% 50%', cadrageMobile: '50% 55%', sizes: '100vw' })"
+  },
+  "fin-site": {
+    "nom": "fin-site",
+    "source": "recu/site/villa-mageroy-recu/1er-juillet-28-aout.png",
+    "role": "section-fond",
+    "alt": "Le domaine de Mageroy vu du ciel, au milieu des prés",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "1e4c043219312dcb",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640
+      ],
+      "cadrage": "50% 45%"
+    },
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 39.6,
+      "y": 19.1,
+      "l": 19.8,
+      "h": 38.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.51,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.46,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.39,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.32,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1509,
+      "height": 849,
+      "source": [
+        1566,
+        849
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "version téléphone sans 1080 px (source trop petite)",
+      "agrandie 1,27 fois (source de 1509 px après recadrage)"
+    ],
+    "fichiers": [
+      "fin-site-640.webp",
+      "fin-site-1280.webp",
+      "fin-site-1920.webp",
+      "fin-site-mobile-640.webp"
+    ],
+    "poids": {
+      "fin-site-640.webp": 63556,
+      "fin-site-1280.webp": 252972,
+      "fin-site-1920.webp": 294220,
+      "fin-site-mobile-640.webp": 165120
+    },
+    "media": "c.media({ nom: 'fin-site', alt: \"Le domaine de Mageroy vu du ciel, au milieu des prés\", cadrage: '50% 45%', cadrageMobile: '50% 45%', sizes: '100vw' })"
+  },
+  "fin-agenda": {
+    "nom": "fin-agenda",
+    "source": "recu/site/villa-mageroy-recu/public-adultes.jpg",
+    "role": "section-fond",
+    "alt": "Un reconstitueur en tunique rouge devant le pavillon d'accueil",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "c7b17784a7ca9261",
+    "ratio": "16:9",
+    "largeurs": [
+      640,
+      1280,
+      1920
+    ],
+    "mobile": {
+      "ratio": "9:16",
+      "largeurs": [
+        640
+      ],
+      "cadrage": "50% 55%"
+    },
+    "cadrage": "70% 50%",
+    "sujet": {
+      "x": 72.7,
+      "y": 43,
+      "l": 9.4,
+      "h": 40.3
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.54,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.35,
+        "ton": "sombre"
+      },
+      {
+        "cote": "droite",
+        "score": 0.23,
+        "ton": "sombre"
+      },
+      {
+        "cote": "bas",
+        "score": 0.23,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 128,
+      "width": 1500,
+      "height": 844,
+      "source": [
+        1500,
+        1000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "version téléphone sans 1080 px (source trop petite)",
+      "agrandie 1,28 fois (source de 1500 px après recadrage)"
+    ],
+    "fichiers": [
+      "fin-agenda-640.webp",
+      "fin-agenda-1280.webp",
+      "fin-agenda-1920.webp",
+      "fin-agenda-mobile-640.webp"
+    ],
+    "poids": {
+      "fin-agenda-640.webp": 52884,
+      "fin-agenda-1280.webp": 152964,
+      "fin-agenda-1920.webp": 252278,
+      "fin-agenda-mobile-640.webp": 117026
+    },
+    "media": "c.media({ nom: 'fin-agenda', alt: \"Un reconstitueur en tunique rouge devant le pavillon d'accueil\", cadrage: '70% 50%', cadrageMobile: '50% 55%', sizes: '100vw' })"
+  }
+}

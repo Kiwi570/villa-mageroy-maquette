@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "TouristAttraction",
+  "name": "Villa gallo-romaine de Mageroy",
+  "description": "Site archéologique d'un domaine agricole gallo-romain occupé du Ier au IVe siècle, fouillé par l'asbl ARC-HAB. Accès libre toute l'année.",
+  "isAccessibleForFree": true,
+  "publicAccess": true,
+  "openingHours": "Mo-Su 00:00-23:59",
+  "address": { "@type": "PostalAddress", "streetAddress": "Rue de Mageroy 2", "postalCode": "6723", "addressLocality": "Habay-la-Vieille", "addressCountry": "BE" },
+  "geo": { "@type": "GeoCoordinates", "latitude": 49.715932, "longitude": 5.615396 },
+  "telephone": "+32 63 75 85 44",
+  "email": "villa.mageroy@gmail.com",
+  "sameAs": ["https://www.facebook.com/villagalloromainedemageroy/", "https://instagram.com/villamageroy", "https://www.youtube.com/@villademageroyahabaylaviei9904"],
+  "organizer": { "@type": "NGO", "name": "ARC-HAB, groupe d'Archéologie de Habay asbl", "address": { "@type": "PostalAddress", "streetAddress": "Rue d'Hoffschmidt 13", "postalCode": "6720", "addressLocality": "Habay-la-Neuve", "addressCountry": "BE" } }
+}

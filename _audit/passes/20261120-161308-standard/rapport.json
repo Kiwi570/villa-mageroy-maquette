@@ -1,0 +1,1257 @@
+{
+  "echecs": [
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape:nth-of-type(2) > p « Le corps de logis est bâti en pierre, plein sud :  »",
+      "lieux": [
+        "390×844 normal",
+        "390×844 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape.etape--image:nth-of-type(3) > p « La villa se tourne vers le nord, s'ouvre sur une c »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "390×844 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape:nth-of-type(5) > p « Les raids germaniques troublent la région. Un trés »",
+      "lieux": [
+        "390×844 normal",
+        "390×844 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape:nth-of-type(6) > p « Un groupe organisé réoccupe et fortifie les ruines »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "390×844 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape:nth-of-type(8) > p « Le groupe d'archéologie de Habay, devenu l'asbl AR »",
+      "lieux": [
+        "390×844 normal",
+        "390×844 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "1366×768",
+      "mode": "sansJs",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape:nth-of-type(4) > h3 « Le domaine s'agrandit »",
+      "lieux": [
+        "1366×768 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "texte coupé",
+      "detail": "coupé par section#siecles « CHRONOLOGIE Quatre siècles de vie, quarante ans de »",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "1366×768",
+      "mode": "sansJs",
+      "selecteur": "div.frise-scene > ol.frise-piste > li.etape:nth-of-type(4) > p « Nouvelles pièces, porche d'entrée, peut-être un at »",
+      "lieux": [
+        "1366×768 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : bouton principal hors de l’écran",
+      "detail": "",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div:nth-of-type(1) > div.tete-anime > p.tete-actions:nth-of-type(5) > a.bouton « Réserver ma place »",
+      "lieux": [
+        "320×568 normal",
+        "844×390 normal",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : information clé hors de l’écran",
+      "detail": "",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div:nth-of-type(1) > div.tete-anime > p.tete-actions:nth-of-type(5) > span.info-cle « Réservation obligatoire, places limitées »",
+      "lieux": [
+        "320×568 normal",
+        "844×390 normal",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec section#debut > div:nth-of-type(1) > div.tete-anime > p.prochain-titre:nth-of-type(3) « Saint-Nicolas à la villa »",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div:nth-of-type(1) > div.tete-anime > p.date-geante:nth-of-type(2) > b « 5 »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "768×1024 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "photo faible affichée en grand",
+      "detail": "agenda-fete-romaine (4/5, faible, 60 % de l'écran) : en vignette, ou une meilleure image",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "div.apercu.tete-date-media:nth-of-type(2) > figure.media > picture > img « Des reconstitueurs en tunique devant une table de  »",
+      "lieux": [
+        "390×844 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec div:nth-of-type(1) > div.tete-anime > p.date-geante:nth-of-type(2) > b « 5 »",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "div:nth-of-type(1) > div.tete-anime > p:nth-of-type(1) > strong « Prochain rendez-vous »",
+      "lieux": [
+        "768×1024 normal",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec div:nth-of-type(1) > div.tete-anime > p.date-geante:nth-of-type(2) > b « 5 »",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#debut > div:nth-of-type(1) > div.tete-anime > p:nth-of-type(1) « Prochain rendez-vous · dans 15 jours »",
+      "lieux": [
+        "768×1024 normal",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec section#debut > div:nth-of-type(1) > div.tete-anime > p.prochain-titre:nth-of-type(3) « Saint-Nicolas à la villa »",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "div:nth-of-type(1) > div.tete-anime > p.date-geante:nth-of-type(2) > span « déc. »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "photo faible affichée en grand",
+      "detail": "agenda-fete-romaine (4/5, faible, 38 % de l'écran) : en vignette, ou une meilleure image",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "div.apercu.tete-date-media:nth-of-type(2) > figure.media > picture > img « Des reconstitueurs en tunique devant une table de  »",
+      "lieux": [
+        "1366×768 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "photo faible affichée en grand",
+      "detail": "agenda-fete-romaine (4/5, faible, 29 % de l'écran) : en vignette, ou une meilleure image",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1920×1080",
+      "mode": "normal",
+      "selecteur": "div.apercu.tete-date-media:nth-of-type(2) > figure.media > picture > img « Des reconstitueurs en tunique devant une table de  »",
+      "lieux": [
+        "1920×1080 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec div:nth-of-type(1) > div.tete-anime > p.date-geante:nth-of-type(2) > b « 5 »",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1366×768",
+      "mode": "sansJs",
+      "selecteur": "section#debut > div:nth-of-type(1) > div.tete-anime > p:nth-of-type(1) « Prochain rendez-vous · »",
+      "lieux": [
+        "1366×768 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : bouton principal hors de l’écran",
+      "detail": "",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div.conteneur.tete-contact-texte:nth-of-type(1) > div.joindre.tete-anime:nth-of-type(2) > p.tete-actions:nth-of-type(2) > a.bouton « Écrire à l'équipe »",
+      "lieux": [
+        "320×568 normal",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "zone tactile sous 44 px",
+      "detail": "358 × 34 px",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#debut > div.conteneur.tete-contact-texte:nth-of-type(1) > div.joindre.tete-anime:nth-of-type(2) > a:nth-of-type(1) « 063 75 85 44 »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "zone tactile sous 44 px",
+      "detail": "358 × 20 px",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#debut > div.conteneur.tete-contact-texte:nth-of-type(1) > div.joindre.tete-anime:nth-of-type(2) > a.joindre-mail:nth-of-type(2) « villa.mageroy@gmail.com »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec section#debut > div.conteneur.tete-contact-texte:nth-of-type(1) > div:nth-of-type(1) > p.tete-intro.tete-anime:nth-of-type(2) « L'équipe de l'asbl ARC-HAB répond par téléphone au »",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "1920×1080",
+      "mode": "normal",
+      "selecteur": "div:nth-of-type(1) > h1.titre-page > span.ligne > span « Une question, une visite, une classe ? »",
+      "lieux": [
+        "1920×1080 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : information clé hors de l’écran",
+      "detail": "",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "320×568",
+      "mode": "sansJs",
+      "selecteur": "section#debut > div.conteneur.tete-contact-texte:nth-of-type(1) > div.joindre.tete-anime:nth-of-type(2) > p.statut-bureau:nth-of-type(1) « Bureau : du lundi au vendredi, de 9 h à 17 h »",
+      "lieux": [
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec div.conteneur > ol.chrono > li:nth-of-type(4) > span.chrono-siecle:nth-of-type(1) « III »",
+      "etape": "mesures",
+      "page": "/le-site",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "ol.chrono > li:nth-of-type(3) > figure.media > figcaption.media-legende:nth-of-type(2) « Évocation d'une villa gallo-romaine à son apogée,  »",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec div.conteneur > ol.chrono > li:nth-of-type(4) > span.etape-quand:nth-of-type(2) « IIIE SIÈCLE »",
+      "etape": "mesures",
+      "page": "/le-site",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "ol.chrono > li:nth-of-type(3) > figure.media > figcaption.media-legende:nth-of-type(2) « Évocation d'une villa gallo-romaine à son apogée,  »",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec div.conteneur > ol.chrono > li:nth-of-type(4) > h3 « Le domaine s'agrandit »",
+      "etape": "mesures",
+      "page": "/le-site",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "ol.chrono > li:nth-of-type(3) > figure.media > figcaption.media-legende:nth-of-type(2) « Évocation d'une villa gallo-romaine à son apogée,  »",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "contraste insuffisant",
+      "detail": "3.64:1 (minimum 4.5:1)",
+      "etape": "mesures",
+      "page": "/le-site",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div > figure.cotes > svg > text:nth-of-type(1)",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "contraste insuffisant",
+      "detail": "3.64:1 (minimum 4.5:1)",
+      "etape": "mesures",
+      "page": "/le-site",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div > figure.cotes > svg > text:nth-of-type(2)",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "accessibilité (axe) : color-contrast",
+      "detail": "Elements must meet minimum color contrast ratio thresholds",
+      "etape": "mesures",
+      "page": "/le-site",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "text[x=\"0\"]",
+      "lieux": [
+        "390×844 normal",
+        "1366×768 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : titre hors de l’écran",
+      "detail": "haut 455 px, bas 548 px, zone 65–490 px",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "section#debut > div.tete-plein-contenu > div > h1.titre-page « Entrée libre, jour et nuit »",
+      "lieux": [
+        "320×568 normal",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : bouton principal hors de l’écran",
+      "detail": "",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div.tete-plein-contenu > div > p.tete-actions.tete-anime:nth-of-type(3) > a.bouton « Réserver une visite guidée »",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "premier écran : information clé hors de l’écran",
+      "detail": "",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "div.tete-plein-contenu > div > p.tete-actions.tete-anime:nth-of-type(3) > span.info-cle « Accessible maintenant · entrée libre »",
+      "lieux": [
+        "320×568 normal",
+        "390×844 normal",
+        "390×844 sansJs",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "textes qui se chevauchent",
+      "detail": "avec section#debut > div.tete-plein-contenu > p.prix-geant.tete-anime > span « la visite libre, tous les jours, 24 h/24, toute l' »",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "1920×1080",
+      "mode": "normal",
+      "selecteur": "section#debut > div.tete-plein-contenu > p.prix-geant.tete-anime > strong « 0 € »",
+      "lieux": [
+        "1920×1080 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "contraste sur image",
+      "detail": "4.43:1 sur les 10 % de la photo les moins favorables (minimum 4.5:1)",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "section#debut > div.tete-plein-contenu > div > p.surtitre.tete-anime:nth-of-type(1) « VISITER »",
+      "lieux": [
+        "1366×768 normal"
+      ]
+    },
+    {
+      "niveau": "echec",
+      "controle": "débordement horizontal",
+      "detail": "page large de 458 px — largeurs : 320, 360, 400, 440 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "balayage 320–1920",
+      "mode": "normal",
+      "lieux": [
+        "balayage 320–1920 normal"
+      ]
+    }
+  ],
+  "aRegarder": [
+    {
+      "niveau": "regarder",
+      "controle": "« à compléter » visible",
+      "detail": "1 fois hors du pied de page : remplacer par une phrase vraie qui oriente le visiteur (« Tarifs selon la saison, donnés à la réservation ») ou retirer l'élément, et le noter dans la fiche du README (sauf sens propre : « dossier à compléter »)",
+      "etape": "fichiers",
+      "page": "agenda.html",
+      "lieux": [
+        ""
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "« à compléter » visible",
+      "detail": "1 fois hors du pied de page : remplacer par une phrase vraie qui oriente le visiteur (« Tarifs selon la saison, donnés à la réservation ») ou retirer l'élément, et le noter dans la fiche du README (sauf sens propre : « dossier à compléter »)",
+      "etape": "fichiers",
+      "page": "contact.html",
+      "lieux": [
+        ""
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "« à compléter » visible",
+      "detail": "1 fois hors du pied de page : remplacer par une phrase vraie qui oriente le visiteur (« Tarifs selon la saison, donnés à la réservation ») ou retirer l'élément, et le noter dans la fiche du README (sauf sens propre : « dossier à compléter »)",
+      "etape": "fichiers",
+      "page": "ecoles.html",
+      "lieux": [
+        ""
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "« à compléter » visible",
+      "detail": "1 fois hors du pied de page : remplacer par une phrase vraie qui oriente le visiteur (« Tarifs selon la saison, donnés à la réservation ») ou retirer l'élément, et le noter dans la fiche du README (sauf sens propre : « dossier à compléter »)",
+      "etape": "fichiers",
+      "page": "visiter.html",
+      "lieux": [
+        ""
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#rendez-vous « AGENDA Le prochain rendez-vous 5 DÉC. Saint-Nicola »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/",
+      "taille": "844×390",
+      "mode": "normal",
+      "selecteur": "section#siecles « Quatre siècles de vie, quarante ans de fouilles I  »",
+      "lieux": [
+        "844×390 normal"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#lettre « RESTER INFORMÉ Recevoir le programme La lettre d'i »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "768×1024 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.8 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "section#dates > div.conteneur > div.agd__outils:nth-of-type(2) > p.agd__compte « 1 date à venir »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.8 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "section#dates > div.conteneur > div.agenda-liste:nth-of-type(3) > h3.agd__groupe-titre.agd__mois-premier « DÉCEMBRE 2026 »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "typographie française",
+      "detail": "espace insécable manquante avant ou après « : »",
+      "etape": "mesures",
+      "page": "/agenda",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "section#dates > div.conteneur > div.agd__tete.section-tete:nth-of-type(1) > p.agd__prochaine:nth-of-type(2) « Prochaine date : Saint-Nicolas à la villa, dans 14 »",
+      "lieux": [
+        "1366×768 normal"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#formulaire « ÉCRIRE Votre demande Bureau : du lundi au vendredi »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/contact",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#soutenir « SOUTENIR Devenir membre d'ARC-HAB Bénévole Rejoind »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#travaux « Pendant les travaux du pavillon Les ateliers en in »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "768×1024",
+      "mode": "normal",
+      "selecteur": "section#reserver « RÉSERVER Demander une réservation Réservation obli »",
+      "lieux": [
+        "768×1024 normal",
+        "390×844 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-ceramique > div.atelier-corps > span.etiquette « Aussi en classe »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-mosaique > div.atelier-corps > span.etiquette « Aussi en classe »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-alimentation > div.atelier-corps > span.etiquette.etiquette--suspendu « Suspendu pendant les travaux du pavillon »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-enfance > div.atelier-corps > span.etiquette « Aussi en classe »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-stratification > div.atelier-corps > span.etiquette « Aussi en classe »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-fouille > div.atelier-corps > span.etiquette « Pendant la campagne de fouille »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-sport > div.atelier-corps > span.etiquette « Aussi en classe »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.5 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "li#atelier-objets > div.atelier-corps > span.etiquette « Aussi en classe »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#formules « FORMULES ET TARIFS Quatre façons de découvrir la v »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#calcul « CALCULER Combien coûte votre visite guidée ? Un fo »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#reserver « RÉSERVER Demander une visite guidée Les visites on »",
+      "lieux": [
+        "390×844 normal",
+        "768×1024 normal",
+        "320×568 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "320×568 sansJs",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.8 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "1366×768",
+      "mode": "normal",
+      "selecteur": "div.conteneur > ul.formules.fx-fini > li.formule.formule--suspendue:nth-of-type(4) > span.formule-statut « Suspendu pendant les travaux du pavillon »",
+      "lieux": [
+        "1366×768 normal",
+        "1920×1080 normal",
+        "1366×768 sansWebgl"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "texte de contenu sous 13 px (ordinateur)",
+      "detail": "12.8 px : surtitres et légendes à 13 px au moins, textes de cartes à 15 px",
+      "etape": "mesures",
+      "page": "/visiter",
+      "taille": "1366×768",
+      "mode": "sansJs",
+      "selecteur": "div.conteneur > ul.formules > li.formule.formule--suspendue:nth-of-type(4) > span.formule-statut « Suspendu pendant les travaux du pavillon »",
+      "lieux": [
+        "1366×768 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 667 ms (différence 63 %) (films/transition-vers-visiter-1366.png)",
+      "etape": "films",
+      "page": "/ → /visiter",
+      "taille": "1366×768",
+      "mode": "film",
+      "lieux": [
+        "1366×768 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "retour arrière : changement brusque",
+      "detail": "à 80 ms (différence 39 %) (films/retour-arrière-1366.png)",
+      "etape": "films",
+      "page": "/",
+      "taille": "1366×768",
+      "mode": "retour arrière",
+      "lieux": [
+        "1366×768 retour arrière"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 667 ms (différence 67 %) (films/transition-agenda-vers-visiter-1366.png)",
+      "etape": "films",
+      "page": "/agenda → /visiter",
+      "taille": "1366×768",
+      "mode": "film",
+      "lieux": [
+        "1366×768 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 726 ms (différence 75 %) (films/transition-vers-visiter-390.png)",
+      "etape": "films",
+      "page": "/ → /visiter",
+      "taille": "390×844",
+      "mode": "film",
+      "lieux": [
+        "390×844 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "retour arrière : changement brusque",
+      "detail": "à 70 ms (différence 47 %) (films/retour-arrière-390.png)",
+      "etape": "films",
+      "page": "/",
+      "taille": "390×844",
+      "mode": "retour arrière",
+      "lieux": [
+        "390×844 retour arrière"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "retour avant : changement brusque",
+      "detail": "à 59 ms (différence 48 %) (films/retour-avant-390.png)",
+      "etape": "films",
+      "page": "/visiter",
+      "taille": "390×844",
+      "mode": "retour avant",
+      "lieux": [
+        "390×844 retour avant"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 700 ms (différence 68 %) (films/transition-agenda-vers-visiter-390.png)",
+      "etape": "films",
+      "page": "/agenda → /visiter",
+      "taille": "390×844",
+      "mode": "film",
+      "lieux": [
+        "390×844 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 683 ms (différence 63 %) (films/transition-contact-vers-visiter-390.png)",
+      "etape": "films",
+      "page": "/contact → /visiter",
+      "taille": "390×844",
+      "mode": "film",
+      "lieux": [
+        "390×844 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 650 ms (différence 65 %) (films/transition-ecoles-vers-visiter-390.png)",
+      "etape": "films",
+      "page": "/ecoles → /visiter",
+      "taille": "390×844",
+      "mode": "film",
+      "lieux": [
+        "390×844 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "transition : changement brusque",
+      "detail": "à 683 ms (différence 31 %) (films/transition-visiter-vers-ecoles-390.png)",
+      "etape": "films",
+      "page": "/visiter → /ecoles",
+      "taille": "390×844",
+      "mode": "film",
+      "lieux": [
+        "390×844 film"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "rechargement au milieu de la page",
+      "detail": "écran différent à la même position après rechargement (5.0 %), voir comparaisons/rechargement-ecoles-*.png",
+      "etape": "parcours",
+      "page": "/ecoles",
+      "taille": "1366×768",
+      "lieux": [
+        "1366×768"
+      ]
+    }
+  ],
+  "nonLances": [
+    {
+      "controle": "Safari (WebKit)",
+      "raison": "WebKit ne peut pas s’installer ici : vérification à faire dans Safari sur le Mac (liste dans le rapport)",
+      "etape": "safari"
+    }
+  ],
+  "oks": {
+    "vercel.json": 1,
+    ".vercelignore": 1,
+    "robots.txt": 1,
+    "numéro de version": 1,
+    "langues": 1,
+    "grille wouahou": 7,
+    "mesures": 77,
+    "balayage": 6,
+    "films d’ouverture": 12,
+    "films de transition": 12,
+    "bords de l’écran": 7,
+    "intro accélérable et passable": 7,
+    "menu": 1,
+    "clavier": 7,
+    "liens et boutons": 7,
+    "liens profonds": 15,
+    "liens vers la page en cours": 6,
+    "changements de hauteur": 6,
+    "tient dans l’écran": 5,
+    "films des épinglages": 1,
+    "fluidité": 12,
+    "défilement selon l’appareil": 5,
+    "mouvement": 12,
+    "effets du plan": 6,
+    "souris immobile": 3,
+    "vitesse": 6,
+    "captures": 1
+  },
+  "infos": [
+    "Numéro de version des fichiers : ?v=1",
+    "Journal v1 : 3 étape(s) notée(s), 36 min de travail pour 70 min de budget, 12 min d’attente de l’utilisateur.",
+    "Audit standard : étapes lourdes sur /, /agenda, /contact, /ecoles, /le-site, /visiter.",
+    "Grille wouahou : point « 1. L’effet signature se manipule » dispensé (config.json) : v11 : objet à manipuler non obligatoire ; le calculateur de visite et les filtres d'ateliers servent le visiteur.",
+    "Grille wouahou : point « 4. Quelque chose relie les sections et les pages » dispensé (config.json) : v11 : pas de fil imposé ; le carroyage (photos, voile, surtitres) relie le site.",
+    "Grille wouahou : point « 5. Un titre fait l’événement sur chaque page » dispensé (config.json) : v11 : conseil seulement.",
+    "Accessibilité : axe-core 4.12.1 en plus des contrôles intégrés.",
+    "Ouverture / (1366×768) : 2874 ms depuis le premier octet",
+    "Ouverture /agenda (1366×768) : 2755 ms depuis le premier octet",
+    "Ouverture /contact (1366×768) : 2680 ms depuis le premier octet",
+    "Ouverture /ecoles (1366×768) : 2768 ms depuis le premier octet",
+    "film de l'ouverture /ecoles 1366×768 : réussi à la tentative 2 (avant : cdpSession.send: Protocol error (Page.startScreencast): Not attached to an active page)",
+    "Ouverture /le-site (1366×768) : 2718 ms depuis le premier octet",
+    "Ouverture /visiter (1366×768) : 2761 ms depuis le premier octet",
+    "Ouverture / (390×844) : 2887 ms depuis le premier octet",
+    "film de l'ouverture / 390×844 : réussi à la tentative 2 (avant : cdpSession.send: Protocol error (Page.startScreencast): Not attached to an active page)",
+    "Ouverture /agenda (390×844) : 2704 ms depuis le premier octet",
+    "Ouverture /contact (390×844) : 2695 ms depuis le premier octet",
+    "Ouverture /ecoles (390×844) : 2750 ms depuis le premier octet",
+    "Ouverture /le-site (390×844) : 2680 ms depuis le premier octet",
+    "film de l'ouverture /le-site 390×844 : réussi à la tentative 2 (avant : cdpSession.send: Protocol error (Page.startScreencast): Not attached to an active page)",
+    "Ouverture /visiter (390×844) : 2760 ms depuis le premier octet",
+    "film de l'ouverture /visiter 390×844 : réussi à la tentative 2 (avant : cdpSession.send: Protocol error (Page.startScreencast): Not attached to an active page)",
+    "Bords de l’écran : 637 images d’intro, 260 de voile et 238 de menu jugées (panneau immobile couvrant tout l’écran), barre de défilement classique de 15 px.",
+    "Aucun parcours propre au projet (_audit/parcours.mjs) : filtres, calculateurs, panier, réservation, fenêtres testés seulement par les contrôles généraux.",
+    "Tient dans l'écran /agenda : aucune section épinglée ou plein écran.",
+    "Tient dans l'écran /contact : aucune section épinglée ou plein écran.",
+    "Tient dans l'écran /ecoles : aucune section épinglée ou plein écran.",
+    "Tient dans l'écran /le-site : aucune section épinglée ou plein écran.",
+    "Tient dans l'écran /visiter : aucune section épinglée ou plein écran.",
+    "Fluidité / 1366×768 (molette) : 0 % d'images lentes sur 481, tâche la plus longue 0 ms",
+    "Fluidité /agenda 1366×768 (molette) : 0 % d'images lentes sur 183, tâche la plus longue 0 ms",
+    "Fluidité /contact 1366×768 (molette) : 0 % d'images lentes sur 224, tâche la plus longue 0 ms",
+    "Fluidité /ecoles 1366×768 (molette) : 0 % d'images lentes sur 331, tâche la plus longue 0 ms",
+    "Fluidité /le-site 1366×768 (molette) : 0 % d'images lentes sur 388, tâche la plus longue 0 ms",
+    "Fluidité /visiter 1366×768 (molette) : 0 % d'images lentes sur 336, tâche la plus longue 0 ms",
+    "Fluidité / 390×844 (doigt) : 0 % d'images lentes sur 1407, tâche la plus longue 0 ms",
+    "Fluidité /agenda 390×844 (doigt) : 0 % d'images lentes sur 1346, tâche la plus longue 0 ms",
+    "Fluidité /contact 390×844 (doigt) : 0 % d'images lentes sur 1341, tâche la plus longue 0 ms",
+    "Fluidité /ecoles 390×844 (doigt) : 0 % d'images lentes sur 1340, tâche la plus longue 0 ms",
+    "Fluidité /le-site 390×844 (doigt) : 0 % d'images lentes sur 1394, tâche la plus longue 0 ms",
+    "Fluidité /visiter 390×844 (doigt) : 0 % d'images lentes sur 1367, tâche la plus longue 63 ms",
+    "Vitesse / : 0.39 s de calcul au chargement (téléphone ralenti).",
+    "Vitesse /agenda : 0.22 s de calcul au chargement (téléphone ralenti).",
+    "Vitesse /contact : 0.25 s de calcul au chargement (téléphone ralenti).",
+    "Vitesse /ecoles : 0.40 s de calcul au chargement (téléphone ralenti).",
+    "Vitesse /le-site : 0.26 s de calcul au chargement (téléphone ralenti).",
+    "Vitesse /visiter : 0.26 s de calcul au chargement (téléphone ralenti)."
+  ],
+  "grille": [
+    {
+      "cle": "manipuler",
+      "nom": "1. L’effet signature se manipule",
+      "statut": "dispensé",
+      "detail": "v11 : objet à manipuler non obligatoire ; le calculateur de visite et les filtres d'ateliers servent le visiteur"
+    },
+    {
+      "cle": "intro",
+      "nom": "2. L’intro devient la page",
+      "statut": "présent",
+      "detail": "objet d’ouverture sur 6 page(s), versObjet dans l’intro"
+    },
+    {
+      "cle": "voile",
+      "nom": "3. La transition reprend le motif",
+      "statut": "présent",
+      "detail": "voile en carroyage"
+    },
+    {
+      "cle": "fil",
+      "nom": "4. Quelque chose relie les sections et les pages",
+      "statut": "dispensé",
+      "detail": "v11 : pas de fil imposé ; le carroyage (photos, voile, surtitres) relie le site"
+    },
+    {
+      "cle": "typo",
+      "nom": "5. Un titre fait l’événement sur chaque page",
+      "statut": "dispensé",
+      "detail": "v11 : conseil seulement"
+    },
+    {
+      "cle": "scene",
+      "nom": "6. La scène est un geste du métier",
+      "statut": "sans objet",
+      "detail": "aucune scène épinglée marquée ni galerie générique"
+    },
+    {
+      "cle": "retour",
+      "nom": "7. L’action principale a un retour physique",
+      "statut": "présent",
+      "detail": "sur /agenda"
+    }
+  ]
+}

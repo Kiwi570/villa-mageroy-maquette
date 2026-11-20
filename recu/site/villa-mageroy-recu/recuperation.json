@@ -1,0 +1,4183 @@
+{
+  "site": "https://www.villamageroy.com/",
+  "date": "2026-11-20T15:17:46.299Z",
+  "pages": [
+    "https://www.villamageroy.com/",
+    "https://www.villamageroy.com/event-list",
+    "https://www.villamageroy.com/ressources-scolaires",
+    "https://www.villamageroy.com/revues-arc-hab",
+    "https://www.villamageroy.com/publications",
+    "https://www.villamageroy.com/olitores",
+    "https://www.villamageroy.com/treviri",
+    "https://www.villamageroy.com/reconstitution",
+    "https://www.villamageroy.com/die-gallo-roemische-villa-von-mageroy",
+    "https://www.villamageroy.com/recherche-archeologique",
+    "https://www.villamageroy.com/microprojetinterreg",
+    "https://www.villamageroy.com/projet-europeen-leader",
+    "https://www.villamageroy.com/partenaires",
+    "https://www.villamageroy.com/projets",
+    "https://www.villamageroy.com/soutenir-l-association",
+    "https://www.villamageroy.com/missions-de-l-association",
+    "https://www.villamageroy.com/arc-hab",
+    "https://www.villamageroy.com/agenda",
+    "https://www.villamageroy.com/tourisme",
+    "https://www.villamageroy.com/journee-initiation-fouille",
+    "https://www.villamageroy.com/public-adultes",
+    "https://www.villamageroy.com/stages-vacances",
+    "https://www.villamageroy.com/anniversaires-enfants",
+    "https://www.villamageroy.com/public-scolaire",
+    "https://www.villamageroy.com/informations-pratiques",
+    "https://www.villamageroy.com/visiter",
+    "https://www.villamageroy.com/",
+    "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+    "https://www.villamageroy.com/event-details/visite-guidee-de-paques-4",
+    "https://www.villamageroy.com/event-details/visite-guidee-de-paques-3",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-16h",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-14h-3",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-12h-2",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-10h-1",
+    "https://www.villamageroy.com/event-details/visite-guidee-de-paques-2-1",
+    "https://www.villamageroy.com/event-details/visite-guidee-de-paques-1-2",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-16h-1",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-14h-2",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-12h-1",
+    "https://www.villamageroy.com/event-details/chasse-aux-oeufs-10h",
+    "https://www.villamageroy.com/event-details/atelier-vannerie-pour-carnaval",
+    "https://www.villamageroy.com/event-details/journee-danimation-pour-carnaval"
+  ],
+  "images": [
+    {
+      "fichier": "logo.jpg",
+      "nom": "logo",
+      "origine": "https://static.wixstatic.com/media/026d60_8b5746eb53aa4f5aacf08ab14c5f4633~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 41,
+      "emplacement": "img (entete)",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1413,
+      "largeur_origine": 4096,
+      "hauteur_origine": 2893,
+      "poids": 838548,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "principale"
+    },
+    {
+      "fichier": "logo-2.webp",
+      "nom": "logo-2",
+      "origine": "https://www.petitfute.com/img/widget/logo.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "logo"
+      },
+      "largeur": 100,
+      "hauteur": 100,
+      "poids": 2894,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "logo-3.png",
+      "nom": "logo-3",
+      "origine": "https://www.giveaday.eu/widget/logo.png",
+      "page": "https://www.villamageroy.com/soutenir-l-association",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "logo"
+      },
+      "largeur": 192,
+      "hauteur": 192,
+      "poids": 27374,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "logo-4.jpg",
+      "nom": "logo-4",
+      "origine": "https://static.wixstatic.com/media/026d60_d84d668cd4074c358f5a7db2f69aa4a7~mv2.jpg",
+      "page": "https://www.villamageroy.com/tourisme",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 394,
+      "poids": 32588,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "logo-5.jpg",
+      "nom": "logo-5",
+      "origine": "https://static.wixstatic.com/media/026d60_d23e386047314a9ba291f9fbccd14a16~mv2.jpg",
+      "page": "https://www.villamageroy.com/tourisme",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 560,
+      "hauteur": 107,
+      "poids": 25389,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "logo-6.png",
+      "nom": "logo-6",
+      "origine": "https://static.wixstatic.com/media/026d60_192c1edab1654b78992d60e97c6f5c1e~mv2.png",
+      "page": "https://www.villamageroy.com/tourisme",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 225,
+      "hauteur": 225,
+      "poids": 5769,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "logo-7.png",
+      "nom": "logo-7",
+      "origine": "https://static.wixstatic.com/media/026d60_7632a5e69a184f2087a55673e3d4e964~mv2.png",
+      "page": "https://www.villamageroy.com/tourisme",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 322,
+      "hauteur": 157,
+      "poids": 4528,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "logo",
+      "marque": "partenaire"
+    },
+    {
+      "fichier": "latrines1.jpg",
+      "nom": "latrines1",
+      "origine": "https://static.wixstatic.com/media/026d60_db6750a208eb48a887e17e5bbe27b342~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Latrines1",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 6000,
+      "hauteur_origine": 4000,
+      "poids": 617326,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy.png",
+      "nom": "site-archeologique-villa-mageroy",
+      "origine": "https://static.wixstatic.com/media/026d60_f1c0d219ac554666b99329ccc8449d09~mv2.png",
+      "page": "https://www.villamageroy.com/",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1415,
+      "hauteur": 2000,
+      "largeur_origine": 3462,
+      "hauteur_origine": 4895,
+      "poids": 3542340,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "actualites.jpg",
+      "nom": "actualites",
+      "origine": "https://static.wixstatic.com/media/026d60_62ef7ae7be0d4128a9479c088b443ce9~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 4608,
+      "hauteur_origine": 3072,
+      "poids": 78814,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "actualites-2.jpg",
+      "nom": "actualites-2",
+      "origine": "https://static.wixstatic.com/media/026d60_1a2c8daaf2f748a6b89b408c5ad36d7f~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1334,
+      "largeur_origine": 4607,
+      "hauteur_origine": 3072,
+      "poids": 161495,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "fouilles.jpg",
+      "nom": "fouilles",
+      "origine": "https://static.wixstatic.com/media/026d60_47b344744fdd476fb513069bda3b9208~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Fouilles",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1339,
+      "largeur_origine": 3872,
+      "hauteur_origine": 2592,
+      "poids": 584858,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-2.png",
+      "nom": "site-archeologique-villa-mageroy-2",
+      "origine": "https://static.wixstatic.com/media/026d60_ce5a7076b6e444888d657bd3d46141e8~mv2_d_2430_2271_s_2.png",
+      "page": "https://www.villamageroy.com/",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1869,
+      "largeur_origine": 2430,
+      "hauteur_origine": 2271,
+      "poids": 3728729,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "stages.jpg",
+      "nom": "stages",
+      "origine": "https://static.wixstatic.com/media/026d60_44a9cd2f6af74abb90f431983d1064d2~mv2_d_2048_1365_s_2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Stages",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 587685,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "ue-feader-leader.jpg",
+      "nom": "ue-feader-leader",
+      "origine": "https://static.wixstatic.com/media/026d60_f12d84aea134495db18ad9104e3a170a~mv2.jpg",
+      "page": "https://www.villamageroy.com/projet-europeen-leader",
+      "pages": 41,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "UE-FEADER-LEADER",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1192,
+      "largeur_origine": 2060,
+      "hauteur_origine": 1228,
+      "poids": 172215,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "chaine.jpg",
+      "nom": "chaine",
+      "origine": "https://static.wixstatic.com/media/026d60_b70b651fe3bc436eaadf430e410ed841f002.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Ma chaîne",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1920,
+      "hauteur": 1080,
+      "poids": 557315,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-3.jpg",
+      "nom": "site-archeologique-villa-mageroy-3",
+      "origine": "https://static.wixstatic.com/media/026d60_e7a4df1975f1408abc04abcbeed5c622~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1479,
+      "hauteur": 1344,
+      "poids": 203022,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "actualites-3.jpg",
+      "nom": "actualites-3",
+      "origine": "https://static.wixstatic.com/media/026d60_5ef32ea0340542f09fac56d23ee10742~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 122370,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "actualites-4.jpg",
+      "nom": "actualites-4",
+      "origine": "https://static.wixstatic.com/media/026d60_db367d5198ae4de7936abd2b7fe41088~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 4,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 160650,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "actualites-5.jpg",
+      "nom": "actualites-5",
+      "origine": "https://static.wixstatic.com/media/026d60_6957a5ad8b654fc7a7043ab4106dad86~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 166506,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "actualites-6.jpg",
+      "nom": "actualites-6",
+      "origine": "https://static.wixstatic.com/media/026d60_8394f5fa800f49788397ff5d638b388a~mv2.jpg",
+      "page": "https://www.villamageroy.com/",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ACTUALITÉS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 641,
+      "hauteur": 913,
+      "poids": 248197,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "quete-oeufs-or-minerve.jpg",
+      "nom": "quete-oeufs-or-minerve",
+      "origine": "https://static.wixstatic.com/media/026d60_6c3b6e6041fc49e3b10ee507a765ce7a~mv2.jpg",
+      "page": "https://www.villamageroy.com/event-list",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "La quête aux œufs d’or de Minerve",
+        "legende": "",
+        "titre": "",
+        "section": "Événements à venir",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 2480,
+      "hauteur_origine": 3508,
+      "poids": 409098,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "chasse-oeufs-16h.jpg",
+      "nom": "chasse-oeufs-16h",
+      "origine": "https://static.wixstatic.com/media/026d60_b3ea8712b15f49a5b2ca459b58ba7055~mv2.jpg",
+      "page": "https://www.villamageroy.com/event-list",
+      "pages": 9,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Chasse aux Oeufs (16h)",
+        "legende": "",
+        "titre": "",
+        "section": "Événements à venir",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 173392,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "visite-guidee-paques-4.jpg",
+      "nom": "visite-guidee-paques-4",
+      "origine": "https://static.wixstatic.com/media/026d60_238f605d4b4d42e5bde6e74ac479f979~mv2.jpg",
+      "page": "https://www.villamageroy.com/event-list",
+      "pages": 5,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Visite guidée de Pâques (4)",
+        "legende": "",
+        "titre": "",
+        "section": "Événements à venir",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 182315,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "atelier-vannerie-carnaval.jpg",
+      "nom": "atelier-vannerie-carnaval",
+      "origine": "https://static.wixstatic.com/media/026d60_6897a934f3264e45ba86db5e3a2a3d9e~mv2.jpg",
+      "page": "https://www.villamageroy.com/event-list",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Atelier vannerie pour Carnaval",
+        "legende": "",
+        "titre": "",
+        "section": "Événements à venir",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 117902,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "journee-animation-carnaval.jpg",
+      "nom": "journee-animation-carnaval",
+      "origine": "https://static.wixstatic.com/media/026d60_5f88819f349a45a1a7ea1a04aab9e0b9~mv2.jpg",
+      "page": "https://www.villamageroy.com/event-list",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Journée d'animation pour Carnaval",
+        "legende": "",
+        "titre": "",
+        "section": "Événements à venir",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 91507,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications.jpg",
+      "nom": "publications",
+      "origine": "https://static.wixstatic.com/media/026d60_461da93684234445ba50e4c90ce5cf1a~mv2.jpg",
+      "page": "https://www.villamageroy.com/ressources-scolaires",
+      "pages": 4,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1500,
+      "hauteur": 2000,
+      "largeur_origine": 3096,
+      "hauteur_origine": 4128,
+      "poids": 441695,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-2.jpg",
+      "nom": "publications-2",
+      "origine": "https://static.wixstatic.com/media/026d60_7bdc7f30961940b6a4dfa9d157167412~mv2_d_9922_14032_s_6_4_3.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 9922,
+      "hauteur_origine": 14032,
+      "poids": 326272,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-3.jpg",
+      "nom": "publications-3",
+      "origine": "https://static.wixstatic.com/media/026d60_3f1110ff7ac048e4a16b237db1134105~mv2_d_4961_7016_s_4_2.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 4961,
+      "hauteur_origine": 7016,
+      "poids": 372717,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-4.jpg",
+      "nom": "publications-4",
+      "origine": "https://static.wixstatic.com/media/35303efe4ef046afac780ccd44124c47.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1335,
+      "largeur_origine": 6016,
+      "hauteur_origine": 4016,
+      "poids": 625706,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-5.jpg",
+      "nom": "publications-5",
+      "origine": "https://static.wixstatic.com/media/026d60_a72ada64f4c943228c2f2bf20cb01455~mv2.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 3340,
+      "hauteur_origine": 4724,
+      "poids": 649225,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-6.jpg",
+      "nom": "publications-6",
+      "origine": "https://static.wixstatic.com/media/026d60_ecd8b57fe76a458397070657df2283eb.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 2481,
+      "hauteur_origine": 3508,
+      "poids": 727198,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-7.jpg",
+      "nom": "publications-7",
+      "origine": "https://static.wixstatic.com/media/026d60_bacd80f9606048799430db3ebb50ad79~mv2.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 2480,
+      "hauteur_origine": 3508,
+      "poids": 296161,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-8.jpg",
+      "nom": "publications-8",
+      "origine": "https://static.wixstatic.com/media/026d60_0e6d4a1ba9b14da79571eb0fe234e24c.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "largeur_origine": 2480,
+      "hauteur_origine": 3507,
+      "poids": 605930,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-9.jpg",
+      "nom": "publications-9",
+      "origine": "https://static.wixstatic.com/media/026d60_eecd67683d15466380328b154480dfe5.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 679,
+      "hauteur": 960,
+      "poids": 108369,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-10.jpg",
+      "nom": "publications-10",
+      "origine": "https://static.wixstatic.com/media/026d60_272626e5b27d4bc18e216229a40a9139.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 679,
+      "hauteur": 960,
+      "poids": 73370,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "publications-11.jpg",
+      "nom": "publications-11",
+      "origine": "https://static.wixstatic.com/media/026d60_da4b2ebfffe0a670e828c38ac72c796c.jpg",
+      "page": "https://www.villamageroy.com/revues-arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLICATIONS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 596,
+      "hauteur": 842,
+      "poids": 165076,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "sauge-autres-plantes.jpg",
+      "nom": "sauge-autres-plantes",
+      "origine": "https://static.wixstatic.com/media/026d60_4a3077a6c5c84561a6c1a0d6f44e2de3~mv2.jpg",
+      "page": "https://www.villamageroy.com/olitores",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Sauge et autres plantes",
+        "legende": "",
+        "titre": "",
+        "section": "OLITORES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1807,
+      "largeur_origine": 2995,
+      "hauteur_origine": 2706,
+      "poids": 975976,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "jardin-cours-amenagement.jpg",
+      "nom": "jardin-cours-amenagement",
+      "origine": "https://static.wixstatic.com/media/026d60_a0fe7d4e705444d5a19b2120866ab49f~mv2.jpg",
+      "page": "https://www.villamageroy.com/olitores",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Jardin en cours d'aménagement",
+        "legende": "",
+        "titre": "",
+        "section": "OLITORES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1338,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1370,
+      "poids": 801705,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "plantes-aromatiques.jpg",
+      "nom": "plantes-aromatiques",
+      "origine": "https://static.wixstatic.com/media/026d60_e687e9efabe7433fadae5ca55b18f040~mv2.jpg",
+      "page": "https://www.villamageroy.com/olitores",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Plantes aromatiques",
+        "legende": "",
+        "titre": "",
+        "section": "OLITORES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1900,
+      "hauteur": 1267,
+      "poids": 2165043,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "olitores.jpg",
+      "nom": "olitores",
+      "origine": "https://static.wixstatic.com/media/026d60_b0ae6e595ac643fa910a4cb6100674f3~mv2.jpg",
+      "page": "https://www.villamageroy.com/olitores",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Les Olitores",
+        "legende": "",
+        "titre": "",
+        "section": "OLITORES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 895,
+      "hauteur": 892,
+      "poids": 167979,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "treviri.jpg",
+      "nom": "treviri",
+      "origine": "https://static.wixstatic.com/media/026d60_901dadbf86a44004b7c132bdeb9575e5~mv2_d_1875_1250_s_2.jpg",
+      "page": "https://www.villamageroy.com/treviri",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Tréviri",
+        "legende": "",
+        "titre": "",
+        "section": "TREVIRI",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1875,
+      "hauteur": 1250,
+      "poids": 408145,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "tabletterie.jpg",
+      "nom": "tabletterie",
+      "origine": "https://static.wixstatic.com/media/026d60_f02871a6c277452ab423f501b910f6c8~mv2.jpg",
+      "page": "https://www.villamageroy.com/treviri",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Tabletterie",
+        "legende": "",
+        "titre": "",
+        "section": "TREVIRI",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1548,
+      "hauteur": 1161,
+      "poids": 364418,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "potiere.jpg",
+      "nom": "potiere",
+      "origine": "https://static.wixstatic.com/media/026d60_85600c945e62469cbc88347be46da478~mv2.jpg",
+      "page": "https://www.villamageroy.com/treviri",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Potière",
+        "legende": "",
+        "titre": "",
+        "section": "TREVIRI",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 960,
+      "hauteur": 640,
+      "poids": 49267,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-4.jpg",
+      "nom": "site-archeologique-villa-mageroy-4",
+      "origine": "https://static.wixstatic.com/media/026d60_6445bbb493174de48958bec6aab85a70~mv2.jpg",
+      "page": "https://www.villamageroy.com/reconstitution",
+      "pages": 1,
+      "emplacement": "og (meta)",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1900,
+      "hauteur": 1267,
+      "poids": 1772450,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "objets-metallurgie.jpg",
+      "nom": "objets-metallurgie",
+      "origine": "https://static.wixstatic.com/media/026d60_720df684102e4ff992a3a491906b4c31~mv2.jpg",
+      "page": "https://www.villamageroy.com/reconstitution",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Objets de la métallurgie",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 960,
+      "hauteur": 640,
+      "poids": 54370,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "ein-uberblick-uber-ihre.jpg",
+      "nom": "ein-uberblick-uber-ihre",
+      "origine": "https://static.wixstatic.com/media/026d60_0a13c6b1b85b4209a890970321e93442~mv2.jpg",
+      "page": "https://www.villamageroy.com/die-gallo-roemische-villa-von-mageroy",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Ein Überblick über ihre Erforschung",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1339,
+      "largeur_origine": 3872,
+      "hauteur_origine": 2592,
+      "poids": 587865,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-adultes.jpg",
+      "nom": "public-adultes",
+      "origine": "https://static.wixstatic.com/media/026d60_c0723d0b4285ac2fb0100e386f48f2a7.jpg",
+      "page": "https://www.villamageroy.com/public-adultes",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC ADULTES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1500,
+      "hauteur": 1000,
+      "poids": 771921,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-5.jpg",
+      "nom": "site-archeologique-villa-mageroy-5",
+      "origine": "https://static.wixstatic.com/media/026d60_edaf0b60408a44aba989fc0ef95314d2~mv2.jpg",
+      "page": "https://www.villamageroy.com/recherche-archeologique",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1500,
+      "largeur_origine": 4000,
+      "hauteur_origine": 3000,
+      "poids": 807608,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "maxresdefault.jpg",
+      "nom": "maxresdefault",
+      "origine": "https://i.ytimg.com/vi/7KdC7Ok_VjQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFsgZSg2MA8=&rs=AOn4CLCt4ou2_e7KrmXjEIJZDyFjQ8_8Jg",
+      "page": "https://www.villamageroy.com/microprojetinterreg",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "maxresdefault"
+      },
+      "largeur": 1280,
+      "hauteur": 720,
+      "poids": 47895,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-6.jpg",
+      "nom": "site-archeologique-villa-mageroy-6",
+      "origine": "https://static.wixstatic.com/media/026d60_7e907657ede74bceb33327863407d604~mv2.jpg",
+      "page": "https://www.villamageroy.com/microprojetinterreg",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1168,
+      "hauteur": 584,
+      "poids": 799407,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-7.jpg",
+      "nom": "site-archeologique-villa-mageroy-7",
+      "origine": "https://static.wixstatic.com/media/026d60_76f894216ffe46469fa342234f07d75f~mv2.jpg",
+      "page": "https://www.villamageroy.com/microprojetinterreg",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 644,
+      "hauteur": 909,
+      "poids": 177785,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "gka-asbl-villa-goeblange.png",
+      "nom": "gka-asbl-villa-goeblange",
+      "origine": "https://static.wixstatic.com/media/026d60_962a2abfd0ca4c4a8e04d8035ca44f05~mv2.png",
+      "page": "https://www.villamageroy.com/microprojetinterreg",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "GKA Asbl - Villa de Goeblange",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 902,
+      "hauteur": 214,
+      "poids": 34279,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-8.jpg",
+      "nom": "site-archeologique-villa-mageroy-8",
+      "origine": "https://static.wixstatic.com/media/026d60_51dbeff58de24b1896d430f2b1278793~mv2.jpg",
+      "page": "https://www.villamageroy.com/projet-europeen-leader",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1500,
+      "largeur_origine": 4000,
+      "hauteur_origine": 3000,
+      "poids": 1200805,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-9.jpg",
+      "nom": "site-archeologique-villa-mageroy-9",
+      "origine": "https://static.wixstatic.com/media/026d60_e5a1fe9f46254930b8196276a81f53f6~mv2.jpg",
+      "page": "https://www.villamageroy.com/projet-europeen-leader",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1161,
+      "hauteur": 1548,
+      "poids": 838114,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-10.jpg",
+      "nom": "site-archeologique-villa-mageroy-10",
+      "origine": "https://static.wixstatic.com/media/026d60_35bab16a5425429cac12e9debd7a4bc1~mv2.jpg",
+      "page": "https://www.villamageroy.com/projet-europeen-leader",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 847,
+      "hauteur": 283,
+      "poids": 49857,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "maison-tourisme-cap-sure.jpg",
+      "nom": "maison-tourisme-cap-sure",
+      "origine": "https://static.wixstatic.com/media/026d60_3ed5bc2f4dbc48c7a57dc7e7ba527af7~mv2.jpg",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Maison du Tourisme Cap Sûre Anlier",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1414,
+      "largeur_origine": 3507,
+      "hauteur_origine": 2480,
+      "poids": 182487,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "points-verts-marches-adeps.jpg",
+      "nom": "points-verts-marches-adeps",
+      "origine": "https://static.wixstatic.com/media/026d60_20d3d53d546e489eaa1cc7f64a6e549a~mv2.jpg",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Points Verts - Marches Adeps",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1651,
+      "hauteur": 952,
+      "poids": 337947,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "musee-celtes.png",
+      "nom": "musee-celtes",
+      "origine": "https://static.wixstatic.com/media/026d60_c9637caace1241ea87fbad3ecfbe63e6~mv2.png",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Musée des Celtes",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1232,
+      "hauteur": 677,
+      "poids": 105029,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "erasmus-ecole-turpange.png",
+      "nom": "erasmus-ecole-turpange",
+      "origine": "https://static.wixstatic.com/media/026d60_1a1785e806c44b06bdd1b4af5f0a54b3~mv2.png",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Erasmus+ école de Turpange",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 644,
+      "hauteur": 432,
+      "poids": 314797,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "abbaye-orval.jpg",
+      "nom": "abbaye-orval",
+      "origine": "https://static.wixstatic.com/media/026d60_267ccfcef8a846a9980214b6e8ed5df4~mv2.jpg",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Abbaye Orval",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 580,
+      "hauteur": 435,
+      "poids": 66384,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "habay-tourisme.png",
+      "nom": "habay-tourisme",
+      "origine": "https://static.wixstatic.com/media/026d60_159be0c9fed6463492275e217c795d3f~mv2.png",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Habay Tourisme",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 640,
+      "hauteur": 312,
+      "poids": 9969,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "cdpa-buzenol.jpg",
+      "nom": "cdpa-buzenol",
+      "origine": "https://static.wixstatic.com/media/026d60_0f424d38d2774e6daf3f94c6674bcd7c~mv2.jpg",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "CDPA Buzenol",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 318,
+      "poids": 42870,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "malagne-archeoparc-rochefort.jpg",
+      "nom": "malagne-archeoparc-rochefort",
+      "origine": "https://static.wixstatic.com/media/026d60_9b1f8c58cdd3472091a173777440fcde~mv2.jpg",
+      "page": "https://www.villamageroy.com/partenaires",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Malagne - Archeoparc de Rochefort",
+        "legende": "",
+        "titre": "",
+        "section": "PARTENAIRES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 500,
+      "hauteur": 250,
+      "poids": 36770,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "agence-wallonne-patrimoine-awap.jpg",
+      "nom": "agence-wallonne-patrimoine-awap",
+      "origine": "https://static.wixstatic.com/media/026d60_2ac8add3d629452e9b127e7e2cc5beb7~mv2_d_4590_2550_s_4_2.jpg",
+      "page": "https://www.villamageroy.com/projets",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Agence wallonne du Patrimoine (AWaP)",
+        "legende": "",
+        "titre": "",
+        "section": "PROJETS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1111,
+      "largeur_origine": 4590,
+      "hauteur_origine": 2550,
+      "poids": 112366,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "wallonie-bruxelles-international-wbi.png",
+      "nom": "wallonie-bruxelles-international-wbi",
+      "origine": "https://static.wixstatic.com/media/026d60_437e5d3ecd5f4ce2ac5d6809970059a5~mv2_d_2268_1271_s_2.png",
+      "page": "https://www.villamageroy.com/projets",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Wallonie Bruxelles International (WBI)",
+        "legende": "",
+        "titre": "",
+        "section": "PROJETS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1121,
+      "largeur_origine": 2268,
+      "hauteur_origine": 1271,
+      "poids": 116939,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "soutenir-asbl-arc-hab.jpg",
+      "nom": "soutenir-asbl-arc-hab",
+      "origine": "https://static.wixstatic.com/media/026d60_cad517404725e5bfcb96e78d78fa3b95.jpg",
+      "page": "https://www.villamageroy.com/soutenir-l-association",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "SOUTENIR L'ASBL ARC-HAB",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1339,
+      "largeur_origine": 3872,
+      "hauteur_origine": 2592,
+      "poids": 393930,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "soutenir-asbl-arc-hab-2.jpg",
+      "nom": "soutenir-asbl-arc-hab-2",
+      "origine": "https://static.wixstatic.com/media/026d60_a6aeaff89fac409bb38a3f32506c4553~mv2.jpg",
+      "page": "https://www.villamageroy.com/soutenir-l-association",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "SOUTENIR L'ASBL ARC-HAB",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1269,
+      "hauteur": 952,
+      "poids": 293930,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-11.jpg",
+      "nom": "site-archeologique-villa-mageroy-11",
+      "origine": "https://static.wixstatic.com/media/026d60_fe1f2ad7e8e33c41eb34033a987db3ca.jpg",
+      "page": "https://www.villamageroy.com/soutenir-l-association",
+      "pages": 2,
+      "emplacement": "og (meta)",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1024,
+      "hauteur": 680,
+      "poids": 108870,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "banner-picture-576.jpg",
+      "nom": "banner-picture-576",
+      "origine": "https://media.cdn-giveaday.eu/organisation/4609/vacancies/68432/banner-picture_576.jpg?updated=1782138113000",
+      "page": "https://www.villamageroy.com/soutenir-l-association",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "banner-picture_576"
+      },
+      "largeur": 576,
+      "hauteur": 192,
+      "poids": 24304,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-12.jpg",
+      "nom": "site-archeologique-villa-mageroy-12",
+      "origine": "https://static.wixstatic.com/media/026d60_f2dba2074ad84ef3884d3d0dbd9849ac~mv2.jpg",
+      "page": "https://www.villamageroy.com/arc-hab",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 5000,
+      "hauteur_origine": 3333,
+      "poids": 885453,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-13.jpg",
+      "nom": "site-archeologique-villa-mageroy-13",
+      "origine": "https://static.wixstatic.com/media/026d60_cf413585c3b246e6ade235748f01be4b~mv2.jpg",
+      "page": "https://www.villamageroy.com/arc-hab",
+      "pages": 2,
+      "emplacement": "og (meta)",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1417,
+      "hauteur": 945,
+      "poids": 1277435,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "biere-antiquite-oktoberfeest-mageroy.jpg",
+      "nom": "biere-antiquite-oktoberfeest-mageroy",
+      "origine": "https://static.wixstatic.com/media/026d60_ce1c59589b0445beae39aa7096d33d34~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "La bière dans l’Antiquité – « Oktoberfeest » à Mageroy",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1500,
+      "hauteur": 2000,
+      "largeur_origine": 4525,
+      "hauteur_origine": 6033,
+      "poids": 1046490,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "mageroy-fil-eau-traces.jpg",
+      "nom": "mageroy-fil-eau-traces",
+      "origine": "https://static.wixstatic.com/media/026d60_b70d50e5b88247c88395c214fe8460b4~mv2.jpeg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Mageroy au fil de l'eau - Sur les traces antiques de l'eau",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1500,
+      "largeur_origine": 4032,
+      "hauteur_origine": 3024,
+      "poids": 996518,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "jardins-memoire-mageroy-vivant.jpg",
+      "nom": "jardins-memoire-mageroy-vivant",
+      "origine": "https://static.wixstatic.com/media/026d60_b54ee7c1d3a54a2d8be9d4cceff7f3c6~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "« Jardins de mémoire : Mageroy vivant » – Réunion participative",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1500,
+      "largeur_origine": 4000,
+      "hauteur_origine": 3000,
+      "poids": 1018323,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "samain-s-invite-villa.jpg",
+      "nom": "samain-s-invite-villa",
+      "origine": "https://static.wixstatic.com/media/026d60_feb35342610845ecae32be907296fc65~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Le Samain s'invite à la villa de Mageroy !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "poids": 483072,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "journees-patrimoine-spectacle-mageroy.jpg",
+      "nom": "journees-patrimoine-spectacle-mageroy",
+      "origine": "https://static.wixstatic.com/media/026d60_71c7059d1b7e4860bdcde715a73313b1~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Journées du Patrimoine en spectacle à Mageroy le weekend du 12-13/09 !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "poids": 369428,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "villa-mageroy-participe-journees.jpg",
+      "nom": "villa-mageroy-participe-journees",
+      "origine": "https://static.wixstatic.com/media/026d60_db267fd5ea9f42bcaa98a4469c56ca87~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "La villa de Mageroy participe aux Journées européennes de l’Archéologie !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1414,
+      "hauteur": 2000,
+      "poids": 304999,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region.jpg",
+      "nom": "decouvrez-site-mageroy-region",
+      "origine": "https://static.wixstatic.com/media/026d60_fb04eb15695d44cfa2c608537d5dfec2~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1334,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1366,
+      "poids": 179420,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-2.jpg",
+      "nom": "decouvrez-site-mageroy-region-2",
+      "origine": "https://static.wixstatic.com/media/026d60_995deeb1e203404ab88473cdf9eae617~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 661783,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-3.jpg",
+      "nom": "decouvrez-site-mageroy-region-3",
+      "origine": "https://static.wixstatic.com/media/026d60_4091ff077763438caf9f4edb674f8729~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 651068,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-4.jpg",
+      "nom": "decouvrez-site-mageroy-region-4",
+      "origine": "https://static.wixstatic.com/media/026d60_f36030dc3cf247998c387cac5776c2b1~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 764082,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-5.jpg",
+      "nom": "decouvrez-site-mageroy-region-5",
+      "origine": "https://static.wixstatic.com/media/026d60_b1354c44b3d847638e4d1d3705d3306c~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 158941,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-6.jpg",
+      "nom": "decouvrez-site-mageroy-region-6",
+      "origine": "https://static.wixstatic.com/media/026d60_f58fd0244ce047babd84cf1539872aac~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 594276,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-7.jpg",
+      "nom": "decouvrez-site-mageroy-region-7",
+      "origine": "https://static.wixstatic.com/media/026d60_b1514a17b48d43eeb0a34e7ac4ef1d9f~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 249719,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-8.jpg",
+      "nom": "decouvrez-site-mageroy-region-8",
+      "origine": "https://static.wixstatic.com/media/026d60_5c17205fddb747118b4ba2baadd92625~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 509461,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-9.jpg",
+      "nom": "decouvrez-site-mageroy-region-9",
+      "origine": "https://static.wixstatic.com/media/026d60_cec7c0f3151346ec8837979a423dd655~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 854087,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-10.jpg",
+      "nom": "decouvrez-site-mageroy-region-10",
+      "origine": "https://static.wixstatic.com/media/026d60_27c4d73b65cf4354aad5c51e386658e2~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1333,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1365,
+      "poids": 502810,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-11.jpg",
+      "nom": "decouvrez-site-mageroy-region-11",
+      "origine": "https://static.wixstatic.com/media/026d60_a36802793c764416b3127b7f35fa812c~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1285,
+      "largeur_origine": 2048,
+      "hauteur_origine": 1316,
+      "poids": 812000,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-archeologie-action-portes.jpg",
+      "nom": "decouvrez-archeologie-action-portes",
+      "origine": "https://static.wixstatic.com/media/026d60_a3de794e14ea4255be12b75659f93e14~mv2.jpeg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez l’archéologie en action : portes ouvertes à la Villa de Mageroy",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1200,
+      "hauteur": 1600,
+      "poids": 320022,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-12.jpg",
+      "nom": "decouvrez-site-mageroy-region-12",
+      "origine": "https://static.wixstatic.com/media/026d60_4a3ecef3c1e44d9088dd1e62a90e49d4~mv2.jpeg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1131,
+      "hauteur": 1600,
+      "poids": 551284,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-archeologie-action-portes-2.jpg",
+      "nom": "decouvrez-archeologie-action-portes-2",
+      "origine": "https://static.wixstatic.com/media/026d60_dc1224dbb5914531bfd48d917e692255~mv2.jpeg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez l’archéologie en action : portes ouvertes à la Villa de Mageroy",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1085,
+      "hauteur": 1450,
+      "poids": 482328,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "affiche-mercredis-mageroy-2026.png",
+      "nom": "affiche-mercredis-mageroy-2026",
+      "origine": "https://static.wixstatic.com/media/026d60_4f5ce40c957b48b7bf54debaa21698d9~mv2.png",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Affiche mercredis mageroy 2026.tif",
+        "legende": "",
+        "titre": "",
+        "section": "Du 1er juillet au 28 août, chaque mercredi, remontez le temps en compagnie d’un archéologue passionné avec les Mercredis de Mageroy !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1024,
+      "hauteur": 1536,
+      "poids": 2248468,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "1er-juillet-28-aout.png",
+      "nom": "1er-juillet-28-aout",
+      "origine": "https://static.wixstatic.com/media/026d60_63e8a6f3e8da43cdab2421e57766c821~mv2.png",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Du 1er juillet au 28 août, chaque mercredi, remontez le temps en compagnie d’un archéologue passionné avec les Mercredis de Mageroy !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1566,
+      "hauteur": 849,
+      "poids": 3535761,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "villa-gallo-romaine-mageroy.jpg",
+      "nom": "villa-gallo-romaine-mageroy",
+      "origine": "https://static.wixstatic.com/media/026d60_ca223881a2ea4c48a37d67aa77b835ec~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "La Villa gallo-romaine de Mageroy participe au Festival de guidances de la Maison du tourisme Cap Sûre Anlier le samedi 16 mai",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1569,
+      "hauteur": 609,
+      "poids": 166550,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-13.jpg",
+      "nom": "decouvrez-site-mageroy-region-13",
+      "origine": "https://static.wixstatic.com/media/026d60_9774068d07bc4ac48c858d56692f6fee~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1080,
+      "hauteur": 720,
+      "poids": 217316,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-14.jpg",
+      "nom": "decouvrez-site-mageroy-region-14",
+      "origine": "https://static.wixstatic.com/media/026d60_daf486df91ad4700a53e168f5387c8b9~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1080,
+      "hauteur": 720,
+      "poids": 272685,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-15.jpg",
+      "nom": "decouvrez-site-mageroy-region-15",
+      "origine": "https://static.wixstatic.com/media/026d60_531e75cbb74e4b29a0833e4f0da968ef~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1080,
+      "hauteur": 720,
+      "poids": 247554,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "villa-gallo-romaine-mageroy-2.jpg",
+      "nom": "villa-gallo-romaine-mageroy-2",
+      "origine": "https://static.wixstatic.com/media/026d60_7ae37d346184445fbf0bc30076358bf0~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "La Villa gallo-romaine de Mageroy participe au Festival de guidances de la Maison du tourisme Cap Sûre Anlier le samedi 16 mai",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1070,
+      "hauteur": 709,
+      "poids": 836628,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "lieu"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-16.jpg",
+      "nom": "decouvrez-site-mageroy-region-16",
+      "origine": "https://static.wixstatic.com/media/026d60_51321ff4c7154354ae2c8b9a56e64231~mv2.jpg",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 799,
+      "hauteur": 533,
+      "poids": 230266,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "decouvrez-site-mageroy-region-17.jpg",
+      "nom": "decouvrez-site-mageroy-region-17",
+      "origine": "https://static.wixstatic.com/media/026d60_34514198239d4efe959f8ba85cfc7d4c~mv2.png",
+      "page": "https://www.villamageroy.com/agenda",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "Découvrez le site de Mageroy et sa région avec les boucles des Marches Adeps !",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 524,
+      "poids": 28330,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-14.jpg",
+      "nom": "site-archeologique-villa-mageroy-14",
+      "origine": "https://static.wixstatic.com/media/026d60_839b217dc0ed4e67bea8faf2d4724f2f~mv2.jpg",
+      "page": "https://www.villamageroy.com/tourisme",
+      "pages": 1,
+      "emplacement": "og (meta)",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1224,
+      "hauteur": 689,
+      "poids": 146239,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-15.jpg",
+      "nom": "site-archeologique-villa-mageroy-15",
+      "origine": "https://static.wixstatic.com/media/026d60_0b9f0dd3f6eb4ced8bc7d096c7e37150~mv2.jpg",
+      "page": "https://www.villamageroy.com/tourisme",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1102,
+      "hauteur": 689,
+      "poids": 191308,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "journees-fouille.jpg",
+      "nom": "journees-fouille",
+      "origine": "https://static.wixstatic.com/media/026d60_f9a247e4312f43379bba7cf7a3daece5~mv2_d_1948_1299_s_2.jpg",
+      "page": "https://www.villamageroy.com/journee-initiation-fouille",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "JOURNÉES DE FOUILLE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1948,
+      "hauteur": 1299,
+      "poids": 334452,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-adultes-2.jpg",
+      "nom": "public-adultes-2",
+      "origine": "https://static.wixstatic.com/media/026d60_48af07f5965e47d0805d04893d98ea6a~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-adultes",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC ADULTES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1328,
+      "largeur_origine": 4288,
+      "hauteur_origine": 2848,
+      "poids": 825383,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "planification-itineraire.jpg",
+      "nom": "planification-itineraire",
+      "origine": "https://static.wixstatic.com/media/6cbf5621bc1a4e96a5339968ad1f88fc.jpg",
+      "page": "https://www.villamageroy.com/public-adultes",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "planification d'itinéraire",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC ADULTES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1334,
+      "largeur_origine": 3946,
+      "hauteur_origine": 2631,
+      "poids": 581105,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-adultes-3.jpg",
+      "nom": "public-adultes-3",
+      "origine": "https://static.wixstatic.com/media/026d60_15d6a89ae8614ecfb08ad8f558184081~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-adultes",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC ADULTES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1000,
+      "hauteur": 750,
+      "poids": 993932,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "journee-fouilles.jpg",
+      "nom": "journee-fouilles",
+      "origine": "https://static.wixstatic.com/media/026d60_58056e1e395141c1ac6aea8eddbe1550~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-adultes",
+      "pages": 3,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Journée de fouilles",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC ADULTES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 553,
+      "hauteur": 509,
+      "poids": 154362,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-adultes-4.jpg",
+      "nom": "public-adultes-4",
+      "origine": "https://static.wixstatic.com/media/026d60_8f22d9832a5c487ca9d5703428dd1267~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-adultes",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC ADULTES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 573,
+      "hauteur": 412,
+      "poids": 95617,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "stages-ete-2026.jpg",
+      "nom": "stages-ete-2026",
+      "origine": "https://static.wixstatic.com/media/026d60_1c963bb87f4a46248871df80490adc25~mv2.jpg",
+      "page": "https://www.villamageroy.com/stages-vacances",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "STAGES D'ÉTÉ 2026",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1500,
+      "hauteur": 2000,
+      "largeur_origine": 1536,
+      "hauteur_origine": 2048,
+      "poids": 891885,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "stages-ete-2026-2.jpg",
+      "nom": "stages-ete-2026-2",
+      "origine": "https://static.wixstatic.com/media/026d60_7fbc207d4af444eb8b5f3d619287988f~mv2.jpg",
+      "page": "https://www.villamageroy.com/stages-vacances",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "STAGES D'ÉTÉ 2026",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1848,
+      "hauteur": 1264,
+      "poids": 744741,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-16.jpg",
+      "nom": "site-archeologique-villa-mageroy-16",
+      "origine": "https://static.wixstatic.com/media/026d60_ba0a953a6e8b47a6b865713bb2bee017~mv2.jpg",
+      "page": "https://www.villamageroy.com/stages-vacances",
+      "pages": 1,
+      "emplacement": "og (meta)",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1060,
+      "hauteur": 795,
+      "poids": 184804,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "anniversaires-enfants.jpg",
+      "nom": "anniversaires-enfants",
+      "origine": "https://static.wixstatic.com/media/026d60_062239df6a4647eb8d5f10be767a13b6~mv2.jpg",
+      "page": "https://www.villamageroy.com/anniversaires-enfants",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ANNIVERSAIRES ENFANTS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1339,
+      "largeur_origine": 3872,
+      "hauteur_origine": 2592,
+      "poids": 768503,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "anniversaires-enfants-2.jpg",
+      "nom": "anniversaires-enfants-2",
+      "origine": "https://static.wixstatic.com/media/026d60_1a4f429af4c74aa4872898a11d64ab33~mv2.jpg",
+      "page": "https://www.villamageroy.com/anniversaires-enfants",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "ANNIVERSAIRES ENFANTS",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1125,
+      "largeur_origine": 3264,
+      "hauteur_origine": 1836,
+      "poids": 504644,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire.jpg",
+      "nom": "public-scolaire",
+      "origine": "https://static.wixstatic.com/media/026d60_ffd6c0270522494ca7478c67ea50e3f1~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1339,
+      "largeur_origine": 3872,
+      "hauteur_origine": 2592,
+      "poids": 374510,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-2.jpg",
+      "nom": "public-scolaire-2",
+      "origine": "https://static.wixstatic.com/media/026d60_56baedafee594ce7b143b33241ed7ad3~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1339,
+      "largeur_origine": 3872,
+      "hauteur_origine": 2592,
+      "poids": 273258,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-3.jpg",
+      "nom": "public-scolaire-3",
+      "origine": "https://static.wixstatic.com/media/026d60_e7b605f6e738496d9106471e25e7c3d0~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1500,
+      "largeur_origine": 3648,
+      "hauteur_origine": 2736,
+      "poids": 621652,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-4.jpg",
+      "nom": "public-scolaire-4",
+      "origine": "https://static.wixstatic.com/media/026d60_69c1190996eb405f85c124248cc161de~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1125,
+      "largeur_origine": 3264,
+      "hauteur_origine": 1836,
+      "poids": 381982,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-5.jpg",
+      "nom": "public-scolaire-5",
+      "origine": "https://static.wixstatic.com/media/026d60_060cd3b9d118444aa2b981cdcbec5386~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1125,
+      "largeur_origine": 3000,
+      "hauteur_origine": 1688,
+      "poids": 758856,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-6.jpg",
+      "nom": "public-scolaire-6",
+      "origine": "https://static.wixstatic.com/media/026d60_72700e749d324801a02a1eb7e1a6475d~mv2_d_1786_1967_s_2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1786,
+      "hauteur": 1967,
+      "poids": 296402,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "champ-ble.jpg",
+      "nom": "champ-ble",
+      "origine": "https://static.wixstatic.com/media/9156348f9b554babaa4d6c009ce2db0f.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Champ de blé",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1980,
+      "hauteur": 1200,
+      "poids": 1491559,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-7.jpg",
+      "nom": "public-scolaire-7",
+      "origine": "https://static.wixstatic.com/media/026d60_f194f25abbe24045894f0532513a4cd0~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 1240,
+      "hauteur": 1860,
+      "poids": 725589,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-8.jpg",
+      "nom": "public-scolaire-8",
+      "origine": "https://static.wixstatic.com/media/026d60_487a882537304d2c881438112fde5c9e~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 940,
+      "hauteur": 788,
+      "poids": 150182,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "public-scolaire-9.jpg",
+      "nom": "public-scolaire-9",
+      "origine": "https://static.wixstatic.com/media/026d60_92995c0a5acb40d6ba260ffeeaf829af~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 900,
+      "hauteur": 675,
+      "poids": 351235,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "anniversaire-enfant.jpg",
+      "nom": "anniversaire-enfant",
+      "origine": "https://static.wixstatic.com/media/026d60_720c93d4217744049fad7480b2f3c7e2~mv2.jpg",
+      "page": "https://www.villamageroy.com/public-scolaire",
+      "pages": 2,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Anniversaire enfant",
+        "legende": "",
+        "titre": "",
+        "section": "PUBLIC SCOLAIRE",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 554,
+      "hauteur": 511,
+      "poids": 223839,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "cb-scout5-hdpi.png",
+      "nom": "cb-scout5-hdpi",
+      "origine": "https://maps.gstatic.com/mapfiles/api-3/images/cb_scout5_hdpi.png",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "cb_scout5_hdpi"
+      },
+      "largeur": 430,
+      "hauteur": 1670,
+      "poids": 104139,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "informations-pratiques.png",
+      "nom": "informations-pratiques",
+      "origine": "https://static.wixstatic.com/media/95afa43c29974c079efe9199cbba61ef.png",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "INFORMATIONS PRATIQUES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 600,
+      "poids": 9643,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "informations-pratiques-2.png",
+      "nom": "informations-pratiques-2",
+      "origine": "https://static.wixstatic.com/media/bbe69e11b9504ce0bc3172f4cc4eb13c.png",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "INFORMATIONS PRATIQUES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 600,
+      "poids": 16056,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "informations-pratiques-3.png",
+      "nom": "informations-pratiques-3",
+      "origine": "https://static.wixstatic.com/media/dce61e681e78441bae6c80aa101ba435.png",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "INFORMATIONS PRATIQUES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 600,
+      "poids": 12989,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "informations-pratiques-4.png",
+      "nom": "informations-pratiques-4",
+      "origine": "https://static.wixstatic.com/media/ab3a023e6d0a45bba285728d1487cc99.png",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "INFORMATIONS PRATIQUES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 600,
+      "poids": 15026,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "informations-pratiques-5.png",
+      "nom": "informations-pratiques-5",
+      "origine": "https://static.wixstatic.com/media/6bf2a02794ec426f9ab243aaf4ba5b91.png",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "INFORMATIONS PRATIQUES",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 600,
+      "hauteur": 600,
+      "poids": 21936,
+      "format": "png",
+      "transparence": true,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-17.webp",
+      "nom": "site-archeologique-villa-mageroy-17",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8447!3i5575!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=109857",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 12094,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-18.webp",
+      "nom": "site-archeologique-villa-mageroy-18",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8446!3i5575!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=13386",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 5850,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-19.webp",
+      "nom": "site-archeologique-villa-mageroy-19",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8448!3i5575!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=75257",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 17608,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-20.webp",
+      "nom": "site-archeologique-villa-mageroy-20",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8448!3i5577!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=29134",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 22108,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-21.webp",
+      "nom": "site-archeologique-villa-mageroy-21",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8447!3i5577!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=63734",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 13512,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-22.webp",
+      "nom": "site-archeologique-villa-mageroy-22",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8446!3i5577!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=98334",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 15930,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-23.webp",
+      "nom": "site-archeologique-villa-mageroy-23",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8446!3i5576!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=55860",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 14474,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-24.webp",
+      "nom": "site-archeologique-villa-mageroy-24",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8447!3i5576!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=21260",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 22578,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-25.webp",
+      "nom": "site-archeologique-villa-mageroy-25",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8448!3i5576!4i256!2m3!1e0!2sm!3i804570536!3m13!2sfr!3sBE!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=117731",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 16452,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "staticmapservice.png",
+      "nom": "staticmapservice",
+      "origine": "https://maps.googleapis.com/maps/api/js/StaticMapService.GetMapImage?1m2&1i2162304&2i1427429&2e1&3u14&4m2&1u608&2u386&5m6&1e0&5sfr&6sbe&10b1&12b1&14i47083502&8e1&key=AIzaSyCu6mU4lWgbxynxwy3yYJZcEZKO0QYnFu4&token=71809",
+      "page": "https://www.villamageroy.com/informations-pratiques",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "StaticMapService"
+      },
+      "largeur": 608,
+      "hauteur": 386,
+      "poids": 25450,
+      "format": "png",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "scolaire.jpg",
+      "nom": "scolaire",
+      "origine": "https://static.wixstatic.com/media/026d60_fbade36d26584ab69d65e4cbc831e676~mv2_d_3383_2151_s_2.jpg",
+      "page": "https://www.villamageroy.com/visiter",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Scolaire",
+        "legende": "",
+        "titre": "",
+        "section": "VISITER LA VILLA DE MAGEROY",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 2000,
+      "hauteur": 1272,
+      "largeur_origine": 3383,
+      "hauteur_origine": 2151,
+      "poids": 656272,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "stages-2.jpg",
+      "nom": "stages-2",
+      "origine": "https://static.wixstatic.com/media/026d60_5ed9d7aec04246489274c469f741144c~mv2.jpg",
+      "page": "https://www.villamageroy.com/visiter",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Stages",
+        "legende": "",
+        "titre": "",
+        "section": "VISITER LA VILLA DE MAGEROY",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 553,
+      "hauteur": 511,
+      "poids": 190139,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "infos-pratiques.jpg",
+      "nom": "infos-pratiques",
+      "origine": "https://static.wixstatic.com/media/026d60_e8ee178fd74e40c9bd4b28c2e1e8e9a8~mv2.jpg",
+      "page": "https://www.villamageroy.com/visiter",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Infos pratiques",
+        "legende": "",
+        "titre": "",
+        "section": "VISITER LA VILLA DE MAGEROY",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 552,
+      "hauteur": 511,
+      "poids": 151698,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "adultes.jpg",
+      "nom": "adultes",
+      "origine": "https://static.wixstatic.com/media/026d60_d5157241ce49476894d2d63d781f52b4~mv2.jpg",
+      "page": "https://www.villamageroy.com/visiter",
+      "pages": 1,
+      "emplacement": "img",
+      "contexte": {
+        "alt": "Adultes",
+        "legende": "",
+        "titre": "",
+        "section": "VISITER LA VILLA DE MAGEROY",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 553,
+      "hauteur": 510,
+      "poids": 210837,
+      "format": "jpeg",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "hqdefault.webp",
+      "nom": "hqdefault",
+      "origine": "https://i.ytimg.com/vi_webp/rIpUKpMBICk/hqdefault.webp",
+      "page": "https://www.villamageroy.com/visiter",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": "hqdefault"
+      },
+      "largeur": 480,
+      "hauteur": 360,
+      "poids": 15052,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-26.webp",
+      "nom": "site-archeologique-villa-mageroy-26",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8445!3i5576!4i256!2m3!1e0!2sm!3i804570482!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=124490",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 10114,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-27.webp",
+      "nom": "site-archeologique-villa-mageroy-27",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8446!3i5576!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=18392",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 8468,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-28.webp",
+      "nom": "site-archeologique-villa-mageroy-28",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8449!3i5576!4i256!2m3!1e0!2sm!3i804570158!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=115455",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 6016,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-29.webp",
+      "nom": "site-archeologique-villa-mageroy-29",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8447!3i5576!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=50198",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 9090,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-30.webp",
+      "nom": "site-archeologique-villa-mageroy-30",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8446!3i5575!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=46208",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 6182,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-31.webp",
+      "nom": "site-archeologique-villa-mageroy-31",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8446!3i5577!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=121647",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 7312,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-32.webp",
+      "nom": "site-archeologique-villa-mageroy-32",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8448!3i5576!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=82004",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 5744,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-33.webp",
+      "nom": "site-archeologique-villa-mageroy-33",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8449!3i5577!4i256!2m3!1e0!2sm!3i804570104!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=79624",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 6524,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-34.webp",
+      "nom": "site-archeologique-villa-mageroy-34",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8449!3i5575!4i256!2m3!1e0!2sm!3i804570158!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=12200",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 11004,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-35.webp",
+      "nom": "site-archeologique-villa-mageroy-35",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8448!3i5577!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=54188",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 7134,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-36.webp",
+      "nom": "site-archeologique-villa-mageroy-36",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8447!3i5575!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=78014",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 4774,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-37.webp",
+      "nom": "site-archeologique-villa-mageroy-37",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8445!3i5575!4i256!2m3!1e0!2sm!3i804570482!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=21235",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 5756,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-38.webp",
+      "nom": "site-archeologique-villa-mageroy-38",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8447!3i5577!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=22382",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 8820,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-39.webp",
+      "nom": "site-archeologique-villa-mageroy-39",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8448!3i5575!4i256!2m3!1e0!2sm!3i804570536!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=109820",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 11646,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    },
+    {
+      "fichier": "site-archeologique-villa-mageroy-40.webp",
+      "nom": "site-archeologique-villa-mageroy-40",
+      "origine": "https://maps.googleapis.com/maps/vt?pb=!1m5!1m4!1i14!2i8445!3i5577!4i256!2m3!1e0!2sm!3i804570158!3m18!2sfr!3sUS!5e18!12m5!1e68!2m2!1sset!2sRoadmap!4e2!12m3!1e37!2m1!1ssmartmaps!12m4!1e26!2m2!1sstyles!2zcy5lOmd8cC5jOiNmNWY1ZjUscy5lOmwuaXxwLnY6b2ZmLHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLmU6bC50LnN8cC5jOiNmNWY1ZjUscy50OjIxfHMuZTpsLnQuZnxwLmM6I2JkYmRiZCxzLnQ6MnxzLmU6Z3xwLmM6I2VlZWVlZSxzLnQ6MnxzLmU6bC50LmZ8cC5jOiM3NTc1NzUscy50OjQwfHMuZTpnfHAuYzojZTVlNWU1LHMudDo0MHxzLmU6bC50LmZ8cC5jOiM5ZTllOWUscy50OjN8cy5lOmd8cC5jOiNmZmZmZmYscy50OjUwfHMuZTpsLnQuZnxwLmM6Izc1NzU3NSxzLnQ6NDl8cy5lOmd8cC5jOiNkYWRhZGEscy50OjQ5fHMuZTpsLnQuZnxwLmM6IzYxNjE2MSxzLnQ6NTF8cy5lOmwudC5mfHAuYzojOWU5ZTllLHMudDo2NXxzLmU6Z3xwLmM6I2U1ZTVlNSxzLnQ6NjZ8cy5lOmd8cC5jOiNlZWVlZWUscy50OjZ8cy5lOmd8cC5jOiNjOWM5Yzkscy50OjZ8cy5lOmwudC5mfHAuYzojOWU5ZTll!4e0!5m2!1e3!5f2!23i46991212!23i47054750!23i47083502&key=AIzaSyB4HdxGiJB3BZvRoYGNVJ2cQufiyu2e3oE&token=91486",
+      "page": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "pages": 1,
+      "emplacement": "reseau",
+      "contexte": {
+        "alt": "",
+        "legende": "",
+        "titre": "",
+        "section": "",
+        "page": "site archéologique VILLA DE MAGEROY avec l'asbl arc-hab",
+        "fichier_origine": ""
+      },
+      "largeur": 512,
+      "hauteur": 512,
+      "poids": 5566,
+      "format": "webp",
+      "transparence": false,
+      "drapeau": "autre"
+    }
+  ],
+  "ecartees": [
+    {
+      "url": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/la-quete-aux-oeufs-dor-de-minerve",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/chasse-aux-oeufs-14h-3",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/chasse-aux-oeufs-14h-3",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/chasse-aux-oeufs-16h-1",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/chasse-aux-oeufs-16h-1",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/chasse-aux-oeufs-10h",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://www.villamageroy.com/event-details/chasse-aux-oeufs-10h",
+      "raison": "pas une image"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/81af6121f84c41a5b4391d7d37fce12a.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_fe985b889c144b348eefc7bbc67018b4~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/9f9c321c774844b793180620472aa4f1.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/11062b_5f4e45b417034e48a0422fb4d97c4c2c~mv2.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_29d5ccc724b24233ae4282c28ad335d6~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_4eb6a60cfcc843dd842219af54f16876~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_0fa6ccb60ef444128a8d17ef86375c9a~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_aa9d014d1ffa4fb49f4911305a9289e4~mv2.png",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_1406b615a9844de2868a843d9505dd36~mv2.png",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_7a7622f317c1437b991d6c3020ced8e0~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_6624c6489da3447aaa48fd34b9b98256~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_363650a6b7ef4f418715d1b9d0d204c1~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_f9a8d79db46c4d3cbe9ab0e6fee7c470~mv2.jpg",
+      "raison": "repetee sur 41/42 pages"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/ce6ec7c11b174c0581e20f42bb865ce3.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_e63d17f55fa24ec0b125844001f6f809~mv2.jpg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/tiny_arrows.d77e491d.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.youtube.com/generate_204?EK23hA",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/far-building.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/far-calendar.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/far-map-marker-alt.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/far-globe.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/fal-chevron-right.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/fal-chevron-down.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/fal-times.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/fa-icons/far-check.svg",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.parastorage.com/services/santa-resources/resources/editor/designPanel/panelTypes/default_pin_icon.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/transparent.png",
+      "raison": "icone"
+    },
+    {
+      "url": "https://www.youtube.com/generate_204?EeoWTw",
+      "raison": "icone"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/40d80b8089c8418a961cb75d96d491f7.png",
+      "raison": "105 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_2213f22803aa4430a1fcf1a5dea74465~mv2.jpg",
+      "raison": "258 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_f38b52a5e988488186e51f5730afa9c3~mv2.jpg",
+      "raison": "258 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_8ea5bf6813b84c17983db8617ad6f3f0~mv2.jpg",
+      "raison": "299 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_16517da3cecc4b23a80d5195be56a051~mv2_d_4189_3142_s_4_2.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_6bda4eb37d1f40ddb14956be9d546ecd~mv2_d_3872_2592_s_4_2.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_3a709b4538994ec69182bedc0afe132f~mv2.jpg",
+      "raison": "299 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_4cefa2cad76e48898decc559cc47901e~mv2.jpg",
+      "raison": "200 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_561ac797066f4054b5504a9ab69c4199~mv2.jpg",
+      "raison": "150 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_9f6e4f48087541d0836f4ff32921de8c~mv2.png",
+      "raison": "211 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_2516d9ead69048b684bf0b01113c40f6~mv2.jpg",
+      "raison": "200 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_6638e4bbe1be44d0ac4d3ad0985b9d0c~mv2.jpg",
+      "raison": "212 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_15a0f2047e534c628f5057055598df6d~mv2.png",
+      "raison": "200 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_bd83c01bd6ad480cadf55357001dd1f2~mv2.jpeg",
+      "raison": "397 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_5904866ef7ce4aa7871baab0d7b8ea04~mv2.gif",
+      "raison": "160 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_5513666cb667412b93b70c24097c0f8b~mv2.gif",
+      "raison": "220 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_1e654a9446394ed2ac445a01494fbc3d~mv2.jpg",
+      "raison": "250 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_cdc19d8184264e37ae3333e557d3f993~mv2.jpg",
+      "raison": "141 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_89eca3cee8d741d8ad9bd150122b4290~mv2.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_6f3513a6494d424fbb312a2006ea50a2~mv2_d_5760_3840_s_4_2.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_5a233a8e315d4167b4bb839e94c118ea~mv2_d_2048_1365_s_2.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_428204c62d72b2e3a81b1dbec556468d.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_d592b1b823764bcca9a0429f664e53ea~mv2.jpg",
+      "raison": "297 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_ead89a462dbbc9a086db19436111d385.jpg",
+      "raison": "echec : HTTP 403"
+    },
+    {
+      "url": "https://www.petitfute.com/img/professionnel/plaquepf.png",
+      "raison": "100 px de large"
+    },
+    {
+      "url": "https://www.petitfute.com/medias/plaque/current/plaque.jpg",
+      "raison": "300 px de large"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/hanne-adil-triest.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://media.cdn-giveaday.eu/assets/img/interests-brown/interesse-cultuur-brown.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-praktisch-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-shopping-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-begeleiding-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-muziek-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-cultuur-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-administratie-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-financieel-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-jongeren-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-multicultureel-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-gezondheid-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-heritage-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-educatie-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-mensenrechten-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-duurzaamheid-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://media.cdn-giveaday.eu/assets/img/interests-brown/interesse-festivals-brown.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/accessibility/nederlands.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-dieren-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-senioren-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-communicatie-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/accessibility/fysieke.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-technologie-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-horeca-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-handicap-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-onthaal-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-vervoer-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/accessibility/student.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-festivals-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/accessibility/psychische.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-armoede-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-reizen-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-animatie-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-company-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-LGBT-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/accessibility/dementia.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-organisatie-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-vluchtelingen-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-sport-spel-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-denken-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-kinderen-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-childcare-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-natuur-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/accessibility/justicieel.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/openhand_8_8.cur",
+      "raison": "echec : Input buffer contains unsupported image format"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/grey-interests/interesse-hulpverlening-grey.svg",
+      "raison": "svg decoratif"
+    },
+    {
+      "url": "https://i.ytimg.com/vi/feCYXMjNgHQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuS8ZGgRdllcMbuTODGT-gEvSSHg",
+      "raison": "168 px de large"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/api-3/images/drag-cross_hdpi.png",
+      "raison": "26 px de large"
+    },
+    {
+      "url": "https://yt3.ggpht.com/LeLVhSC5CdxKKsIbbaEj4DoMv-vYJZNnwQZhBGR9nFgdC-0S9MS-N9fY9UPtu85B14Peb48nHu4=s68-c-k-c0x00ffffff-no-rj",
+      "raison": "68 px de large"
+    },
+    {
+      "url": "https://yt3.ggpht.com/LeLVhSC5CdxKKsIbbaEj4DoMv-vYJZNnwQZhBGR9nFgdC-0S9MS-N9fY9UPtu85B14Peb48nHu4=s88-c-k-c0x00ffffff-no-rj",
+      "raison": "88 px de large"
+    },
+    {
+      "url": "https://maps.gstatic.com/mapfiles/api-3/images/spotlight-poi3_hdpi.png",
+      "raison": "52 px de large"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_56361b3e4ba842ffa7a1bb75dedef1a5~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/026d60_e7a4df1975f1408abc04abcbeed5c622~mv2.jpg en 1479x1344"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/026d60_3c74e855b37845f3a736b8eac1279be1~mv2.jpg",
+      "raison": "meme image que https://static.wixstatic.com/media/026d60_92995c0a5acb40d6ba260ffeeaf829af~mv2.jpg en 900x675"
+    },
+    {
+      "url": "https://www.giveaday.eu/widget/giveaday_logo_loader.gif",
+      "raison": "meme image que https://www.giveaday.eu/widget/logo.png en 64x64"
+    }
+  ]
+}

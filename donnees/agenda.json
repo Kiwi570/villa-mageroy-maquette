@@ -1,0 +1,122 @@
+[
+ {
+  "id": "saint-nicolas",
+  "debut": "2026-12-05T14:00",
+  "fin": "2026-12-05T15:30",
+  "type": "Famille",
+  "titre": "Saint-Nicolas à la villa",
+  "lieu": "Villa de Mageroy",
+  "prix": "8 € · gratuit pour les moins de 6 ans",
+  "texte": "Une chasse aux signes de Saint-Nicolas en famille, pour découvrir les traditions et les légendes locales. Réservation obligatoire, places limitées.",
+  "reserver": true,
+  "info": "Réservation obligatoire, places limitées"
+ },
+ {
+  "id": "samain",
+  "debut": "2026-10-30T16:30",
+  "fin": "2026-10-30T18:30",
+  "type": "Fête",
+  "titre": "Le Samain s'invite à la villa",
+  "lieu": "Villa de Mageroy",
+  "prix": "8 € · gratuit pour les moins de 6 ans",
+  "texte": "La fête celte de Samain avec animations, contes et feu sacré, en partenariat avec le Musée des Celtes."
+ },
+ {
+  "id": "jardins-memoire",
+  "debut": "2026-10-24T15:00",
+  "type": "Association",
+  "titre": "Jardins de mémoire : Mageroy vivant",
+  "lieu": "Villa de Mageroy",
+  "prix": "Gratuit",
+  "texte": "Réunion participative pour imaginer un futur jardin partagé, projet soutenu par la Fondation Roi Baudouin."
+ },
+ {
+  "id": "biere",
+  "debut": "2026-10-10T11:00",
+  "fin": "2026-10-10T16:30",
+  "type": "Fête",
+  "titre": "La bière dans l'Antiquité",
+  "lieu": "Villa de Mageroy",
+  "prix": "5 € · gratuit pour les moins de 6 ans",
+  "texte": "Animations et visites guidées à 11 h 30 et 15 h sur la bière et la vie romaine, avec un bar de bières locales."
+ },
+ {
+  "id": "patrimoine",
+  "debut": "2026-09-12",
+  "fin": "2026-09-13",
+  "type": "Visite",
+  "titre": "Journées du Patrimoine : « Question pour un César ! »",
+  "lieu": "Villa de Mageroy",
+  "prix": "Gratuit",
+  "texte": "Une visite-jeu par équipes sur les loisirs de la Rome antique, quiz et défis compris. Site ouvert de 10 h à 17 h, animations à 11 h et 15 h."
+ },
+ {
+  "id": "mercredis",
+  "debut": "2026-07-01T11:00",
+  "fin": "2026-08-26T12:15",
+  "type": "Visite",
+  "titre": "Les Mercredis de Mageroy",
+  "lieu": "Villa de Mageroy",
+  "prix": "3 € · gratuit pour les moins de 6 ans",
+  "texte": "Chaque mercredi de l'été, une visite guidée par un archéologue, avec l'observation des fouilles en cours."
+ },
+ {
+  "id": "portes-ouvertes",
+  "debut": "2026-07-31",
+  "fin": "2026-08-01",
+  "type": "Archéologie",
+  "titre": "L'archéologie en action : portes ouvertes",
+  "lieu": "Villa de Mageroy",
+  "prix": "Gratuit, inscription pour les visites",
+  "texte": "Visites guidées des fouilles, objets exhumés et échanges avec les spécialistes."
+ },
+ {
+  "id": "jea",
+  "debut": "2026-06-12T16:00",
+  "fin": "2026-06-13T15:15",
+  "type": "Archéologie",
+  "titre": "Journées européennes de l'Archéologie",
+  "lieu": "Villa de Mageroy",
+  "prix": "Gratuit, inscription indispensable",
+  "texte": "« Archéologues : les détectives du passé », une animation d'1 h 15 pour découvrir le métier d'archéologue."
+ },
+ {
+  "id": "adeps",
+  "debut": "2026-05-25T08:00",
+  "type": "Balade",
+  "titre": "Marche Adeps du lundi de Pentecôte",
+  "lieu": "Départ de la villa",
+  "prix": "Gratuit",
+  "texte": "Parcours fléchés de 5, 10, 15 et 20 km, avec une courte visite guidée possible."
+ },
+ {
+  "id": "suivez-le-guide",
+  "debut": "2026-05-16T10:00",
+  "fin": "2026-05-16T11:30",
+  "type": "Visite",
+  "titre": "Festival « Suivez le guide ! »",
+  "lieu": "Villa de Mageroy",
+  "prix": "5 € · 3 € pour les moins de 12 ans",
+  "texte": "Une balade d'1 h 30 pour plonger dans l'histoire du site."
+ },
+ {
+  "id": "minerve",
+  "debut": "2026-04-01T14:00",
+  "fin": "2026-04-01T15:00",
+  "type": "Famille",
+  "titre": "La quête des œufs d'or de Minerve",
+  "lieu": "Villa de Mageroy",
+  "prix": "8 € par enfant de 4 à 11 ans",
+  "texte": "Une aventure mythologique de Pâques pour les enfants."
+ },
+ {
+  "id": "fil-eau",
+  "debut": "2026-03-24",
+  "fin": "2026-03-26",
+  "type": "Visite",
+  "titre": "Mageroy au fil de l'eau",
+  "lieu": "Villa de Mageroy",
+  "prix": "Gratuit",
+  "texte": "Sur les traces antiques de l'eau : les bains et la gestion de l'eau à l'époque gallo-romaine, avec le Contrat de rivière Semois-Chiers."
+ }
+]

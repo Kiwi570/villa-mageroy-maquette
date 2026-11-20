@@ -1,0 +1,16 @@
+{
+ "id": "20261120-163835-standard-cible-partiel",
+ "date": "2026-11-20T16:40:59.919Z",
+ "niveau": "standard",
+ "pages": "/,/agenda,/contact,/le-site,/visiter,/ecoles",
+ "etapes": [
+  "fichiers",
+  "mesures"
+ ],
+ "version": "1",
+ "echecs": 5,
+ "aRegarder": 14,
+ "nonLances": 0,
+ "manquants": 0,
+ "statut": "échecs"
+}

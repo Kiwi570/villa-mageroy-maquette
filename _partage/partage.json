@@ -1,0 +1,221 @@
+{
+  "avertissements": [],
+  "cartes": [
+    {
+      "page": "accueil",
+      "langue": "fr",
+      "fichier": "assets/partage/accueil-fr.jpg",
+      "gabarit": "droite",
+      "image": "accueil-coquelicots-1280.webp",
+      "poids": 117485,
+      "sujet": {
+        "x": 602,
+        "y": 83,
+        "l": 457,
+        "h": 398
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 235,
+          "l": 480,
+          "h": 193
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "agenda",
+      "langue": "fr",
+      "fichier": "assets/partage/agenda-fr.jpg",
+      "gabarit": "droite",
+      "image": "agenda-fete-romaine-1280.webp",
+      "poids": 90653,
+      "sujet": {
+        "x": 600,
+        "y": 43,
+        "l": 600,
+        "h": 587
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "contact",
+      "langue": "fr",
+      "fichier": "assets/partage/contact-fr.jpg",
+      "gabarit": "droite",
+      "image": "contact-pavillon-1280.webp",
+      "poids": 90011,
+      "sujet": {
+        "x": 600,
+        "y": 67,
+        "l": 600,
+        "h": 404
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 299,
+          "l": 480,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "ecoles",
+      "langue": "fr",
+      "fichier": "assets/partage/ecoles-fr.jpg",
+      "gabarit": "droite",
+      "image": "ecoles-legionnaires-1280.webp",
+      "poids": 100127,
+      "sujet": {
+        "x": 742,
+        "y": 135,
+        "l": 313,
+        "h": 434
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 235,
+          "l": 480,
+          "h": 193
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        },
+        {
+          "x": 600,
+          "y": 0,
+          "l": 90,
+          "h": 630
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "le-site",
+      "langue": "fr",
+      "fichier": "assets/partage/le-site-fr.jpg",
+      "gabarit": "droite",
+      "image": "site-fouilles-1280.webp",
+      "poids": 95931,
+      "sujet": {
+        "x": 600,
+        "y": 47,
+        "l": 600,
+        "h": 582
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "visiter",
+      "langue": "fr",
+      "fichier": "assets/partage/visiter-fr.jpg",
+      "gabarit": "droite",
+      "image": "visiter-vestiges-pavillon-1280.webp",
+      "poids": 118034,
+      "sujet": {
+        "x": 600,
+        "y": 164,
+        "l": 600,
+        "h": 256
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+… fichiers
+  fait en 0 s
+… mesures
+  17/117
+  42/117
+  70/117
+  94/117
+  fait en 146 s
+… mesures:balayage
+  fait en 19 s
+
+Échecs : 1 · À regarder : 8 · Non lancé : 0
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --complet --pages=/,/agenda --seulement=fichiers,mesures
+Rapport : /home/claude/villa-mageroy-maquette/_audit/rapport/rapport.md (passe 20261120-165237-complet-cible-partiel)

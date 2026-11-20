@@ -1,0 +1,42 @@
+… fichiers
+  fait en 0 s
+… grille
+  fait en 41 s
+… mesures
+  20/77
+  42/77
+  59/77
+  77/77
+  fait en 120 s
+… mesures:balayage
+  fait en 37 s
+… films
+  fait en 175 s
+… bords
+  fait en 90 s
+… parcours:intro
+  fait en 73 s
+… parcours:menu
+  fait en 5 s
+… parcours:liens
+  fait en 147 s
+… parcours:hauteur
+  fait en 62 s
+… parcours:projet
+  fait en 0 s
+… ecran
+  fait en 48 s
+… fluidite
+  fait en 218 s
+… mouvement
+  fait en 140 s
+… vitesse
+  fait en 21 s
+… captures
+  fait en 176 s
+… safari
+  fait en 0 s
+
+Échecs : 1 · À regarder : 19 · Non lancé : 1
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --seulement=fichiers,parcours
+Rapport : /home/claude/villa-mageroy-maquette/_audit/rapport/rapport.md (passe 20261120-165738-standard)

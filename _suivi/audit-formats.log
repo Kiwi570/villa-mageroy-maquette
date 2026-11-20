@@ -1,0 +1,21 @@
+… mesures
+  15/273
+  40/273
+  66/273
+  91/273
+  121/273
+  146/273
+  168/273
+  193/273
+  210/273
+  237/273
+  254/273
+  fait en 354 s
+… mesures:balayage
+  fait en 56 s
+… ecran
+  fait en 64 s
+
+Échecs : 5 · À regarder : 11 · Non lancé : 0
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --complet --pages=/,/404,/agenda --seulement=fichiers,mesures
+Rapport : /home/claude/villa-mageroy-maquette/_audit/rapport/rapport.md (passe 20261120-164422-complet-partiel)

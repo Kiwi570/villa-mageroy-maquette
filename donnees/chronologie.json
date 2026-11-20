@@ -1,0 +1,51 @@
+[
+ {
+  "siecle": "I",
+  "quand": "Milieu du Ier siècle",
+  "titre": "Les premières traces",
+  "texte": "Des objets montrent que les lieux sont occupés dès le milieu du Ier siècle, même si aucune maison de cette époque n'a encore été retrouvée."
+ },
+ {
+  "siecle": "II",
+  "quand": "Début du IIe siècle",
+  "titre": "Une maison de pierre",
+  "texte": "Le corps de logis est bâti en pierre, plein sud : salle centrale, galerie à colonnade, aile des communs et aile des appartements."
+ },
+ {
+  "siecle": "II",
+  "quand": "Milieu du IIe siècle",
+  "titre": "L'apogée",
+  "texte": "La villa se tourne vers le nord, s'ouvre sur une cour résidentielle et s'offre des bains chauffés par hypocauste. Un grand bassin d'environ 900 m² est creusé : sa fonction reste une énigme.",
+  "image": true
+ },
+ {
+  "siecle": "III",
+  "quand": "IIIe siècle",
+  "titre": "Le domaine s'agrandit",
+  "texte": "Nouvelles pièces, porche d'entrée, peut-être un atelier de bronziers ; la cour agricole se complète d'écuries, de granges et de logements."
+ },
+ {
+  "siecle": "III",
+  "quand": "Fin du IIIe siècle",
+  "titre": "Le feu",
+  "texte": "Les raids germaniques troublent la région. Un trésor de 105 antoniniens d'argent est caché dans la cave. Après 262, la villa brûle, puis est abandonnée."
+ },
+ {
+  "siecle": "IV",
+  "quand": "Jusqu'à la fin du IVe siècle",
+  "titre": "Les ruines fortifiées",
+  "texte": "Un groupe organisé réoccupe et fortifie les ruines : latrines, tour-silo et deux séchoirs à blé. Quelques objets montrent une présence jusqu'à la seconde moitié du siècle."
+ },
+ {
+  "siecle": "XVII",
+  "quand": "XVIIe siècle",
+  "titre": "Les pierres s'en vont",
+  "texte": "Les derniers murs visibles sont arasés et un four à chaux s'installe dans les ruines du corps de logis."
+ },
+ {
+  "siecle": "1984",
+  "quand": "Depuis 1984",
+  "titre": "Les fouilles",
+  "texte": "Le groupe d'archéologie de Habay, devenu l'asbl ARC-HAB en 1991, fouille, étudie et présente le site, campagne après campagne."
+ }
+]

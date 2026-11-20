@@ -1,0 +1,488 @@
+[
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-3.jpg",
+  "nom": "logo-villa",
+  "role": "logo",
+  "alt": "Villa romaine de Mageroy"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/jardins-memoire-mageroy-vivant.jpg",
+  "nom": "accueil-coquelicots",
+  "role": "ouverture",
+  "ratio": "1:1",
+  "mobile": "4:5",
+  "cadrage": [
+   52,
+   55
+  ],
+  "beaute": 5,
+  "page": "accueil",
+  "alt": "Les murs arasés de la villa de Mageroy au milieu des herbes, des coquelicots au premier plan et la forêt au fond"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/latrines1.jpg",
+  "nom": "carte-visite-libre",
+  "role": "carte-service",
+  "ratio": "3:4",
+  "beaute": 5,
+  "alt": "Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/scolaire.jpg",
+  "nom": "carte-visite-guidee",
+  "role": "carte-service",
+  "ratio": "3:4",
+  "cadrage": [
+   62,
+   52
+  ],
+  "beaute": 4,
+  "alt": "Un groupe suit le chemin de visite entre les vestiges de la villa"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-scolaire.jpg",
+  "nom": "carte-ecoles",
+  "role": "carte-service",
+  "ratio": "3:4",
+  "cadrage": [
+   66,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Des enfants façonnent des poteries en argile pendant un atelier"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/mageroy-fil-eau-traces.jpg",
+  "nom": "carte-evenements",
+  "role": "carte-service",
+  "ratio": "3:4",
+  "cadrage": [
+   40,
+   50
+  ],
+  "beaute": 4,
+  "alt": "Un groupe d'enfants au bord de l'étang du site, devant le pavillon d'accueil"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-8.jpg",
+  "nom": "domaine-vu-du-ciel",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "4:5",
+  "cadrage": [
+   50,
+   50
+  ],
+  "beaute": 5,
+  "alt": "Vue aérienne zénithale du domaine de Mageroy : l'enclos, les murs de la villa, l'étang et les champs autour"
+ },
+ {
+  "source": "recu/grok/evocation-villa.png",
+  "nom": "evocation-villa",
+  "role": "galerie",
+  "ratio": "3:2",
+  "beaute": 4,
+  "page": "Accueil et Le site",
+  "emplacement": "frise des siècles, IIe siècle",
+  "priorite": "Indispensable",
+  "alt": "Évocation d'une villa gallo-romaine à son apogée, au IIe siècle (illustration générée, pas une reconstitution scientifique de Mageroy)",
+  "consigne_scene": "Evocation of a modest 2nd-century AD villa rustica in northern Gaul, a rural farming estate, nothing like a palace or a town, seen from a low hill in warm late afternoon light: a long single-storey stone main house with red clay tile roofs and a colonnaded gallery facing a small walled courtyard, a few barns, stables and farm sheds around a large walled farmyard with a big rectangular water basin, a small stream lined with willows, meadows, a vegetable garden, dark conifer forest on the gentle hills behind, a thin wisp of smoke from one roof, tiny distant figures only, too small to show any face"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/stages-ete-2026-2.jpg",
+  "nom": "ecoles-tablettes",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   50,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Des enfants écrivent sur des tablettes de cire avec un stylet"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/tabletterie.jpg",
+  "nom": "vivre-treviri",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   45,
+   62
+  ],
+  "beaute": 4,
+  "alt": "Objets de tabletterie en os, corne et bois de cerf posés sur une peau, travail des Treviri"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/plantes-aromatiques.jpg",
+  "nom": "vivre-olitores",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   30,
+   55
+  ],
+  "beaute": 4,
+  "alt": "Persil et plantes aromatiques du jardin gallo-romain des Olitores"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/ein-uberblick-uber-ihre.jpg",
+  "nom": "vivre-benevoles",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   58,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Deux fouilleurs dégagent des vestiges à la truelle"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-13.jpg",
+  "nom": "venir-pavillon",
+  "role": "galerie",
+  "ratio": "3:2",
+  "beaute": 4,
+  "alt": "Le pavillon d'accueil vitré derrière les vestiges de la villa"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/decouvrez-archeologie-action-portes.jpg",
+  "nom": "trouvaille",
+  "role": "vignette",
+  "ratio": "3:4",
+  "beaute": 3,
+  "alt": "Deux mains tiennent un objet tout juste sorti de la fouille"
+ },
+ {
+  "source": "recu/grok/crepuscule.png",
+  "source_mobile": "recu/grok/crepuscule-mobile.png",
+  "nom": "appel-crepuscule",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "9:16",
+  "beaute": 4,
+  "page": "Toutes les pages",
+  "emplacement": "appel final, fond",
+  "priorite": "Indispensable",
+  "consigne_scene": "Low remains of ancient stone wall foundations of a farm estate from antiquity in a grassy meadow at blue hour, the walls only knee-high, a deep blue sky with a last thin amber glow above dark wooded hills on the horizon, a few young trees as silhouettes, calm and quiet, the upper half is plain dark sky kept simple for a large title, no buildings with roofs, no lights, no lanterns, no people",
+  "alt": "Les murs bas d'un domaine romain à la tombée du jour (illustration générée)"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/logo.jpg",
+  "nom": "visiter-vestiges-pavillon",
+  "role": "ouverture",
+  "ratio": "16:9",
+  "mobile": "9:16",
+  "cadrage": [
+   45,
+   50
+  ],
+  "beaute": 5,
+  "page": "visiter",
+  "alt": "Les fondations de la villa au premier plan, deux cyprès et le pavillon d'accueil au fond sous un ciel bleu"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/soutenir-asbl-arc-hab-2.jpg",
+  "nom": "visiter-guide",
+  "role": "galerie",
+  "ratio": "4:3",
+  "beaute": 3,
+  "alt": "Une guide montre un panneau à un visiteur sur le site"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/biere-antiquite-oktoberfeest-mageroy.jpg",
+  "nom": "visiter-combinee",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   55,
+   70
+  ],
+  "beaute": 4,
+  "alt": "Amphore, cruches et tonneau posés dans l'herbe devant les vestiges"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/soutenir-asbl-arc-hab.jpg",
+  "nom": "visiter-conference",
+  "role": "vignette",
+  "ratio": "3:2",
+  "beaute": 3,
+  "alt": "Une conférence dans la salle du pavillon d'accueil"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/anniversaires-enfants.jpg",
+  "nom": "ecoles-legionnaires",
+  "role": "ouverture",
+  "ratio": "21:9",
+  "mobile": "4:5",
+  "cadrage": [
+   62,
+   55
+  ],
+  "beaute": 5,
+  "page": "ecoles",
+  "alt": "Des enfants déguisés en légionnaires derrière leurs boucliers de carton peints, devant le pavillon d'accueil"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-scolaire.jpg",
+  "nom": "atelier-ceramique",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   66,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Atelier céramique : des enfants montent leurs poteries aux colombins"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-scolaire-2.jpg",
+  "nom": "atelier-mosaique",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   50,
+   55
+  ],
+  "beaute": 3,
+  "alt": "Atelier mosaïque : une élève pose des tesselles sur son motif"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-scolaire-3.jpg",
+  "nom": "atelier-alimentation",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   50,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Atelier alimentation : des élèves préparent une recette romaine"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/stages-ete-2026-2.jpg",
+  "nom": "atelier-enfance",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   50,
+   40
+  ],
+  "beaute": 4,
+  "alt": "Atelier enfance gallo-romaine : écrire sur des tablettes de cire"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/stages.jpg",
+  "nom": "atelier-stratification",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   48,
+   55
+  ],
+  "beaute": 4,
+  "alt": "Des enfants avec leurs boucliers au bord de l'étang"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/stages-ete-2026.jpg",
+  "nom": "atelier-fouille",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   50,
+   52
+  ],
+  "beaute": 4,
+  "alt": "Initiation à la fouille : des enfants dégagent la terre à la truelle"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-16.jpg",
+  "nom": "atelier-sport",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "beaute": 3,
+  "alt": "Des enfants s'exercent avec boucliers et épées en bois sur la pelouse"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/decouvrez-archeologie-action-portes.jpg",
+  "nom": "atelier-objets",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "cadrage": [
+   50,
+   45
+  ],
+  "beaute": 3,
+  "alt": "Un objet ancien tenu dans deux mains, prêt à raconter son histoire"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/publications.jpg",
+  "nom": "dossier-pedagogique",
+  "role": "vignette",
+  "ratio": "3:4",
+  "beaute": 3,
+  "alt": "Le dossier pédagogique « Mageroy » et ses fiches"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/fouilles.jpg",
+  "nom": "site-fouilles",
+  "role": "ouverture",
+  "ratio": "1:1",
+  "mobile": "4:5",
+  "cadrage": [
+   45,
+   48
+  ],
+  "beaute": 5,
+  "page": "le-site",
+  "alt": "Vue plongeante sur un sondage : quatre fouilleurs dégagent des tuiles et des pierres"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/journees-fouille.jpg",
+  "nom": "site-fouilleur",
+  "role": "galerie",
+  "ratio": "1:1",
+  "cadrage": [
+   38,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Un jeune fouilleur accroupi nettoie un niveau de terre"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-adultes-2.jpg",
+  "nom": "site-murs",
+  "role": "galerie",
+  "ratio": "1:1",
+  "cadrage": [
+   52,
+   48
+  ],
+  "beaute": 4,
+  "alt": "Murs de fondation de la villa dans l'herbe, collines boisées au fond"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-5.jpg",
+  "nom": "site-aerien",
+  "role": "section-fond",
+  "ratio": "4:3",
+  "mobile": "4:5",
+  "cadrage": [
+   48,
+   50
+  ],
+  "beaute": 4,
+  "alt": "Vue aérienne du domaine de Mageroy entouré de champs"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-scolaire-5.jpg",
+  "nom": "site-vallee",
+  "role": "galerie",
+  "ratio": "16:9",
+  "cadrage": [
+   50,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Les vestiges de la villa dans le creux de la vallée"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-4.jpg",
+  "nom": "agenda-fete-romaine",
+  "role": "ouverture",
+  "ratio": "3:2",
+  "mobile": "4:3",
+  "cadrage": [
+   62,
+   40
+  ],
+  "beaute": 4,
+  "page": "agenda",
+  "alt": "Des reconstitueurs en tunique devant une table de mets romains lors d'une fête à Mageroy"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy.png",
+  "nom": "affiche-saint-nicolas",
+  "role": "vignette",
+  "ratio": "5:7",
+  "beaute": 3,
+  "alt": "Affiche de la chasse aux signes de Saint-Nicolas, samedi 5 décembre 2026"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/site-archeologique-villa-mageroy-12.jpg",
+  "nom": "contact-pavillon",
+  "role": "ouverture",
+  "ratio": "21:9",
+  "mobile": "4:5",
+  "cadrage": [
+   30,
+   40
+  ],
+  "beaute": 5,
+  "page": "contact",
+  "alt": "Le pavillon d'accueil vitré se reflète dans l'étang du site"
+ },
+ {
+  "source": "recu/grok/fouille-vide.png",
+  "nom": "page-404",
+  "role": "404",
+  "ratio": "16:9",
+  "beaute": 4,
+  "page": "404",
+  "emplacement": "page introuvable, en tête",
+  "priorite": "Conseillée",
+  "consigne_scene": "Top view of a small empty archaeological test pit, a neat square of bare brown clay soil framed by taut white strings tied to wooden pegs, a pointed mason's trowel and a soft brush lying on the edge of the pit, nothing found, a few pebbles, soft overcast light, gentle humour, no people",
+  "alt": "Un carré de fouille vide, une truelle posée au bord (illustration générée)"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/latrines1.jpg",
+  "nom": "fin-visiter",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "9:16",
+  "cadrage": [
+   49,
+   40
+  ],
+  "beaute": 5,
+  "alt": "Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/stages.jpg",
+  "nom": "fin-ecoles",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "9:16",
+  "cadrage": [
+   49,
+   55
+  ],
+  "beaute": 4,
+  "alt": "Des enfants avec leurs boucliers peints au bord de l'étang du site"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/1er-juillet-28-aout.png",
+  "nom": "fin-site",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "9:16",
+  "cadrage": [
+   48,
+   45
+  ],
+  "beaute": 4,
+  "alt": "Le domaine de Mageroy vu du ciel, au milieu des prés"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/public-adultes.jpg",
+  "nom": "fin-agenda",
+  "role": "section-fond",
+  "ratio": "16:9",
+  "mobile": "9:16",
+  "cadrage": [
+   70,
+   55
+  ],
+  "beaute": 4,
+  "alt": "Un reconstitueur en tunique rouge devant le pavillon d'accueil"
+ }
+]

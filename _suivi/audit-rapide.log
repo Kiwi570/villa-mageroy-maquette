@@ -1,0 +1,38 @@
+… fichiers
+  fait en 1 s
+… grille
+  fait en 7 s
+… mesures
+  fait en 11 s
+… mesures:balayage
+  fait en 0 s
+… films
+  fait en 40 s
+… bords
+  fait en 13 s
+… parcours:intro
+  fait en 19 s
+… parcours:menu
+  fait en 5 s
+… parcours:liens
+  fait en 84 s
+… parcours:hauteur
+  fait en 9 s
+… parcours:projet
+  fait en 0 s
+… ecran
+  fait en 17 s
+… fluidite
+  fait en 52 s
+… mouvement
+  fait en 41 s
+… vitesse
+  fait en 4 s
+… captures
+  fait en 36 s
+… safari
+  fait en 0 s
+
+Échecs : 58 · À regarder : 17 · Non lancé : 2 (dont 1 requis : audit INCOMPLET)
+Relancer seulement ce qui a échoué : node _audit/audit.mjs --rapide --seulement=fichiers,mesures,ecran,mouvement
+Rapport : /home/claude/villa-mageroy-maquette/_audit/rapport/rapport.md (passe 20261120-160300-rapide-cible)
