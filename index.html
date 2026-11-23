@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" data-v="1">
+<html lang="fr" data-v="2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -35,14 +35,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 })();</script>
 <link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/socle.css?v=1">
-<link rel="stylesheet" href="/assets/css/site.css?v=1">
-<link rel="modulepreload" href="/assets/js/site.js?v=1">
-<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<link rel="stylesheet" href="/assets/css/socle.css?v=2">
+<link rel="stylesheet" href="/assets/css/site.css?v=2">
+<link rel="modulepreload" href="/assets/js/site.js?v=2">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=2">
 <script src="/assets/vendor/gsap.min.js" defer></script>
 <script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/assets/vendor/SplitText.min.js" defer></script>
-<script type="module" src="/assets/js/site.js?v=1"></script>
+<script type="module" src="/assets/js/site.js?v=2"></script>
 <meta name="theme-color" content="#F2ECE2">
 <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
@@ -128,7 +128,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur">
     <div class="section-tete">
       <p class="surtitre">Sur place</p>
-      <h2 data-anime="lignes">Que faire à Mageroy ?</h2>
+      <h2 data-anime="lignes">Que faire à <span class="mot">Mageroy</span> ?</h2>
     </div>
     <ul class="cartes" data-anime="cascade">
       <li class="carte-faire" data-survol="incline" data-survol-force="4">
@@ -186,23 +186,23 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 <section class="frise" id="siecles" data-scene data-entete-cache aria-label="Les siècles de la villa">
   <div class="frise-scene">
     <div class="frise-tete">
-      <div><p class="surtitre">Chronologie</p><h2 data-anime="lignes">Quatre siècles de vie, quarante ans de fouilles</h2></div>
+      <div><p class="surtitre">Chronologie</p><h2 data-anime="lignes">Quatre siècles de vie, <span class="mot">quarante ans</span> de fouilles</h2></div>
       <p class="masque-ecran-bas">Faites défiler les siècles : de la première maison de pierre au feu, puis aux ruines fortifiées.</p>
     </div>
-    <ol class="frise-piste" data-frise-piste data-effet="frise">
+    <ol class="frise-piste" data-frise-piste data-effet="frise" data-visuel>
       <span class="frise-ligne" aria-hidden="true"><span></span></span>
       <li class="etape">
-        <span class="etape-siecle" aria-hidden="true">I</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">I</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M19 5h10M20 5v6c-6 4-9 10-9 17 0 7 5 12 9 15h8c4-3 9-8 9-15 0-7-3-13-9-17V5"/><path d="M20 11c-5 0-7 3-7 6M28 11c5 0 7 3 7 6M18 43l-1 2h14l-1-2"/></svg></span>
         <span class="etape-quand">Milieu du Ier siècle</span>
         <h3>Les premières traces</h3>
         <p>Des objets montrent que les lieux sont occupés dès le milieu du Ier siècle, même si aucune maison de cette époque n&#39;a encore été retrouvée.</p>
       </li><li class="etape">
-        <span class="etape-siecle" aria-hidden="true">II</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">II</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M5 20 24 8l19 12"/><path d="M8 20h32M8 40h32M5 44h38"/><path d="M12 22v18M19 22v18M29 22v18M36 22v18"/></svg></span>
         <span class="etape-quand">Début du IIe siècle</span>
         <h3>Une maison de pierre</h3>
         <p>Le corps de logis est bâti en pierre, plein sud : salle centrale, galerie à colonnade, aile des communs et aile des appartements.</p>
       </li><li class="etape etape--image">
-        <span class="etape-siecle" aria-hidden="true">II</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">II</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M6 24h36v8a8 8 0 0 1-8 8H14a8 8 0 0 1-8-8z"/><path d="M14 18c-2-3 2-5 0-8M24 18c-2-3 2-5 0-8M34 18c-2-3 2-5 0-8"/><path d="M12 40l-2 4M36 40l2 4"/></svg></span>
         <span class="etape-quand">Milieu du IIe siècle</span>
         <h3>L&#39;apogée</h3>
         <p>La villa se tourne vers le nord, s&#39;ouvre sur une cour résidentielle et s&#39;offre des bains chauffés par hypocauste. Un grand bassin d&#39;environ 900 m² est creusé : sa fonction reste une énigme.</p>
@@ -212,27 +212,27 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   </picture><figcaption class="mention-ia">Illustration générée</figcaption>
 </figure>
       </li><li class="etape">
-        <span class="etape-siecle" aria-hidden="true">III</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">III</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M8 38h28l4 6H4z"/><path d="M12 38c2-5 6-7 12-7s10 2 12 7"/><path d="M27 8l10 10M30 5l-6 6 10 10 6-6zM29 16 17 28"/></svg></span>
         <span class="etape-quand">IIIe siècle</span>
         <h3>Le domaine s&#39;agrandit</h3>
         <p>Nouvelles pièces, porche d&#39;entrée, peut-être un atelier de bronziers ; la cour agricole se complète d&#39;écuries, de granges et de logements.</p>
       </li><li class="etape">
-        <span class="etape-siecle" aria-hidden="true">III</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">III</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M24 42c-8 0-13-5-13-12 0-8 7-11 8-20 5 4 6 8 6 12 2-2 3-5 3-8 5 4 9 10 9 16 0 7-5 12-13 12z"/></svg></span>
         <span class="etape-quand">Fin du IIIe siècle</span>
         <h3>Le feu</h3>
         <p>Les raids germaniques troublent la région. Un trésor de 105 antoniniens d&#39;argent est caché dans la cave. Après 262, la villa brûle, puis est abandonnée.</p>
       </li><li class="etape">
-        <span class="etape-siecle" aria-hidden="true">IV</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">IV</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M12 44V14h24v30M12 14V6h5v4h5V6h4v4h5V6h5v8"/><path d="M8 44h32M21 44v-8a3 3 0 0 1 6 0v8M22 22h4"/></svg></span>
         <span class="etape-quand">Jusqu&#39;à la fin du IVe siècle</span>
         <h3>Les ruines fortifiées</h3>
         <p>Un groupe organisé réoccupe et fortifie les ruines : latrines, tour-silo et deux séchoirs à blé. Quelques objets montrent une présence jusqu&#39;à la seconde moitié du siècle.</p>
       </li><li class="etape">
-        <span class="etape-siecle" aria-hidden="true">XVII</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">XVII</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M6 44h36M10 44c0-14 6-22 14-22s14 8 14 22"/><path d="M19 44v-6a5 5 0 0 1 10 0v6"/><path d="M22 16c-3-3 3-5 0-9M28 16c-2-2 2-4 0-6"/></svg></span>
         <span class="etape-quand">XVIIe siècle</span>
         <h3>Les pierres s&#39;en vont</h3>
         <p>Les derniers murs visibles sont arasés et un four à chaux s&#39;installe dans les ruines du corps de logis.</p>
       </li><li class="etape">
-        <span class="etape-siecle" aria-hidden="true">1984</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">1984</span><svg class="etape-icone" viewBox="0 0 48 48" aria-hidden="true"><path d="M8 40 24 8l16 32z"/><path d="M24 8V4M24 24v10"/><path d="M17 26h14"/></svg></span>
         <span class="etape-quand">Depuis 1984</span>
         <h3>Les fouilles</h3>
         <p>Le groupe d&#39;archéologie de Habay, devenu l&#39;asbl ARC-HAB en 1991, fouille, étudie et présente le site, campagne après campagne.</p>
@@ -259,7 +259,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur">
     <div class="section-tete">
       <p class="surtitre">Découvertes</p>
-      <h2 data-anime="lignes">Ce que la terre a gardé</h2>
+      <h2 data-anime="lignes">Ce que la <span class="mot">terre</span> a gardé</h2>
     </div>
     <div class="terre-grille">
       <div class="tresor sur-charbon" data-effet="tresor">
@@ -288,7 +288,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur">
     <div class="section-tete">
       <p class="surtitre">Agenda</p>
-      <h2 data-anime="lignes">Le prochain rendez-vous</h2>
+      <h2 data-anime="lignes">Le prochain <span class="mot">rendez-vous</span></h2>
     </div>
     <div class="rdv-grille">
       <article class="ticket" data-anime="rideau" data-prochain-evenement data-debut="2026-12-05T14:00">
@@ -312,7 +312,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur">
     <div class="section-tete">
       <p class="surtitre">L&#39;association</p>
-      <h2 data-anime="lignes">Ceux qui font vivre la villa</h2>
+      <h2 data-anime="lignes">Ceux qui font <span class="mot">vivre</span> la villa</h2>
       <p data-anime>Le site est géré par l&#39;asbl ARC-HAB, avec une équipe de cinq personnes, un conseil d&#39;administration de sept membres et de nombreux bénévoles.</p>
     </div>
     <ul class="vivre-cartes" data-anime="cascade">
@@ -355,7 +355,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   </picture><figcaption class="mention-ia">Illustration générée</figcaption>
 </figure>
   <div class="fin-contenu">
-    <h2 data-anime="lignes">Venez marcher dans le domaine</h2>
+    <h2 data-anime="lignes">Venez marcher dans le <span class="mot">domaine</span></h2>
     <p data-anime>Entrée libre toute l&#39;année. Visite guidée sur réservation, du lundi au vendredi, et le week-end en prévenant une semaine avant. Rue de Mageroy 2, à Habay-la-Vieille : E411 sortie 29, parking gratuit.</p>
     <p class="fin-actions" data-anime><a href="/visiter#reserver" class="bouton" data-libelle="Visiter" data-survol="magnetique">Réserver une visite guidée</a><a href="/visiter#acces" class="bouton bouton--contour" data-libelle="Visiter">Tous les accès</a></p>
   </div>

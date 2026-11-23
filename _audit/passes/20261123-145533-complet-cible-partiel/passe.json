@@ -1,0 +1,16 @@
+{
+ "id": "20261123-145533-complet-cible-partiel",
+ "date": "2026-11-23T15:00:49.432Z",
+ "niveau": "complet",
+ "pages": "/,/agenda,/visiter,/ecoles,/contact",
+ "etapes": [
+  "fichiers",
+  "mesures"
+ ],
+ "version": "2",
+ "echecs": 0,
+ "aRegarder": 11,
+ "nonLances": 0,
+ "manquants": 0,
+ "statut": "complet"
+}

@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" data-v="1">
+<html lang="fr" data-v="2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -35,14 +35,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 })();</script>
 <link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/socle.css?v=1">
-<link rel="stylesheet" href="/assets/css/site.css?v=1">
-<link rel="modulepreload" href="/assets/js/site.js?v=1">
-<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<link rel="stylesheet" href="/assets/css/socle.css?v=2">
+<link rel="stylesheet" href="/assets/css/site.css?v=2">
+<link rel="modulepreload" href="/assets/js/site.js?v=2">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=2">
 <script src="/assets/vendor/gsap.min.js" defer></script>
 <script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/assets/vendor/SplitText.min.js" defer></script>
-<script type="module" src="/assets/js/site.js?v=1"></script>
+<script type="module" src="/assets/js/site.js?v=2"></script>
 <meta name="theme-color" content="#F2ECE2">
 <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
@@ -146,7 +146,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </figure>
     <div>
       <p class="surtitre">Le lieu</p>
-      <h2 class="titre-section" data-anime="lignes">Une villa dans un creux humide</h2>
+      <h2 class="titre-section" data-anime="lignes">Une villa dans un <span class="mot">creux humide</span></h2>
       <p data-anime>Le domaine s&#39;étendait sur les deux rives de la Rulles, qui sépare la Gaume de l&#39;Ardenne. Les bâtiments ont été construits sur la rive sud, au flanc d&#39;une cuesta gaumaise, près de plusieurs sources. Pour bâtir sur ce sol marécageux, il a fallu apporter beaucoup de sable et creuser des fondations profondes. La chaussée romaine de Reims à Trèves passait non loin.</p>
       <p class="chiffre-cle" data-anime><strong>3,80 m</strong><span>la hauteur de certaines fondations</span></p>
     </div>
@@ -154,7 +154,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="section cordeaux" id="siecles">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Chronologie</p><h2 data-anime="lignes">Du Ier au XVIIe siècle</h2></div>
+    <div class="section-tete"><p class="surtitre">Chronologie</p><h2 data-anime="lignes">Du Ier au <span class="mot">XVIIe</span> siècle</h2></div>
     <ol class="chrono" data-effet="chrono">
       <span class="chrono-fil" aria-hidden="true"><span></span></span>
       <li data-anime>
@@ -215,17 +215,9 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </figure>
     <div>
       <p class="surtitre">Le domaine</p>
-      <h2 class="titre-section" data-anime="lignes">Deux cours dans un grand enclos</h2>
-      <p data-anime>Le mur d&#39;enclos mesure environ 200 mètres sur 145, soit près de 3 hectares.</p>
-      <figure class="cotes" data-visuel>
-  <svg viewBox="0 0 320 270" data-fx="trace" role="img" aria-label="Schéma de l&#39;enclos, sans l&#39;emplacement des bâtiments">
-    <rect class="cote-enclos" x="34" y="56" width="236" height="171" rx="2" data-fx-trait/>
-    <path class="cote-trait" d="M34 30 H270 M34 22 V38 M270 22 V38" data-fx-trait/>
-    <path class="cote-trait" d="M296 56 V227 M288 56 H304 M288 227 H304" data-fx-trait/>
-    <text x="152" y="22" text-anchor="middle">200 m</text>
-    <text x="0" y="0" text-anchor="middle" transform="translate(316 142) rotate(90)">145 m</text>
-  </svg>
-</figure>
+      <h2 class="titre-section" data-anime="lignes">Deux cours dans un <span class="mot">grand enclos</span></h2>
+      <p data-anime>Une cour pour la maison du maître, une autre pour le travail de la terre, toutes deux dans un même mur de pierre.</p>
+      <p class="chiffre-cle" data-anime><strong>200 × 145 m</strong><span>le mur d&#39;enclos, soit près de 3 hectares</span></p>
       <div class="pars" data-anime="cascade">
         <div><h3>Pars urbana</h3><p>La maison du maître : le corps de logis, ses bains et la cour résidentielle.</p></div>
         <div><h3>Pars rustica</h3><p>La cour agricole : quatre bâtiments annexes, un grand bassin et trois fours à chaux.</p></div>
@@ -235,7 +227,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="section" id="decouvertes">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Découvertes</p><h2 data-anime="lignes">Ce que la terre a gardé</h2></div>
+    <div class="section-tete"><p class="surtitre">Découvertes</p><h2 data-anime="lignes">Ce que la <span class="mot">terre</span> a gardé</h2></div>
     <ul class="decouvertes" data-anime="cascade" data-visuel>
       <li><span class="tresor-mini" data-compteur="105">105</span><h3>Le trésor de la cave</h3><p>105 antoniniens d&#39;argent, cachés à la fin du IIIe siècle, quand des raids germaniques menacent la région.</p></li>
       <li><svg viewBox="0 0 48 48" aria-hidden="true"><rect x="7" y="9" width="34" height="30" rx="3"/><rect x="12" y="14" width="24" height="20" rx="1"/><path d="M16 21h14M16 27h10"/></svg><h3>Le bois conservé</h3><p>Grâce à l&#39;argile et à l&#39;humidité, des objets en bois et en fibres ont traversé les siècles : pelles et tuyaux en chêne, décors de meubles, une tablette à écrire, une sandale en paille.</p></li>
@@ -247,7 +239,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur recherche-grille">
     <div>
       <p class="surtitre">Recherche</p>
-      <h2 class="titre-section" data-anime="lignes">Plus de quarante ans de fouilles</h2>
+      <h2 class="titre-section" data-anime="lignes">Plus de <span class="mot">quarante ans</span> de fouilles</h2>
       <p data-anime>Prospections, fouilles programmées, études après la fouille et publications : chaque été, en général de juillet à septembre, une campagne de fouille ouvre de nouveaux carrés. Des étudiants en archéologie et en restauration y participent, en stage ou en bénévoles.</p>
       <p data-anime><strong>Étudiant en archéologie ? Le chantier est gratuit ; les repas et le logement restent à votre charge.</strong></p>
       <a href="/contact?sujet=chantier#formulaire" class="bouton bouton--contour" data-libelle="Contact">Proposer sa participation</a>
@@ -278,8 +270,8 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   </picture>
 </figure>
   <div class="fin-contenu">
-    <h2 data-anime="lignes">Venez marcher dans le domaine</h2>
-    <p data-anime>Entrée libre toute l&#39;année. Visite guidée sur réservation, du lundi au vendredi, et le week-end en prévenant une semaine avant.</p>
+    <h2 data-anime="lignes">Voir les vestiges <span class="mot">de ses yeux</span></h2>
+    <p data-anime>Les murs de la villa, le jardin gallo-romain et l&#39;étang se visitent librement, toute l&#39;année. Une visite guidée raconte le reste.</p>
     <p class="fin-actions" data-anime><a href="/visiter#reserver" class="bouton" data-libelle="Visiter">Réserver une visite guidée</a><a href="/agenda" class="bouton bouton--contour" data-libelle="Agenda">Tout l&#39;agenda</a></p>
   </div>
 </section>

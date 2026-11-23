@@ -1,26 +1,59 @@
 {
-  "nom": "Villa de Mageroy",
-  "nomComplet": "Villa gallo-romaine de Mageroy",
-  "adresse": "https://villa-mageroy-maquette.vercel.app",
-  "siteActuel": "villamageroy.com",
-  "version": 1,
-  "langues": ["fr"],
-  "navigation": ["accueil", "visiter", "ecoles", "le-site", "agenda", "contact"],
-  "actionEntete": { "page": "visiter", "ancre": "reserver" },
-  "couleurs": { "fond": "#F2ECE2", "texte": "#1D1A16", "voile": "#1D1A16", "ouverture": "#1D1A16", "menu": "#F2ECE2", "theme": "#F2ECE2" },
-  "formeVoile": "carroyage",
-  "contact": {
-    "telephone": "063 75 85 44", "telephoneLien": "+3263758544", "email": "villa.mageroy@gmail.com",
-    "adresse": "Rue de Mageroy 2, 6723 Habay-la-Vieille",
-    "bureau": "Rue de la Rochette 12, 6723 Habay-la-Vieille",
-    "siege": "Rue d'Hoffschmidt 13, 6720 Habay-la-Neuve"
+ "nom": "Villa de Mageroy",
+ "nomComplet": "Villa gallo-romaine de Mageroy",
+ "adresse": "https://villa-mageroy-maquette.vercel.app",
+ "siteActuel": "villamageroy.com",
+ "version": 2,
+ "langues": [
+  "fr"
+ ],
+ "navigation": [
+  "accueil",
+  "visiter",
+  "ecoles",
+  "le-site",
+  "agenda",
+  "contact"
+ ],
+ "actionEntete": {
+  "page": "visiter",
+  "ancre": "reserver"
+ },
+ "couleurs": {
+  "fond": "#F2ECE2",
+  "texte": "#1D1A16",
+  "voile": "#1D1A16",
+  "ouverture": "#1D1A16",
+  "menu": "#F2ECE2",
+  "theme": "#F2ECE2"
+ },
+ "formeVoile": "carroyage",
+ "contact": {
+  "telephone": "063 75 85 44",
+  "telephoneLien": "+3263758544",
+  "email": "villa.mageroy@gmail.com",
+  "adresse": "Rue de Mageroy 2, 6723 Habay-la-Vieille",
+  "bureau": "Rue de la Rochette 12, 6723 Habay-la-Vieille",
+  "siege": "Rue d'Hoffschmidt 13, 6720 Habay-la-Neuve"
+ },
+ "reseaux": [
+  {
+   "nom": "Facebook",
+   "url": "https://www.facebook.com/villagalloromainedemageroy/"
   },
-  "reseaux": [
-    { "nom": "Facebook", "url": "https://www.facebook.com/villagalloromainedemageroy/" },
-    { "nom": "Instagram", "url": "https://instagram.com/villamageroy" },
-    { "nom": "YouTube", "url": "https://www.youtube.com/@villademageroyahabaylaviei9904" }
-  ],
-  "polices": ["/assets/fonts/gloock-400.woff2", "/assets/fonts/manrope-variable.woff2"],
-  "imagePartage": "accueil-coquelicots-1280.webp",
-  "curseur": false
+  {
+   "nom": "Instagram",
+   "url": "https://instagram.com/villamageroy"
+  },
+  {
+   "nom": "YouTube",
+   "url": "https://www.youtube.com/@villademageroyahabaylaviei9904"
+  }
+ ],
+ "polices": [
+  "/assets/fonts/gloock-400.woff2",
+  "/assets/fonts/manrope-variable.woff2"
+ ],
+ "imagePartage": "accueil-coquelicots-1280.webp",
+ "curseur": false
 }

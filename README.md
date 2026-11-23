@@ -1,4 +1,4 @@
-# Villa gallo-romaine de Mageroy · maquette v1
+# Villa gallo-romaine de Mageroy · maquette v2
 
 Maquette du futur site de la villa gallo-romaine de Mageroy (asbl ARC-HAB, Habay-la-Vieille), direction « Pierre et ambre ».
 Adresse prévue : https://villa-mageroy-maquette.vercel.app (site statique, sans étape de construction, `cleanUrls` dans `vercel.json`).
@@ -7,15 +7,15 @@ Adresse prévue : https://villa-mageroy-maquette.vercel.app (site statique, sans
 
 | Page | Ouverture | Sections |
 |---|---|---|
-| Accueil `/` | Titre sur la pierre, photo des coquelicots dégagée carré par carré | Que faire, frise des siècles épinglée, domaine vu du ciel en plein écran, trésor et bois conservés, prochain rendez-vous, écoles, association, venir, appel final |
-| Visiter `/visiter` | Photo plein cadre, « 0 € » en très grand | Formules et tarifs, calculateur de visite guidée, réservation simulée, accès, balades autour, FAQ |
-| Écoles `/ecoles` | Grand titre puis bandeau qui s'élargit | Avis travaux, visite scolaire, 8 ateliers filtrables, dossier pédagogique, demande de réservation avec estimation |
-| Le site `/le-site` | Grille de fouille de quatre photos | Le lieu, chronologie, domaine et cotes de l'enclos, découvertes, recherche et revue |
-| Agenda `/agenda` | La prochaine date en très grand | Toutes les dates (module agenda-des-dates : statut au jour réel, filtres, ajout à l'agenda), lettre d'information |
-| Contact `/contact` | Téléphone en grand, bandeau du pavillon | Formulaire prérempli selon la page d'origine, trois adresses, adhésion et bénévolat |
+| Accueil `/` | Titre sur la pierre, photo des coquelicots dégagée carré par carré (photo en premier sur téléphone ; carré de fouille qui suit la souris) | Que faire, frise des siècles épinglée avec un pictogramme par étape, domaine vu du ciel en plein écran, trésor et bois conservés, prochain rendez-vous, association, appel final |
+| Visiter `/visiter` | Photo plein cadre, « 0 € » en très grand | Formules et tarifs en photos, calculateur de visite guidée, réservation simulée, accès, balades autour en photos, FAQ |
+| Écoles `/ecoles` | Grand titre puis bandeau qui s'élargit | Avis travaux, visite scolaire, 8 ateliers filtrables, dossier pédagogique, demande de réservation avec estimation, appel « Une sortie qui laisse des traces » |
+| Le site `/le-site` | Grille de fouille de quatre photos | Le lieu, chronologie, domaine et chiffre de l'enclos, découvertes, recherche et revue |
+| Agenda `/agenda` | La prochaine date en très grand | Toutes les dates (module agenda-des-dates : statut au jour réel, filtres, ajout à l'agenda), la villa en images (cinq rendez-vous de l'année), lettre d'information |
+| Contact `/contact` | Téléphone en grand, bandeau du pavillon | Formulaire prérempli selon la page d'origine, trois adresses à côté du plan d'accès, adhésion et bénévolat |
 | 404 | Carré de fouille vide | — |
 
-Pages du site actuel non reprises dans la v1 (disponibles en v2) : Anniversaires enfants, Stages de vacances, Tourisme (repris en partie dans Visiter), Missions de l'association, Nous soutenir (repris dans Contact), Projets, Partenaires, Projet européen LEADER, Microprojet Interreg, Reconstitution, Treviri, Olitores, Publications, Revues, Ressources scolaires (repris dans Écoles), page en allemand.
+Pages du site actuel non reprises (à ajouter dans une prochaine version) : Anniversaires enfants, Stages de vacances, Tourisme (repris en partie dans Visiter), Missions de l'association, Nous soutenir (repris dans Contact), Projets, Partenaires, Projet européen LEADER, Microprojet Interreg, Reconstitution, Treviri, Olitores, Publications, Revues, Ressources scolaires (repris dans Écoles), page en allemand.
 
 ## Travailler sur la maquette
 
@@ -24,6 +24,7 @@ Pages du site actuel non reprises dans la v1 (disponibles en v2) : Anniversaires
 - Générer les pages : `node outils/generer.mjs` (ne jamais modifier les `.html` à la main).
 - Images : `plan-images.json` puis `node _biblio/images/produire.mjs plan-images.json`. Les images générées (Grok) sont ensuite rangées dans `assets/images/grok/` (`evocation-villa`, `appel-crepuscule`, `page-404`) : c'est ce dossier qui fait apparaître la mention « Illustration générée ».
 - Audit : `node _audit/audit.mjs` (rapport dans `_audit/rapport/`).
+- Historique des versions : `CHANGELOG.md`.
 
 ## À fournir par le client (à compléter)
 
@@ -45,11 +46,11 @@ Pages du site actuel non reprises dans la v1 (disponibles en v2) : Anniversaires
 
 - Tarifs des visites combinées site et musée d'Arlon (« bientôt disponibles ») : non affichés.
 - Nombre de bénévoles et de membres : non affiché (« nombreux » sur le site actuel).
-- Anniversaires et stages : non repris dans la v1 (anniversaires suspendus, stages 2026 passés).
+- Anniversaires et stages : non repris (anniversaires suspendus, stages 2026 passés).
 
 ## À retirer ou à garder à la mise en ligne définitive
 
-- Retirer : `noindex` dans chaque page (`source/gabarits/commun.mjs`) et l'en-tête `X-Robots-Tag` de `vercel.json` ; le mot « Maquette de démonstration » du pied de page ; les formulaires simulés (à brancher sur un vrai envoi) ; les mentions « à compléter » du pied de page (remplacées par les vraies pages).
+- Retirer : `noindex` dans chaque page (`source/gabarits/commun.mjs`) et l'en-tête `X-Robots-Tag` de `vercel.json` ; le mot « Maquette de démonstration » du pied de page ; les formulaires simulés (à brancher sur un vrai envoi) ; les mentions « à compléter » du pied de page (remplacées par les vraies pages), et ajouter le lien vers la politique de confidentialité sous chaque formulaire.
 - Garder : la mention « Illustration générée » sur les trois images générées.
 
 ## Incohérences relevées sur le site actuel

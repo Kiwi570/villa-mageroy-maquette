@@ -2861,13 +2861,13 @@
   },
   "fin-ecoles": {
     "nom": "fin-ecoles",
-    "source": "recu/site/villa-mageroy-recu/stages.jpg",
+    "source": "recu/site/villa-mageroy-recu/stages-ete-2026-2.jpg",
     "role": "section-fond",
-    "alt": "Des enfants avec leurs boucliers peints au bord de l'étang du site",
+    "alt": "Des enfants penchés sur leurs tablettes de cire, stylet à la main",
     "grok": false,
     "mention": null,
     "beaute": 4,
-    "empreinte": "125f92079ce95d51",
+    "empreinte": "42f37c7733c053c9",
     "ratio": "16:9",
     "largeurs": [
       640,
@@ -2877,69 +2877,68 @@
     "mobile": {
       "ratio": "9:16",
       "largeurs": [
-        640,
-        1080
+        640
       ],
-      "cadrage": "50% 55%"
+      "cadrage": "50% 40%"
     },
-    "cadrage": "49% 50%",
+    "cadrage": "52% 49%",
     "sujet": {
-      "x": 16.6,
-      "y": 10,
-      "l": 60.9,
-      "h": 87.9
+      "x": 6.3,
+      "y": 0,
+      "l": 93.7,
+      "h": 100
     },
     "zones_calmes": [
       {
-        "cote": "droite",
-        "score": 0.26,
-        "ton": "moyen"
-      },
-      {
-        "cote": "haut",
-        "score": 0.26,
+        "cote": "bas",
+        "score": 0.24,
         "ton": "moyen"
       },
       {
         "cote": "gauche",
-        "score": 0.17,
+        "score": 0.02,
         "ton": "moyen"
       },
       {
-        "cote": "bas",
-        "score": 0.16,
+        "cote": "droite",
+        "score": 0,
         "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0,
+        "ton": "moyen"
       }
     ],
     "zone_texte": null,
     "recadrage": {
       "left": 0,
-      "top": 171,
-      "width": 2000,
-      "height": 1125,
+      "top": 0,
+      "width": 1848,
+      "height": 1040,
       "source": [
-        2000,
-        1333
+        1848,
+        1264
       ]
     },
     "faible": false,
     "raisons_faible": [],
-    "avertissements": [],
+    "avertissements": [
+      "version téléphone sans 1080 px (source trop petite)"
+    ],
     "fichiers": [
       "fin-ecoles-640.webp",
       "fin-ecoles-1280.webp",
       "fin-ecoles-1920.webp",
-      "fin-ecoles-mobile-640.webp",
-      "fin-ecoles-mobile-1080.webp"
+      "fin-ecoles-mobile-640.webp"
     ],
     "poids": {
-      "fin-ecoles-640.webp": 49918,
-      "fin-ecoles-1280.webp": 163936,
-      "fin-ecoles-1920.webp": 282328,
-      "fin-ecoles-mobile-640.webp": 89478,
-      "fin-ecoles-mobile-1080.webp": 159410
+      "fin-ecoles-640.webp": 35258,
+      "fin-ecoles-1280.webp": 101716,
+      "fin-ecoles-1920.webp": 170562,
+      "fin-ecoles-mobile-640.webp": 74502
     },
-    "media": "c.media({ nom: 'fin-ecoles', alt: \"Des enfants avec leurs boucliers peints au bord de l'étang du site\", cadrage: '49% 50%', cadrageMobile: '50% 55%', sizes: '100vw' })"
+    "media": "c.media({ nom: 'fin-ecoles', alt: \"Des enfants penchés sur leurs tablettes de cire, stylet à la main\", cadrage: '52% 49%', cadrageMobile: '50% 40%', sizes: '100vw' })"
   },
   "fin-site": {
     "nom": "fin-site",
@@ -3104,5 +3103,576 @@
       "fin-agenda-mobile-640.webp": 117026
     },
     "media": "c.media({ nom: 'fin-agenda', alt: \"Un reconstitueur en tunique rouge devant le pavillon d'accueil\", cadrage: '70% 50%', cadrageMobile: '50% 55%', sizes: '100vw' })"
+  },
+  "autour-campagne": {
+    "nom": "autour-campagne",
+    "source": "recu/site/villa-mageroy-recu/decouvrez-site-mageroy-region-6.jpg",
+    "role": "carte-service",
+    "alt": "Champs et bois de la campagne autour de Habay, vus depuis un chemin",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "9dd50a00563fece6",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 58%",
+    "sujet": {
+      "x": 35.6,
+      "y": 41.2,
+      "l": 28.1,
+      "h": 32.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.38,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.27,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.21,
+        "ton": "sombre"
+      },
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 132,
+      "top": 0,
+      "width": 1777,
+      "height": 1333,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "autour-campagne-480.webp",
+      "autour-campagne-640.webp",
+      "autour-campagne-784.webp"
+    ],
+    "poids": {
+      "autour-campagne-480.webp": 31252,
+      "autour-campagne-640.webp": 51248,
+      "autour-campagne-784.webp": 75712
+    },
+    "media": "c.media({ nom: 'autour-campagne', alt: \"Champs et bois de la campagne autour de Habay, vus depuis un chemin\", cadrage: '50% 58%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "autour-foret": {
+    "nom": "autour-foret",
+    "source": "recu/site/villa-mageroy-recu/decouvrez-site-mageroy-region-9.jpg",
+    "role": "carte-service",
+    "alt": "Un chemin forestier sous les grands arbres de la forêt d'Anlier",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "b50da2ef715a4978",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 63%",
+    "sujet": {
+      "x": 41.6,
+      "y": 50,
+      "l": 16.5,
+      "h": 25
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.29,
+        "ton": "moyen"
+      },
+      {
+        "cote": "bas",
+        "score": 0.27,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.21,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 172,
+      "top": 0,
+      "width": 1777,
+      "height": 1333,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "autour-foret-480.webp",
+      "autour-foret-640.webp",
+      "autour-foret-784.webp"
+    ],
+    "poids": {
+      "autour-foret-480.webp": 56366,
+      "autour-foret-640.webp": 96702,
+      "autour-foret-784.webp": 143162
+    },
+    "media": "c.media({ nom: 'autour-foret', alt: \"Un chemin forestier sous les grands arbres de la forêt d'Anlier\", cadrage: '50% 63%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "autour-riviere": {
+    "nom": "autour-riviere",
+    "source": "recu/site/villa-mageroy-recu/decouvrez-site-mageroy-region-4.jpg",
+    "role": "carte-service",
+    "alt": "Un ruisseau entre les herbes hautes et les arbres, au printemps",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "f61a6889be6b692c",
+    "ratio": "4:3",
+    "largeurs": [
+      480,
+      640,
+      784
+    ],
+    "mobile": null,
+    "cadrage": "50% 45%",
+    "sujet": {
+      "x": 31.7,
+      "y": 32.4,
+      "l": 34.8,
+      "h": 25
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.46,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.39,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.35,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.32,
+        "ton": "sombre"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 172,
+      "top": 0,
+      "width": 1777,
+      "height": 1333,
+      "source": [
+        2000,
+        1333
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "autour-riviere-480.webp",
+      "autour-riviere-640.webp",
+      "autour-riviere-784.webp"
+    ],
+    "poids": {
+      "autour-riviere-480.webp": 49866,
+      "autour-riviere-640.webp": 85940,
+      "autour-riviere-784.webp": 124502
+    },
+    "media": "c.media({ nom: 'autour-riviere', alt: \"Un ruisseau entre les herbes hautes et les arbres, au printemps\", cadrage: '50% 45%', sizes: '(max-width: 760px) 100vw, 33vw', ratio: '4 / 3' })"
+  },
+  "retour-biere": {
+    "nom": "retour-biere",
+    "source": "recu/site/villa-mageroy-recu/biere-antiquite-oktoberfeest-mageroy.jpg",
+    "role": "galerie",
+    "alt": "Amphore, cruches et tonneau devant les vestiges, pour « La bière dans l'Antiquité »",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "62f4663f4a21cb53",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "60% 63%",
+    "sujet": {
+      "x": 69,
+      "y": 64.4,
+      "l": 25.9,
+      "h": 24.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.24,
+        "ton": "sombre"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.2,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.2,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.15,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 125,
+      "width": 1500,
+      "height": 1875,
+      "source": [
+        1500,
+        2000
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "retour-biere-480.webp",
+      "retour-biere-640.webp",
+      "retour-biere-960.webp"
+    ],
+    "poids": {
+      "retour-biere-480.webp": 109900,
+      "retour-biere-640.webp": 203050,
+      "retour-biere-960.webp": 307036
+    },
+    "media": "c.media({ nom: 'retour-biere', alt: \"Amphore, cruches et tonneau devant les vestiges, pour « La bière dans l'Antiquité »\", cadrage: '60% 63%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "retour-fil-eau": {
+    "nom": "retour-fil-eau",
+    "source": "recu/site/villa-mageroy-recu/mageroy-fil-eau-traces.jpg",
+    "role": "galerie",
+    "alt": "Une classe au bord de l'étang pendant « Mageroy au fil de l'eau »",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "ace9462835161f8d",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 50%",
+    "sujet": {
+      "x": 10.3,
+      "y": 33.8,
+      "l": 76,
+      "h": 22.1
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.32,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.31,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.25,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.17,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 200,
+      "top": 0,
+      "width": 1200,
+      "height": 1500,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "retour-fil-eau-480.webp",
+      "retour-fil-eau-640.webp",
+      "retour-fil-eau-960.webp"
+    ],
+    "poids": {
+      "retour-fil-eau-480.webp": 84762,
+      "retour-fil-eau-640.webp": 148256,
+      "retour-fil-eau-960.webp": 258494
+    },
+    "media": "c.media({ nom: 'retour-fil-eau', alt: \"Une classe au bord de l'étang pendant « Mageroy au fil de l'eau »\", sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "retour-jardins": {
+    "nom": "retour-jardins",
+    "source": "recu/site/villa-mageroy-recu/jardins-memoire-mageroy-vivant.jpg",
+    "role": "galerie",
+    "alt": "Coquelicots devant les murs de la villa, pour « Jardins de mémoire »",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "accf3a329c6a43a8",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "76% 60%",
+    "sujet": {
+      "x": 0,
+      "y": 13.2,
+      "l": 90.7,
+      "h": 63.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.26,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.18,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.13,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.08,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 294,
+      "top": 0,
+      "width": 1200,
+      "height": 1500,
+      "source": [
+        2000,
+        1500
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "retour-jardins-480.webp",
+      "retour-jardins-640.webp",
+      "retour-jardins-960.webp"
+    ],
+    "poids": {
+      "retour-jardins-480.webp": 82418,
+      "retour-jardins-640.webp": 144506,
+      "retour-jardins-960.webp": 261984
+    },
+    "media": "c.media({ nom: 'retour-jardins', alt: \"Coquelicots devant les murs de la villa, pour « Jardins de mémoire »\", cadrage: '76% 60%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "retour-portes": {
+    "nom": "retour-portes",
+    "source": "recu/site/villa-mageroy-recu/fouilles.jpg",
+    "role": "galerie",
+    "alt": "Quatre fouilleurs dégagent des tuiles et des pierres dans un sondage, l'été des portes ouvertes",
+    "grok": false,
+    "mention": null,
+    "beaute": 5,
+    "empreinte": "dc779f8c0dfce6b4",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "9% 0%",
+    "sujet": {
+      "x": 0,
+      "y": 7.4,
+      "l": 100,
+      "h": 92.4
+    },
+    "zones_calmes": [
+      {
+        "cote": "haut",
+        "score": 0.19,
+        "ton": "clair"
+      },
+      {
+        "cote": "droite",
+        "score": 0.15,
+        "ton": "clair"
+      },
+      {
+        "cote": "gauche",
+        "score": 0,
+        "ton": "clair"
+      },
+      {
+        "cote": "bas",
+        "score": 0,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 0,
+      "top": 0,
+      "width": 1071,
+      "height": 1339,
+      "source": [
+        2000,
+        1339
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [],
+    "fichiers": [
+      "retour-portes-480.webp",
+      "retour-portes-640.webp",
+      "retour-portes-960.webp"
+    ],
+    "poids": {
+      "retour-portes-480.webp": 50558,
+      "retour-portes-640.webp": 79246,
+      "retour-portes-960.webp": 136836
+    },
+    "media": "c.media({ nom: 'retour-portes', alt: \"Quatre fouilleurs dégagent des tuiles et des pierres dans un sondage, l'été des portes ouvertes\", cadrage: '9% 0%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
+  },
+  "retour-mercredis": {
+    "nom": "retour-mercredis",
+    "source": "recu/site/villa-mageroy-recu/1er-juillet-28-aout.png",
+    "role": "galerie",
+    "alt": "Le domaine vu du ciel, l'été des Mercredis de Mageroy",
+    "grok": false,
+    "mention": null,
+    "beaute": 4,
+    "empreinte": "7a6fb59b0ccf092f",
+    "ratio": "4:5",
+    "largeurs": [
+      480,
+      640,
+      960
+    ],
+    "mobile": null,
+    "cadrage": "50% 40%",
+    "sujet": {
+      "x": 27.4,
+      "y": 19.1,
+      "l": 44.1,
+      "h": 38.2
+    },
+    "zones_calmes": [
+      {
+        "cote": "bas",
+        "score": 0.51,
+        "ton": "moyen"
+      },
+      {
+        "cote": "droite",
+        "score": 0.46,
+        "ton": "moyen"
+      },
+      {
+        "cote": "haut",
+        "score": 0.39,
+        "ton": "moyen"
+      },
+      {
+        "cote": "gauche",
+        "score": 0.32,
+        "ton": "moyen"
+      }
+    ],
+    "zone_texte": null,
+    "recadrage": {
+      "left": 412,
+      "top": 0,
+      "width": 679,
+      "height": 849,
+      "source": [
+        1566,
+        849
+      ]
+    },
+    "faible": false,
+    "raisons_faible": [],
+    "avertissements": [
+      "agrandie 1,41 fois (source de 679 px après recadrage)",
+      "recadrage fort : 43 % de l'image gardée"
+    ],
+    "fichiers": [
+      "retour-mercredis-480.webp",
+      "retour-mercredis-640.webp",
+      "retour-mercredis-960.webp"
+    ],
+    "poids": {
+      "retour-mercredis-480.webp": 92470,
+      "retour-mercredis-640.webp": 157032,
+      "retour-mercredis-960.webp": 244774
+    },
+    "media": "c.media({ nom: 'retour-mercredis', alt: \"Le domaine vu du ciel, l'été des Mercredis de Mageroy\", cadrage: '50% 40%', sizes: '(max-width: 760px) 100vw, 50vw', ratio: '4 / 5' })"
   }
 }

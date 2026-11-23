@@ -6,7 +6,8 @@ export const page = { cle: 'visiter', fichier: 'visiter', imagePartage: 'visiter
 
 export default (c) => {
   const f = (k) => `visiter.formules.${k}`;
-  const formule = (k, { lien, suspendu, brasserie } = {}) => html`<li class="formule${suspendu ? ' formule--suspendue' : ''}">
+  const formule = (k, { lien, suspendu, brasserie, image, cadrage = '50% 50%' } = {}) => html`<li class="formule${suspendu ? ' formule--suspendue' : ''}">
+    ${image ? c.media({ nom: image, alt: '', cadrage, classe: 'formule-photo', sizes: '(max-width: 860px) 92vw, 46vw', attrs: 'data-fx="vitesse"' }) : ''}
     <h3>${c.t(f(k) + '.titre')}</h3>
     <p class="formule-prix"><strong data-prix>${c.t(f(k) + '.prix')}</strong>${k !== 'libre' ? html`<span>${c.t(f(k) + '.prixDetail')}</span>` : ''}</p>
     <p class="formule-infos">${c.t(f(k) + '.infos')}</p>
@@ -34,12 +35,12 @@ export default (c) => {
 
 <section class="section bande-sable" id="formules">
   <div class="conteneur">
-    <div class="section-tete">${surtitre(c.t('visiter.formules.surtitre'))}<h2 data-anime="lignes">${c.t('visiter.formules.titre')}</h2></div>
+    <div class="section-tete">${surtitre(c.t('visiter.formules.surtitre'))}<h2 data-anime="lignes">${c.tb('visiter.formules.titre')}</h2></div>
     <ul class="formules" data-anime="cascade">
-      ${formule('libre', { lien: html`<a class="lien-fleche" href="#acces">${c.t('accueil.venir.lien')}</a>` })}
-      ${formule('guidee', { lien: html`<a class="lien-fleche" href="#calcul">${c.t('visiter.calcul.titre')}</a>` })}
-      ${formule('combinee', { brasserie: true, lien: html`<a class="lien-fleche" href="#reserver">${c.t('visiter.formules.reserver')}<span class="visuellement-cache"> : ${c.t(f('combinee') + '.titre')}</span></a>` })}
-      ${formule('conferences', { suspendu: true })}
+      ${formule('libre', { image: 'carte-visite-libre', cadrage: '50% 62%', lien: html`<a class="lien-fleche" href="#acces">${c.t('accueil.venir.lien')}</a>` })}
+      ${formule('guidee', { image: 'visiter-guide', cadrage: '50% 40%', lien: html`<a class="lien-fleche" href="#calcul">${c.t('visiter.formules.calculer')}</a>` })}
+      ${formule('combinee', { image: 'visiter-combinee', cadrage: '50% 60%', brasserie: true, lien: html`<a class="lien-fleche" href="#reserver">${c.t('visiter.formules.reserver')}<span class="visuellement-cache"> : ${c.t(f('combinee') + '.titre')}</span></a>` })}
+      ${formule('conferences', { image: 'visiter-conference', suspendu: true })}
     </ul>
   </div>
 </section>
@@ -48,7 +49,7 @@ export default (c) => {
   <div class="conteneur calcul">
     <div>
       ${surtitre(c.t('visiter.calcul.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('visiter.calcul.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('visiter.calcul.titre')}</h2>
       <p data-anime>${c.t('visiter.calcul.texte')}</p>
     </div>
     <div class="calcul-outil sur-charbon" data-calculateur data-anime>
@@ -75,7 +76,7 @@ export default (c) => {
   <div class="conteneur formulaire-grille">
     <div class="formulaire-cote">
       ${surtitre(c.t('visiter.reserver.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('visiter.reserver.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('visiter.reserver.titre')}</h2>
       <p data-anime>${c.t('visiter.reserver.texte')}</p>
       <p class="joindre-court" data-anime>${c.t('visiter.reserver.ou')}<br><a href="tel:${c.site.contact.telephoneLien}">${c.site.contact.telephone}</a><br><a href="mailto:${c.site.contact.email}">${c.site.contact.email}</a></p>
     </div>
@@ -86,7 +87,7 @@ export default (c) => {
       <div class="champ"><label for="r-email">${c.t('visiter.reserver.email')}</label><input id="r-email" name="email" type="email" autocomplete="email" required></div>
       <div class="champ"><label for="r-tel">${c.t('visiter.reserver.telephone')}</label><input id="r-tel" name="telephone" type="tel" autocomplete="tel"></div>
       <div class="champ champ--large"><label for="r-message">${c.t('visiter.reserver.message')}</label><textarea id="r-message" name="message"></textarea></div>
-      <p class="mention-donnees">${c.t('commun.donnees')} ${c.t('commun.voirPolitique')}</p>
+      <p class="mention-donnees">${c.t('commun.donnees')}</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="${c.s('commun.simule')}"></p>
       <p class="formulaire-pied"><button class="bouton" type="submit">${c.t('commun.envoyer')}</button></p>
     </form>
@@ -97,7 +98,7 @@ export default (c) => {
   <div class="conteneur acces-grille">
     <div>
       ${surtitre(c.t('visiter.acces.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('visiter.acces.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('visiter.acces.titre')}</h2>
       <p data-anime><strong>${c.t('visiter.acces.adresse')}</strong></p>
       <div class="acces-liste" data-anime="cascade">
         <div><h3>${c.t('visiter.acces.voitureTitre')}</h3><p>${c.t('visiter.acces.voiture')}</p></div>
@@ -111,16 +112,16 @@ export default (c) => {
 
 <section class="section bande-sable" id="autour">
   <div class="conteneur">
-    <div class="section-tete">${surtitre(c.t('visiter.autour.surtitre'))}<h2 data-anime="lignes">${c.t('visiter.autour.titre')}</h2></div>
+    <div class="section-tete">${surtitre(c.t('visiter.autour.surtitre'))}<h2 data-anime="lignes">${c.tb('visiter.autour.titre')}</h2></div>
     <ul class="autour" data-anime="cascade" data-visuel>
-      ${['gallor', 'noeuds', 'parc'].map((k) => html`<li><h3>${c.t(`visiter.autour.${k}.titre`)}</h3><p>${c.t(`visiter.autour.${k}.texte`)}</p></li>`)}
+      ${[['gallor', 'autour-campagne'], ['noeuds', 'autour-riviere'], ['parc', 'autour-foret']].map(([k, img]) => html`<li>${c.media({ nom: img, alt: c.donnees.images[img].alt, sizes: '(max-width: 860px) 92vw, 30vw', attrs: 'data-fx="zoom"' })}<h3>${c.t(`visiter.autour.${k}.titre`)}</h3><p>${c.t(`visiter.autour.${k}.texte`)}</p></li>`)}
     </ul>
   </div>
 </section>
 
 <section class="section" id="faq">
   <div class="conteneur">
-    <div class="section-tete">${surtitre(c.t('visiter.faq.surtitre'))}<h2 data-anime="lignes">${c.t('visiter.faq.titre')}</h2></div>
+    <div class="section-tete">${surtitre(c.t('visiter.faq.surtitre'))}<h2 data-anime="lignes">${c.tb('visiter.faq.titre')}</h2></div>
     <div class="faq-liste" data-anime="cascade" data-visuel>
       ${c.donnees.faq.map((q) => html`<details class="faq-item"><summary>${q.q}</summary><p>${q.r}</p></details>`)}
     </div>
@@ -129,7 +130,7 @@ export default (c) => {
 
 ${appelFinal(c, {
   image: 'fin-visiter',
-  titre: c.t('accueil.fin.titre'),
+  titre: c.tb('accueil.fin.titre'),
   texte: c.t('accueil.fin.texte'),
   actions: html`<a class="bouton" href="#reserver">${c.t('accueil.fin.reserver')}</a><a class="bouton bouton--contour" href="tel:${c.site.contact.telephoneLien}">${c.t('commun.appeler')} ${c.site.contact.telephone}</a>`,
 })}

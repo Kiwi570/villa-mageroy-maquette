@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" data-v="1">
+<html lang="fr" data-v="2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -35,14 +35,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 })();</script>
 <link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/socle.css?v=1">
-<link rel="stylesheet" href="/assets/css/site.css?v=1">
-<link rel="modulepreload" href="/assets/js/site.js?v=1">
-<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<link rel="stylesheet" href="/assets/css/socle.css?v=2">
+<link rel="stylesheet" href="/assets/css/site.css?v=2">
+<link rel="modulepreload" href="/assets/js/site.js?v=2">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=2">
 <script src="/assets/vendor/gsap.min.js" defer></script>
 <script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/assets/vendor/SplitText.min.js" defer></script>
-<script type="module" src="/assets/js/site.js?v=1"></script>
+<script type="module" src="/assets/js/site.js?v=2"></script>
 <meta name="theme-color" content="#F2ECE2">
 <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
@@ -129,7 +129,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur formulaire-grille">
     <div class="formulaire-cote">
       <p class="surtitre">Écrire</p>
-      <h2 class="titre-section" data-anime="lignes">Votre demande</h2>
+      <h2 class="titre-section" data-anime="lignes">Votre <span class="mot">demande</span></h2>
       <p data-anime>Bureau : du lundi au vendredi, de 9 h à 17 h</p>
       <p class="joindre-court" data-anime>Ou directement :<br><a href="tel:+3263758544">063 75 85 44</a><br><a href="mailto:villa.mageroy@gmail.com">villa.mageroy@gmail.com</a></p>
     </div>
@@ -144,7 +144,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
       <div class="champ"><label for="c-email">E-mail</label><input id="c-email" name="email" type="email" autocomplete="email" required></div>
       <div class="champ"><label for="c-tel">Téléphone (facultatif)</label><input id="c-tel" name="telephone" type="tel" autocomplete="tel"></div>
       <div class="champ champ--large"><label for="c-message">Message</label><textarea id="c-message" name="message" required></textarea></div>
-      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande. Politique de confidentialité : à compléter.</p>
+      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande.</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="Demande simulée : rien n&#39;a été envoyé. Sur le site final, elle partira vers l&#39;équipe de la villa."></p>
       <p class="formulaire-pied"><button class="bouton" type="submit">Envoyer la demande</button></p>
     </form>
@@ -152,11 +152,12 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="section" id="adresses">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Adresses</p><h2 data-anime="lignes">Trois adresses, un seul site</h2></div>
-    <ul class="adresses" data-anime="cascade">
-      <li><h3>Le site archéologique</h3><p>Rue de Mageroy 2, 6723 Habay-la-Vieille</p><p class="detail">Accessible toute l&#39;année, jour et nuit</p></li><li><h3>Le bureau de l&#39;asbl</h3><p>Rue de la Rochette 12, 6723 Habay-la-Vieille</p><p class="detail">Du lundi au vendredi, de 9 h à 17 h</p></li><li><h3>Le siège social</h3><p>Rue d&#39;Hoffschmidt 13, 6720 Habay-la-Neuve</p><p class="detail">Adresse officielle d&#39;ARC-HAB asbl</p></li>
-    </ul>
-    <figure class="plan-acces" data-visuel>
+    <div class="section-tete"><p class="surtitre">Adresses</p><h2 data-anime="lignes">Trois adresses, un seul <span class="mot">site</span></h2></div>
+    <div class="adresses-grille">
+      <ul class="adresses" data-anime="cascade">
+        <li><h3>Le site archéologique</h3><p>Rue de Mageroy 2, 6723 Habay-la-Vieille</p><p class="detail">Accessible toute l&#39;année, jour et nuit</p></li><li><h3>Le bureau de l&#39;asbl</h3><p>Rue de la Rochette 12, 6723 Habay-la-Vieille</p><p class="detail">Du lundi au vendredi, de 9 h à 17 h</p></li><li><h3>Le siège social</h3><p>Rue d&#39;Hoffschmidt 13, 6720 Habay-la-Neuve</p><p class="detail">Adresse officielle d&#39;ARC-HAB asbl</p></li>
+      </ul>
+      <figure class="plan-acces" data-visuel>
   <svg viewBox="0 0 600 430" data-fx="trace" role="img" aria-label="Plan schématique, sans échelle : la villa de Mageroy à Habay-la-Vieille, entre l'E411 (sortie 29), Marbehan et Étalle">
     <path class="riviere" d="M330 150 C 290 160, 250 182, 213 190 S 150 222, 120 250 S 80 300, 60 330"/>
     <path class="route route--autoroute" d="M40 30 L 283 112 L 470 210 L 575 262"/>
@@ -178,13 +179,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   </svg>
   <figcaption>Plan schématique, sans échelle</figcaption>
 </figure>
+    </div>
   </div>
 </section>
 <section class="section bande-sable" id="soutenir">
   <div class="conteneur soutenir">
     <div>
       <p class="surtitre">Soutenir</p>
-      <h2 class="titre-section" data-anime="lignes">Devenir membre d&#39;ARC-HAB</h2>
+      <h2 class="titre-section" data-anime="lignes">Devenir membre d'<span class="mot">ARC-HAB</span></h2>
       <h3 data-anime>Bénévole</h3>
       <p data-anime>Rejoindre les artisans Treviri, les jardiniers Olitores, ou aider aux visites et aux fêtes.</p>
       <p data-anime><a class="bouton bouton--contour" href="?sujet=benevolat#formulaire" data-sans-transition data-sujet="benevolat">Je deviens bénévole</a></p>

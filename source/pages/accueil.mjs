@@ -47,7 +47,7 @@ export default (c) => {
   <div class="conteneur">
     <div class="section-tete">
       ${surtitre(c.t('accueil.faire.surtitre'))}
-      <h2 data-anime="lignes">${c.t('accueil.faire.titre')}</h2>
+      <h2 data-anime="lignes">${c.tb('accueil.faire.titre')}</h2>
     </div>
     <ul class="cartes" data-anime="cascade">
       ${faire.map(([k, img, url]) => html`<li class="carte-faire" data-survol="incline" data-survol-force="4">
@@ -66,13 +66,13 @@ export default (c) => {
 <section class="frise" id="siecles" data-scene data-entete-cache aria-label="${c.s('accueil.siecles.region')}">
   <div class="frise-scene">
     <div class="frise-tete">
-      <div>${surtitre(c.t('accueil.siecles.surtitre'))}<h2 data-anime="lignes">${c.t('accueil.siecles.titre')}</h2></div>
+      <div>${surtitre(c.t('accueil.siecles.surtitre'))}<h2 data-anime="lignes">${c.tb('accueil.siecles.titre')}</h2></div>
       <p class="masque-ecran-bas">${c.t('accueil.siecles.texte')}</p>
     </div>
-    <ol class="frise-piste" data-frise-piste data-effet="frise">
+    <ol class="frise-piste" data-frise-piste data-effet="frise" data-visuel>
       <span class="frise-ligne" aria-hidden="true"><span></span></span>
       ${frise.map((e) => html`<li class="etape${e.image ? ' etape--image' : ''}">
-        <span class="etape-siecle" aria-hidden="true">${e.siecle}</span>
+        <span class="etape-tete" aria-hidden="true"><span class="etape-siecle">${e.siecle}</span>${e.icone && ICONES[e.icone] ? brut(ICONES[e.icone].replace('<svg ', '<svg class="etape-icone" ')) : ''}</span>
         <span class="etape-quand">${e.quand}</span>
         <h3>${e.titre}</h3>
         <p>${e.texte}</p>
@@ -98,7 +98,7 @@ export default (c) => {
   <div class="conteneur">
     <div class="section-tete">
       ${surtitre(c.t('accueil.terre.surtitre'))}
-      <h2 data-anime="lignes">${c.t('accueil.terre.titre')}</h2>
+      <h2 data-anime="lignes">${c.tb('accueil.terre.titre')}</h2>
     </div>
     <div class="terre-grille">
       <div class="tresor sur-charbon" data-effet="tresor">
@@ -128,7 +128,7 @@ export default (c) => {
   <div class="conteneur">
     <div class="section-tete">
       ${surtitre(c.t('accueil.agenda.surtitre'))}
-      <h2 data-anime="lignes">${c.t('accueil.agenda.titre')}</h2>
+      <h2 data-anime="lignes">${c.tb('accueil.agenda.titre')}</h2>
     </div>
     <div class="rdv-grille">
       ${prochain ? html`<article class="ticket" data-anime="rideau" data-prochain-evenement data-debut="${prochain.debut}">
@@ -153,7 +153,7 @@ export default (c) => {
   <div class="conteneur">
     <div class="section-tete">
       ${surtitre(c.t('accueil.vivre.surtitre'))}
-      <h2 data-anime="lignes">${c.t('accueil.vivre.titre')}</h2>
+      <h2 data-anime="lignes">${c.tb('accueil.vivre.titre')}</h2>
       <p data-anime>${c.t('accueil.vivre.texte')}</p>
     </div>
     <ul class="vivre-cartes" data-anime="cascade">
@@ -171,7 +171,7 @@ export default (c) => {
 </section>
 
 ${appelFinal(c, {
-  titre: c.t('accueil.fin.titre'),
+  titre: c.tb('accueil.fin.titre'),
   texte: html`${c.t('accueil.fin.texte')} ${c.t('accueil.fin.adresse')}`,
   actions: html`${c.lien('visiter', { ancre: 'reserver', classe: 'bouton', texte: c.t('accueil.fin.reserver'), attrs: 'data-survol="magnetique"' })}${c.lien('visiter', { ancre: 'acces', classe: 'bouton bouton--contour', texte: c.t('accueil.venir.lien') })}`,
 })}

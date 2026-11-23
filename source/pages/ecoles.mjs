@@ -42,7 +42,7 @@ export default (c) => {
     ${c.media({ nom: 'carte-visite-guidee', alt: c.donnees.images['carte-visite-guidee'].alt, sizes: '(max-width: 860px) 100vw, 45vw', attrs: 'data-anime="rideau"' })}
     <div>
       ${surtitre(c.t('ecoles.visite.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('ecoles.visite.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('ecoles.visite.titre')}</h2>
       <p data-anime>${c.t('ecoles.visite.texte')}</p>
       <p class="prix-ligne" data-anime><strong data-prix>${c.t('ecoles.visite.prix')}</strong><span>${c.t('ecoles.visite.prixDetail')}</span></p>
       <a class="bouton" href="${c.url('ecoles', 'reserver', 'formule=visite')}">${c.t('ecoles.tete.action')}</a>
@@ -52,7 +52,7 @@ export default (c) => {
 
 <section class="section" id="ateliers">
   <div class="conteneur">
-    <div class="section-tete">${surtitre(a('surtitre'))}<h2 data-anime="lignes">${a('titre')}</h2></div>
+    <div class="section-tete">${surtitre(a('surtitre'))}<h2 data-anime="lignes">${c.tb('ecoles.ateliers.titre')}</h2></div>
     <div class="filtres" role="group" aria-label="${c.s('ecoles.ateliers.filtres')}" data-filtres-ateliers>
       ${['tous', 'maternelle', 'primaire', 'secondaire', 'classe'].map((k, i) => html`<button type="button" class="filtre" data-filtre="${k}" aria-pressed="${i === 0 ? 'true' : 'false'}">${a(k)}</button>`)}
     </div>
@@ -78,7 +78,7 @@ export default (c) => {
     ${c.media({ nom: 'dossier-pedagogique', alt: c.s('ecoles.dossier.alt'), sizes: '280px', attrs: 'data-fx="vitesse" data-fx-force="4"' })}
     <div>
       ${surtitre(c.t('ecoles.dossier.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('ecoles.dossier.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('ecoles.dossier.titre')}</h2>
       <p data-anime>${c.t('ecoles.dossier.texte')}</p>
       ${c.lien('contact', { ancre: 'formulaire', params: 'sujet=ecole', classe: 'bouton bouton--contour', texte: c.t('ecoles.dossier.action') })}
     </div>
@@ -89,7 +89,7 @@ export default (c) => {
   <div class="conteneur formulaire-grille">
     <div class="formulaire-cote">
       ${surtitre(c.t('ecoles.reserver.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('ecoles.reserver.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('ecoles.reserver.titre')}</h2>
       <p data-anime>${c.t('ecoles.reserver.texte')}</p>
       <p class="joindre-court" data-anime>${c.t('visiter.reserver.ou')}<br><a href="tel:${c.site.contact.telephoneLien}">${c.site.contact.telephone}</a><br><a href="mailto:${c.site.contact.email}">${c.site.contact.email}</a></p>
     </div>
@@ -109,7 +109,7 @@ export default (c) => {
       <div class="champ"><label for="e-nom">${c.t('ecoles.reserver.nom')}</label><input id="e-nom" name="nom" autocomplete="name" required></div>
       <div class="champ"><label for="e-email">${c.t('ecoles.reserver.email')}</label><input id="e-email" name="email" type="email" autocomplete="email" required></div>
       <div class="champ champ--large"><label for="e-tel">${c.t('ecoles.reserver.telephone')}</label><input id="e-tel" name="telephone" type="tel" autocomplete="tel"></div>
-      <p class="mention-donnees">${c.t('commun.donnees')} ${c.t('commun.voirPolitique')}</p>
+      <p class="mention-donnees">${c.t('commun.donnees')}</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="${c.s('commun.simule')}"></p>
       <div class="formulaire-pied">
         <p class="estimation" aria-live="polite"><span>${c.t('ecoles.reserver.estimation')}</span><strong data-estimation data-prix>66 €</strong><span>${c.t('ecoles.reserver.estimationDetail')}</span></p>
@@ -121,9 +121,9 @@ export default (c) => {
 
 ${appelFinal(c, {
   image: 'fin-ecoles',
-  titre: c.t('ecoles.reserver.titre'),
-  texte: c.t('ecoles.tete.texte'),
-  actions: html`<a class="bouton" href="#reserver">${c.t('ecoles.tete.action')}</a><a class="bouton bouton--contour" href="tel:${c.site.contact.telephoneLien}">${c.t('commun.appeler')} ${c.site.contact.telephone}</a>`,
+  titre: c.tb('ecoles.fin.titre'),
+  texte: c.t('ecoles.fin.texte'),
+  actions: html`<a class="bouton" href="#ateliers">${c.t('ecoles.fin.action')}</a><a class="bouton bouton--contour" href="tel:${c.site.contact.telephoneLien}">${c.t('commun.appeler')} ${c.site.contact.telephone}</a>`,
 })}
 `;
 };

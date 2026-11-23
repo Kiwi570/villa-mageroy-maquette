@@ -2,7 +2,7 @@
    le menu, les mesures et la bibliothèque d'effets posés par attributs. Effets du plan (data-effet) :
    carroyage (photo dégagée carré par carré), frise (siècles épinglés), tresor (105 antoniniens), bandeau (photo qui
    s'élargit), prix-geant (« 0 € » de Visiter), chrono (fil de la chronologie). */
-import { demarrer, boucle, etat, versObjet, quand } from './socle/index.js?v=1';
+import { demarrer, boucle, etat, versObjet, quand } from './socle/index.js?v=2';
 
 const gsap = window.gsap;
 const $ = (s, r = document) => r.querySelector(s);
@@ -45,6 +45,63 @@ function carroyages() {
 }
 const degagerPremierEcran = (retard) => $$('#debut .carroyage').forEach((b) => degager(b, retard));
 
+/* ---------- Carré de fouille : sur la photo d'accueil, la case du quadrillage sous le pointeur s'allume (A1, B3…) ---------- */
+function carreFouille() {
+  const bloc = $('.hero .carroyage');
+  if (!bloc) return;
+  const carre = document.createElement('span');
+  carre.className = 'carre-fouille';
+  carre.setAttribute('aria-hidden', 'true');
+  carre.dataset.auditIgnorer = '';
+  const etiquette = document.createElement('span');
+  carre.appendChild(etiquette);
+  bloc.appendChild(carre);
+  const mx = gsap.quickTo(carre, 'x', { duration: 0.3, ease: 'power3.out' });
+  const my = gsap.quickTo(carre, 'y', { duration: 0.3, ease: 'power3.out' });
+  let derniere = '', minuterie = 0;
+  const placer = (ev) => {
+    const g = $('.carroyage-grille', bloc);
+    if (!g || !g.dataset.fini) return false; /* pas avant que la photo soit dégagée */
+    const [rows, cols] = g.dataset.grille.split(',').map(Number);
+    const r = bloc.getBoundingClientRect();
+    const w = r.width / cols, h = r.height / rows;
+    const c = Math.min(cols - 1, Math.max(0, Math.floor((ev.clientX - r.left) / w)));
+    const l = Math.min(rows - 1, Math.max(0, Math.floor((ev.clientY - r.top) / h)));
+    bloc.style.setProperty('--cols', cols);
+    bloc.style.setProperty('--rows', rows);
+    gsap.set(carre, { width: w, height: h });
+    const nom = 'ABCDEFGH'[c] + (l + 1);
+    if (!carre.classList.contains('est-visible')) gsap.set(carre, { x: c * w, y: l * h });
+    else { mx(c * w); my(l * h); }
+    if (nom !== derniere) { derniere = nom; etiquette.textContent = nom; gsap.fromTo(etiquette, { y: -4, opacity: 0.4 }, { y: 0, opacity: 1, duration: 0.25 }); }
+    carre.classList.add('est-visible');
+    bloc.classList.add('est-survole');
+    return true;
+  };
+  const cacher = () => { carre.classList.remove('est-visible'); bloc.classList.remove('est-survole'); };
+  bloc.addEventListener('pointermove', (ev) => { if (ev.pointerType === 'mouse') placer(ev); });
+  bloc.addEventListener('pointerleave', (ev) => { if (ev.pointerType === 'mouse') cacher(); });
+  /* Au doigt : la case touchée s'allume un instant. */
+  bloc.addEventListener('pointerdown', (ev) => {
+    if (ev.pointerType === 'mouse' || !placer(ev)) return;
+    clearTimeout(minuterie);
+    minuterie = setTimeout(cacher, 1400);
+  });
+}
+
+/* ---------- Pistes de photos (Agenda) : atteignables au clavier quand elles défilent ---------- */
+function pistes() {
+  $$('.retour-piste').forEach((p) => {
+    const nom = (p.closest('section') || p).getAttribute('aria-label') || '';
+    const maj = () => {
+      if (p.scrollWidth > p.clientWidth + 4) { p.tabIndex = 0; p.setAttribute('aria-label', nom); }
+      else { p.removeAttribute('tabindex'); p.removeAttribute('aria-label'); }
+    };
+    maj();
+    addEventListener('resize', maj);
+  });
+}
+
 /* ---------- Premier écran : titre en lignes, textes, objets ---------- */
 function premierEcran(tl, t0) {
   const lignes = $$('#debut .ligne > span');
@@ -75,12 +132,14 @@ function frise() {
       .fromTo(piste, { x: 0 }, { x: () => -distance(), ease: 'none', duration: 1 }, 0.03)
       .fromTo(fil, { scaleX: 0 }, { scaleX: 1, ease: 'none', duration: 1 }, 0.03);
     $$('.etape-siecle', sec).forEach((n) => tl.fromTo(n, { x: 40 }, { x: -20, ease: 'none', duration: 1 }, 0.03));
+    $$('.etape-icone', sec).forEach((n, i) => tl.fromTo(n, { rotation: i % 2 ? 14 : -14 }, { rotation: i % 2 ? -8 : 8, ease: 'none', duration: 1 }, 0.03));
     return () => gsap.set([piste, fil], { clearProps: 'transform' });
   });
   mm.add('(max-width: 760px)', () => {
     gsap.fromTo(fil, { scaleY: 0 }, { scaleY: 1, ease: 'none', scrollTrigger: { trigger: piste, start: 'top 70%', end: 'bottom 60%', scrub: 0.5 } });
     $$('.etape-siecle', sec).forEach((e) => gsap.fromTo(e, { scale: 0.7, transformOrigin: '0% 100%' }, { scale: 1, ease: 'none', scrollTrigger: { trigger: e, start: 'top 92%', end: 'top 65%', scrub: 0.4 } }));
-    return () => gsap.set([fil, ...$$('.etape-siecle', sec)], { clearProps: 'transform' });
+    $$('.etape-icone', sec).forEach((e) => gsap.fromTo(e, { rotation: -20, scale: 0.6 }, { rotation: 0, scale: 1, ease: 'none', scrollTrigger: { trigger: e, start: 'top 92%', end: 'top 65%', scrub: 0.4 } }));
+    return () => gsap.set([fil, ...$$('.etape-siecle, .etape-icone', sec)], { clearProps: 'transform' });
   });
 }
 
@@ -118,27 +177,33 @@ function tresor() {
   if (!bloc) return;
   const cv = $('canvas', bloc), ctx = cv.getContext('2d'), compte = $('[data-tresor-compte]', bloc);
   const N = 105;
-  let W = 0, H = 0, dpr = 1, pieces = [], debut = -1, fini = false;
+  let W = 0, H = 0, dpr = 1, pieces = [], debut = -1, fini = false, zone = [0, 0, 0, 0];
   const mesurer = () => {
     const r = cv.getBoundingClientRect();
     dpr = Math.min(1.5, devicePixelRatio || 1); W = r.width; H = r.height;
     cv.width = Math.round(W * dpr); cv.height = Math.round(H * dpr);
-    /* Tas en bas à droite : rangées de plus en plus courtes. */
-    const rP = Math.max(9, Math.min(15, W / 34));
-    const base = H - rP - 10, cx = W - Math.min(W * 0.26, rP * 12);
+    /* Tas en pyramide (15 pièces à la base) : en bas à droite sur ordinateur, centré sous le texte sur téléphone. */
+    const etroit = W < 520;
+    const rP = Math.max(8, Math.min(14, (etroit ? W * 0.8 : W * 0.5) / 20));
+    const base = H - rP - 12, cx = etroit ? W / 2 : W - rP * 12;
     pieces = [];
     let rangee = 0, restant = N;
     while (restant > 0) {
-      const n = Math.max(1, Math.min(restant, 13 - rangee));
+      const n = Math.max(1, Math.min(restant, 15 - rangee));
       for (let i = 0; i < n; i++) {
-        const x = cx + (i - (n - 1) / 2) * rP * 1.3 + (rangee % 2 ? rP * 0.4 : 0) + Math.sin(i * 7.3 + rangee) * 2;
-        const y = base - rangee * rP * 0.62 + Math.cos(i * 3.1) * 1.5;
-        pieces.push({ x, y, r: rP * (0.92 + ((i * 13 + rangee * 7) % 10) / 60), ry: 0.42 + ((i + rangee) % 3) * 0.05, t: 0 });
+        const x = cx + (i - (n - 1) / 2) * rP * 1.32 + Math.sin(i * 7.3 + rangee) * 2.5;
+        const y = base - rangee * rP * 0.66 + Math.cos(i * 3.1 + rangee) * 1.8;
+        pieces.push({ x, y, r: rP * (0.92 + ((i * 13 + rangee * 7) % 10) / 60), ry: 0.4 + ((i + rangee) % 3) * 0.06, rang: rangee, h: Math.sin(i * 12.9898 + rangee * 78.233) * 43758.5453 % 1 });
       }
       restant -= n; rangee++;
     }
-    pieces.sort((a, b) => b.y - a.y);
-    pieces.forEach((p, i) => { p.t = i * 0.017; p.x0 = p.x + Math.sin(i) * 18; });
+    /* Rangée par rangée, du bas vers le haut ; dans une rangée, ordre au hasard (stable). */
+    pieces.sort((a, b) => a.rang - b.rang || a.h - b.h);
+    /* Une averse par rangée : les pièces d'une même rangée tombent ensemble, à quelques centièmes près. */
+    pieces.forEach((p) => { p.t = p.rang * 0.2 + Math.abs(p.h) * 0.32; p.chute = p.y + 40 + rP * 2; });
+    /* Le texte reste devant : les pièces passent derrière lui. */
+    const t = $('.tresor-texte', bloc).getBoundingClientRect();
+    zone = [t.left - r.left - 12, t.top - r.top - 12, t.width + 24, t.height + 24];
   };
   const dessiner = (p, y, tilt) => {
     ctx.save(); ctx.translate(p.x * dpr, y * dpr); ctx.scale(1, tilt);
@@ -152,16 +217,23 @@ function tresor() {
   };
   const image = (t) => {
     ctx.clearRect(0, 0, cv.width, cv.height);
+    ctx.save();
+    ctx.beginPath();
+    ctx.rect(0, 0, cv.width, cv.height);
+    ctx.rect(zone[0] * dpr, zone[1] * dpr, zone[2] * dpr, zone[3] * dpr);
+    ctx.clip('evenodd');
     let tombees = 0;
     for (const p of pieces) {
       const k = Math.min(1, Math.max(0, (t - p.t) / 0.55));
       if (k <= 0) continue;
-      const e = k < 1 ? k * k * (3 - 2 * k) : 1;
-      const y = -40 + (p.y + 40) * (k < 1 ? k * k : 1) - (k > 0.85 && k < 1 ? Math.sin((k - 0.85) / 0.15 * Math.PI) * 4 : 0);
-      const x = p.x0 + (p.x - p.x0) * e;
-      dessiner({ ...p, x }, y, k < 1 ? 0.5 + 0.5 * Math.abs(Math.cos(k * 9)) : p.ry);
+      /* Chute droite (gravité), petit rebond au contact du tas, la pièce tourne sur elle-même en tombant. */
+      const kc = Math.min(1, k / 0.8);
+      const rebond = k > 0.8 ? Math.sin(((k - 0.8) / 0.2) * Math.PI) * p.r * 0.5 : 0;
+      const y = p.y - p.chute * (1 - kc * kc) - rebond;
+      dessiner(p, y, k < 0.8 ? 0.25 + 0.75 * Math.abs(Math.cos(k * 11 + p.h * 6)) : p.ry + (1 - p.ry) * (1 - (k - 0.8) / 0.2) * 0.3);
       if (k >= 1) tombees++;
     }
+    ctx.restore();
     return tombees;
   };
   mesurer();
@@ -287,7 +359,7 @@ function rendezVous() {
 async function agenda() {
   const root = $('.agd');
   if (!root) return;
-  const { init } = await import('./modules/agenda-des-dates.js?v=1');
+  const { init } = await import('./modules/agenda-des-dates.js?v=2');
   await init(root, { fuseau: FUSEAU, langue: 'fr-BE', textes: { tous: 'Toutes', passees: (n) => `L'année 2026 (${n} dates passées)`, prochaine: (t, q) => `Prochaine date\u00a0: ${t}, ${q}` } });
   window.ScrollTrigger && window.ScrollTrigger.refresh();
 }
@@ -319,6 +391,7 @@ demarrer({
     bandeaux();
     prixGeant();
     tresor();
+    carreFouille();
   },
   jouer,
   etatFinal() {
@@ -337,6 +410,7 @@ demarrer({
 /* Outils de la page : indépendants de l'ouverture. */
 calculateur();
 ateliers();
+pistes();
 contact();
 rendezVous();
 quand('pret', () => { agenda(); });

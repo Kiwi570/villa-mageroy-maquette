@@ -447,17 +447,17 @@
   "alt": "Vestiges en pierre de la villa sous un ciel bleu, un cyprès au centre"
  },
  {
-  "source": "recu/site/villa-mageroy-recu/stages.jpg",
+  "source": "recu/site/villa-mageroy-recu/stages-ete-2026-2.jpg",
   "nom": "fin-ecoles",
   "role": "section-fond",
   "ratio": "16:9",
   "mobile": "9:16",
   "cadrage": [
-   49,
-   55
+   52,
+   40
   ],
   "beaute": 4,
-  "alt": "Des enfants avec leurs boucliers peints au bord de l'étang du site"
+  "alt": "Des enfants penchés sur leurs tablettes de cire, stylet à la main"
  },
  {
   "source": "recu/site/villa-mageroy-recu/1er-juillet-28-aout.png",
@@ -484,5 +484,86 @@
   ],
   "beaute": 4,
   "alt": "Un reconstitueur en tunique rouge devant le pavillon d'accueil"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/decouvrez-site-mageroy-region-6.jpg",
+  "nom": "autour-campagne",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "beaute": 4,
+  "alt": "Champs et bois de la campagne autour de Habay, vus depuis un chemin"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/decouvrez-site-mageroy-region-9.jpg",
+  "nom": "autour-foret",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "beaute": 4,
+  "alt": "Un chemin forestier sous les grands arbres de la forêt d'Anlier"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/decouvrez-site-mageroy-region-4.jpg",
+  "nom": "autour-riviere",
+  "role": "carte-service",
+  "ratio": "4:3",
+  "beaute": 4,
+  "alt": "Un ruisseau entre les herbes hautes et les arbres, au printemps"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/biere-antiquite-oktoberfeest-mageroy.jpg",
+  "nom": "retour-biere",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   60,
+   65
+  ],
+  "beaute": 4,
+  "alt": "Amphore, cruches et tonneau devant les vestiges, pour « La bière dans l'Antiquité »"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/mageroy-fil-eau-traces.jpg",
+  "nom": "retour-fil-eau",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   40,
+   50
+  ],
+  "beaute": 4,
+  "alt": "Une classe au bord de l'étang pendant « Mageroy au fil de l'eau »"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/jardins-memoire-mageroy-vivant.jpg",
+  "nom": "retour-jardins",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   60,
+   60
+  ],
+  "beaute": 5,
+  "alt": "Coquelicots devant les murs de la villa, pour « Jardins de mémoire »"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/fouilles.jpg",
+  "nom": "retour-portes",
+  "role": "galerie",
+  "ratio": "4:5",
+  "beaute": 5,
+  "alt": "Quatre fouilleurs dégagent des tuiles et des pierres dans un sondage, l'été des portes ouvertes",
+  "cadrage": "50% 50%"
+ },
+ {
+  "source": "recu/site/villa-mageroy-recu/1er-juillet-28-aout.png",
+  "nom": "retour-mercredis",
+  "role": "galerie",
+  "ratio": "4:5",
+  "cadrage": [
+   48,
+   40
+  ],
+  "beaute": 4,
+  "alt": "Le domaine vu du ciel, l'été des Mercredis de Mageroy"
  }
 ]

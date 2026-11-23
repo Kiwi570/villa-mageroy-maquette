@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" data-v="1">
+<html lang="fr" data-v="2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -35,15 +35,15 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 })();</script>
 <link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/socle.css?v=1">
-<link rel="stylesheet" href="/assets/css/site.css?v=1">
-<link rel="stylesheet" href="/assets/css/agenda-des-dates.css?v=1">
-<link rel="modulepreload" href="/assets/js/site.js?v=1">
-<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<link rel="stylesheet" href="/assets/css/socle.css?v=2">
+<link rel="stylesheet" href="/assets/css/site.css?v=2">
+<link rel="stylesheet" href="/assets/css/agenda-des-dates.css?v=2">
+<link rel="modulepreload" href="/assets/js/site.js?v=2">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=2">
 <script src="/assets/vendor/gsap.min.js" defer></script>
 <script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/assets/vendor/SplitText.min.js" defer></script>
-<script type="module" src="/assets/js/site.js?v=1"></script>
+<script type="module" src="/assets/js/site.js?v=2"></script>
 <meta name="theme-color" content="#F2ECE2">
 <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
@@ -128,7 +128,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur">
     <div class="agd__tete section-tete">
       <p class="surtitre">Agenda</p>
-      <h2 class="agd__h2" id="agd-titre" data-anime="lignes">Toutes les dates</h2>
+      <h2 class="agd__h2" id="agd-titre" data-anime="lignes">Toutes les <span class="mot">dates</span></h2>
       <p class="agd__prochaine" data-prochaine aria-live="polite"></p>
     </div>
     <div class="agd__outils">
@@ -191,17 +191,64 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
     <p class="agd__vide" hidden>Aucune date de ce type pour le moment.</p>
   </div>
 </section>
+<section class="section retour" id="en-images" aria-label="Photos des rendez-vous de l&#39;année">
+  <div class="conteneur">
+    <div class="section-tete">
+      <p class="surtitre">L&#39;année 2026</p>
+      <h2 data-anime="lignes">La villa <span class="mot">en images</span></h2>
+      <p data-anime>Quelques rendez-vous de l&#39;année, en photos.</p>
+    </div>
+  </div>
+  <ul class="retour-piste" data-anime="cascade">
+    <li class="retour-carte">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/retour-fil-eau-960.webp" srcset="/assets/images/retour-fil-eau-480.webp 480w, /assets/images/retour-fil-eau-640.webp 640w, /assets/images/retour-fil-eau-960.webp 960w" sizes="(max-width: 760px) 72vw, 19vw" alt="Une classe au bord de l&#39;étang pendant « Mageroy au fil de l&#39;eau »" width="960" height="1200" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <p class="retour-legende"><time datetime="2026-03-24">24 au 26 mars</time><span>Mageroy au fil de l&#39;eau</span></p>
+      </li><li class="retour-carte retour-carte--bas">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/retour-mercredis-960.webp" srcset="/assets/images/retour-mercredis-480.webp 480w, /assets/images/retour-mercredis-640.webp 640w, /assets/images/retour-mercredis-960.webp 960w" sizes="(max-width: 760px) 72vw, 19vw" alt="Le domaine vu du ciel, l&#39;été des Mercredis de Mageroy" width="960" height="1200" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <p class="retour-legende"><time datetime="2026-07-01">juillet et août</time><span>Les Mercredis de Mageroy</span></p>
+      </li><li class="retour-carte">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/retour-portes-960.webp" srcset="/assets/images/retour-portes-480.webp 480w, /assets/images/retour-portes-640.webp 640w, /assets/images/retour-portes-960.webp 960w" sizes="(max-width: 760px) 72vw, 19vw" alt="Quatre fouilleurs dégagent des tuiles et des pierres dans un sondage, l&#39;été des portes ouvertes" width="960" height="1200" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <p class="retour-legende"><time datetime="2026-07-31">31 juil. au 1er août</time><span>L&#39;archéologie en action : portes ouvertes</span></p>
+      </li><li class="retour-carte retour-carte--bas">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/retour-biere-960.webp" srcset="/assets/images/retour-biere-480.webp 480w, /assets/images/retour-biere-640.webp 640w, /assets/images/retour-biere-960.webp 960w" sizes="(max-width: 760px) 72vw, 19vw" alt="Amphore, cruches et tonneau devant les vestiges, pour « La bière dans l&#39;Antiquité »" width="960" height="1200" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <p class="retour-legende"><time datetime="2026-10-10">10 oct.</time><span>La bière dans l&#39;Antiquité</span></p>
+      </li><li class="retour-carte">
+        <figure class="media " style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/retour-jardins-960.webp" srcset="/assets/images/retour-jardins-480.webp 480w, /assets/images/retour-jardins-640.webp 640w, /assets/images/retour-jardins-960.webp 960w" sizes="(max-width: 760px) 72vw, 19vw" alt="Coquelicots devant les murs de la villa, pour « Jardins de mémoire »" width="960" height="1200" loading="lazy" decoding="async">
+  </picture>
+</figure>
+        <p class="retour-legende"><time datetime="2026-10-24">24 oct.</time><span>Jardins de mémoire : Mageroy vivant</span></p>
+      </li>
+  </ul>
+</section>
 <section class="section" id="lettre">
   <div class="conteneur lettre">
     <div>
       <p class="surtitre">Rester informé</p>
-      <h2 class="titre-section" data-anime="lignes">Recevoir le programme</h2>
+      <h2 class="titre-section" data-anime="lignes">Recevoir le <span class="mot">programme</span></h2>
       <p data-anime>La lettre d&#39;information annonce les fêtes, les visites à thème et les journées portes ouvertes.</p>
     </div>
     <form data-formulaire action="#" novalidate data-anime>
       <div class="champ"><label for="l-email">Votre e-mail</label><input id="l-email" name="email" type="email" autocomplete="email" required></div>
       <button class="bouton" type="submit">M&#39;inscrire</button>
-      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande. Politique de confidentialité : à compléter.</p>
+      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande.</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="Demande simulée : rien n&#39;a été envoyé. Sur le site final, elle partira vers l&#39;équipe de la villa."></p>
     </form>
   </div>
@@ -213,8 +260,8 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   </picture>
 </figure>
   <div class="fin-contenu">
-    <h2 data-anime="lignes">Venez marcher dans le domaine</h2>
-    <p data-anime>Entrée libre toute l&#39;année. Visite guidée sur réservation, du lundi au vendredi, et le week-end en prévenant une semaine avant.</p>
+    <h2 data-anime="lignes">Entre deux fêtes, <span class="mot">la villa</span> reste ouverte</h2>
+    <p data-anime>Les vestiges se visitent librement toute l&#39;année, de jour comme de nuit. Pour une visite guidée, prévenez l&#39;équipe une semaine avant.</p>
     <p class="fin-actions" data-anime><a href="/visiter" class="bouton" data-libelle="Visiter">Préparer ma visite</a><a class="bouton bouton--contour" href="tel:+3263758544">Appeler 063 75 85 44</a></p>
   </div>
 </section>

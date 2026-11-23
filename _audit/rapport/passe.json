@@ -1,15 +1,14 @@
 {
- "id": "20261120-172231-standard-partiel",
- "date": "2026-11-20T17:27:17.122Z",
- "niveau": "standard",
- "pages": "toutes",
+ "id": "20261123-150103-complet-cible-partiel",
+ "date": "2026-11-23T15:02:15.605Z",
+ "niveau": "complet",
+ "pages": "/",
  "etapes": [
-  "fichiers",
-  "parcours"
+  "mesures"
  ],
- "version": "1",
+ "version": "2",
  "echecs": 0,
- "aRegarder": 5,
+ "aRegarder": 1,
  "nonLances": 0,
  "manquants": 0,
  "statut": "complet"

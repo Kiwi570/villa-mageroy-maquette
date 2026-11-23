@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" data-v="1">
+<html lang="fr" data-v="2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -35,14 +35,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 })();</script>
 <link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/socle.css?v=1">
-<link rel="stylesheet" href="/assets/css/site.css?v=1">
-<link rel="modulepreload" href="/assets/js/site.js?v=1">
-<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<link rel="stylesheet" href="/assets/css/socle.css?v=2">
+<link rel="stylesheet" href="/assets/css/site.css?v=2">
+<link rel="modulepreload" href="/assets/js/site.js?v=2">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=2">
 <script src="/assets/vendor/gsap.min.js" defer></script>
 <script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/assets/vendor/SplitText.min.js" defer></script>
-<script type="module" src="/assets/js/site.js?v=1"></script>
+<script type="module" src="/assets/js/site.js?v=2"></script>
 <meta name="theme-color" content="#F2ECE2">
 <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
@@ -142,7 +142,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </figure>
     <div>
       <p class="surtitre">Au site</p>
-      <h2 class="titre-section" data-anime="lignes">La visite guidée</h2>
+      <h2 class="titre-section" data-anime="lignes">La visite <span class="mot">guidée</span></h2>
       <p data-anime>1 h 30 sur le site avec un guide, de la 1re primaire à la 6e secondaire : la vie d&#39;un domaine agricole gallo-romain et le travail des archéologues.</p>
       <p class="prix-ligne" data-anime><strong data-prix>3 €</strong><span>par élève, accompagnants gratuits</span></p>
       <a class="bouton" href="/ecoles?formule=visite#reserver">Demander une réservation</a>
@@ -151,7 +151,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="section" id="ateliers">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Ateliers</p><h2 data-anime="lignes">Huit ateliers d&#39;1 h 15</h2></div>
+    <div class="section-tete"><p class="surtitre">Ateliers</p><h2 data-anime="lignes">Huit <span class="mot">ateliers</span> d'1 h 15</h2></div>
     <div class="filtres" role="group" aria-label="Filtrer par niveau" data-filtres-ateliers>
       <button type="button" class="filtre" data-filtre="tous" aria-pressed="true">Tous</button><button type="button" class="filtre" data-filtre="maternelle" aria-pressed="false">Maternelle</button><button type="button" class="filtre" data-filtre="primaire" aria-pressed="false">Primaire</button><button type="button" class="filtre" data-filtre="secondaire" aria-pressed="false">Secondaire</button><button type="button" class="filtre" data-filtre="classe" aria-pressed="false">En classe</button>
     </div>
@@ -282,7 +282,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </figure>
     <div>
       <p class="surtitre">Préparer la sortie</p>
-      <h2 class="titre-section" data-anime="lignes">Le dossier pédagogique « Mageroy »</h2>
+      <h2 class="titre-section" data-anime="lignes">Le dossier pédagogique « <span class="mot">Mageroy</span> »</h2>
       <p data-anime>48 pages pour la 4e à la 6e primaire et la 1re secondaire : la conquête romaine, la civilisation gallo-romaine, le métier d&#39;archéologue et la vie quotidienne. À utiliser seul ou pendant la visite.</p>
       <a href="/contact?sujet=ecole#formulaire" class="bouton bouton--contour" data-libelle="Contact">Demander le dossier</a>
     </div>
@@ -292,7 +292,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur formulaire-grille">
     <div class="formulaire-cote">
       <p class="surtitre">Réserver</p>
-      <h2 class="titre-section" data-anime="lignes">Demander une réservation</h2>
+      <h2 class="titre-section" data-anime="lignes">Demander une <span class="mot">réservation</span></h2>
       <p data-anime>Réservation obligatoire, du lundi au vendredi de 9 h à 17 h 30. Vous pouvez aussi appeler le 063 75 85 44.</p>
       <p class="joindre-court" data-anime>Ou directement :<br><a href="tel:+3263758544">063 75 85 44</a><br><a href="mailto:villa.mageroy@gmail.com">villa.mageroy@gmail.com</a></p>
     </div>
@@ -312,7 +312,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
       <div class="champ"><label for="e-nom">Nom de l&#39;enseignant</label><input id="e-nom" name="nom" autocomplete="name" required></div>
       <div class="champ"><label for="e-email">E-mail</label><input id="e-email" name="email" type="email" autocomplete="email" required></div>
       <div class="champ champ--large"><label for="e-tel">Téléphone</label><input id="e-tel" name="telephone" type="tel" autocomplete="tel"></div>
-      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande. Politique de confidentialité : à compléter.</p>
+      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande.</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="Demande simulée : rien n&#39;a été envoyé. Sur le site final, elle partira vers l&#39;équipe de la villa."></p>
       <div class="formulaire-pied">
         <p class="estimation" aria-live="polite"><span>Estimation</span><strong data-estimation data-prix>66 €</strong><span>hors déplacement et dégustation, accompagnants gratuits</span></p>
@@ -323,14 +323,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="fin sur-charbon" id="fin" data-section>
   <figure class="media " data-fx="parallaxe" data-fx-force="8" style="--cadrage:50% 50%">
-  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/fin-ecoles-mobile-640.webp 640w, /assets/images/fin-ecoles-mobile-1080.webp 1080w" sizes="100vw">
-    <img src="/assets/images/fin-ecoles-1280.webp" srcset="/assets/images/fin-ecoles-640.webp 640w, /assets/images/fin-ecoles-1280.webp 1280w, /assets/images/fin-ecoles-1920.webp 1920w" sizes="100vw" alt="Des enfants avec leurs boucliers peints au bord de l&#39;étang du site" width="1280" height="720" loading="lazy" decoding="async">
+  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/fin-ecoles-mobile-640.webp 640w" sizes="100vw">
+    <img src="/assets/images/fin-ecoles-1280.webp" srcset="/assets/images/fin-ecoles-640.webp 640w, /assets/images/fin-ecoles-1280.webp 1280w, /assets/images/fin-ecoles-1920.webp 1920w" sizes="100vw" alt="Des enfants penchés sur leurs tablettes de cire, stylet à la main" width="1280" height="720" loading="lazy" decoding="async">
   </picture>
 </figure>
   <div class="fin-contenu">
-    <h2 data-anime="lignes">Demander une réservation</h2>
-    <p data-anime>Visite guidée du site et ateliers pratiques, de la 3e maternelle à la 6e secondaire. Réservation obligatoire, du lundi au vendredi.</p>
-    <p class="fin-actions" data-anime><a class="bouton" href="#reserver">Demander une réservation</a><a class="bouton bouton--contour" href="tel:+3263758544">Appeler 063 75 85 44</a></p>
+    <h2 data-anime="lignes">Une sortie qui laisse <span class="mot">des traces</span></h2>
+    <p data-anime>Une poterie à rapporter, une tablette de cire, un vrai chantier de fouille : la visite et les ateliers donnent à toucher l&#39;Antiquité.</p>
+    <p class="fin-actions" data-anime><a class="bouton" href="#ateliers">Revoir les ateliers</a><a class="bouton bouton--contour" href="tel:+3263758544">Appeler 063 75 85 44</a></p>
   </div>
 </section>
 </main>

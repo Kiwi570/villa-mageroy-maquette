@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="fr" data-v="1">
+<html lang="fr" data-v="2">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -35,14 +35,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 })();</script>
 <link rel="preload" href="/assets/fonts/gloock-400.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/manrope-variable.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/socle.css?v=1">
-<link rel="stylesheet" href="/assets/css/site.css?v=1">
-<link rel="modulepreload" href="/assets/js/site.js?v=1">
-<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<link rel="stylesheet" href="/assets/css/socle.css?v=2">
+<link rel="stylesheet" href="/assets/css/site.css?v=2">
+<link rel="modulepreload" href="/assets/js/site.js?v=2">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=2">
 <script src="/assets/vendor/gsap.min.js" defer></script>
 <script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
 <script src="/assets/vendor/SplitText.min.js" defer></script>
-<script type="module" src="/assets/js/site.js?v=1"></script>
+<script type="module" src="/assets/js/site.js?v=2"></script>
 <meta name="theme-color" content="#F2ECE2">
 <link rel="icon" href="/assets/images/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
@@ -124,9 +124,14 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="section bande-sable" id="formules">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Formules et tarifs</p><h2 data-anime="lignes">Quatre façons de découvrir la villa</h2></div>
+    <div class="section-tete"><p class="surtitre">Formules et tarifs</p><h2 data-anime="lignes">Quatre façons de <span class="mot">découvrir</span> la villa</h2></div>
     <ul class="formules" data-anime="cascade">
       <li class="formule">
+    <figure class="media formule-photo" data-fx="vitesse" style="--cadrage:50% 62%">
+  <picture>
+    <img src="/assets/images/carte-visite-libre-784.webp" srcset="/assets/images/carte-visite-libre-480.webp 480w, /assets/images/carte-visite-libre-640.webp 640w, /assets/images/carte-visite-libre-784.webp 784w" sizes="(max-width: 860px) 92vw, 46vw" alt="" width="784" height="1045" loading="lazy" decoding="async">
+  </picture>
+</figure>
     <h3>Visite libre</h3>
     <p class="formule-prix"><strong data-prix>Gratuit</strong></p>
     <p class="formule-infos">Tous les jours · 24 h/24 · toute l&#39;année</p>
@@ -134,13 +139,23 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
     <a class="lien-fleche" href="#acces">Tous les accès</a>
   </li>
       <li class="formule">
+    <figure class="media formule-photo" data-fx="vitesse" style="--cadrage:50% 40%">
+  <picture>
+    <img src="/assets/images/visiter-guide-960.webp" srcset="/assets/images/visiter-guide-480.webp 480w, /assets/images/visiter-guide-640.webp 640w, /assets/images/visiter-guide-960.webp 960w" sizes="(max-width: 860px) 92vw, 46vw" alt="" width="960" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
     <h3>Visite guidée</h3>
     <p class="formule-prix"><strong data-prix>40 €</strong><span>jusqu&#39;à 10 personnes</span></p>
     <p class="formule-infos">1 h 30 · adultes et familles · 20 personnes au plus</p>
     <p>L&#39;histoire du domaine et de ses fouilles, des vestiges aux objets exposés et aux maquettes. Au-delà de 10 personnes : 4 € par personne en plus, dès 6 ans. Gratuit pour les moins de 6 ans.</p>
-    <a class="lien-fleche" href="#calcul">Combien coûte votre visite guidée ?</a>
+    <a class="lien-fleche" href="#calcul">Calculer le prix</a>
   </li>
       <li class="formule">
+    <figure class="media formule-photo" data-fx="vitesse" style="--cadrage:50% 60%">
+  <picture>
+    <img src="/assets/images/visiter-combinee-960.webp" srcset="/assets/images/visiter-combinee-480.webp 480w, /assets/images/visiter-combinee-640.webp 640w, /assets/images/visiter-combinee-960.webp 960w" sizes="(max-width: 860px) 92vw, 46vw" alt="" width="960" height="1200" loading="lazy" decoding="async">
+  </picture>
+</figure>
     <h3>Archéologie et gastronomie</h3>
     <p class="formule-prix"><strong data-prix>14 €</strong><span>par personne</span></p>
     <p class="formule-infos">Environ 3 h, plus le trajet · groupes de 10 à 50 adultes</p>
@@ -149,6 +164,11 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
     <a class="lien-fleche" href="#reserver">Réserver<span class="visuellement-cache"> : Archéologie et gastronomie</span></a>
   </li>
       <li class="formule formule--suspendue">
+    <figure class="media formule-photo" data-fx="vitesse" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/visiter-conference-800.webp" srcset="/assets/images/visiter-conference-480.webp 480w, /assets/images/visiter-conference-640.webp 640w, /assets/images/visiter-conference-800.webp 800w" sizes="(max-width: 860px) 92vw, 46vw" alt="" width="800" height="533" loading="lazy" decoding="async">
+  </picture>
+</figure>
     <h3>Conférences</h3>
     <p class="formule-prix"><strong data-prix>2 €</strong><span>gratuites pour les membres</span></p>
     <p class="formule-infos">2 h · en soirée · ouvertes à tous</p>
@@ -162,7 +182,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur calcul">
     <div>
       <p class="surtitre">Calculer</p>
-      <h2 class="titre-section" data-anime="lignes">Combien coûte votre visite guidée ?</h2>
+      <h2 class="titre-section" data-anime="lignes">Combien coûte votre visite <span class="mot">guidée</span> ?</h2>
       <p data-anime>Un forfait de 40 € jusqu&#39;à 10 personnes, puis 4 € par personne en plus. Les moins de 6 ans ne comptent pas.</p>
     </div>
     <div class="calcul-outil sur-charbon" data-calculateur data-anime>
@@ -188,7 +208,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur formulaire-grille">
     <div class="formulaire-cote">
       <p class="surtitre">Réserver</p>
-      <h2 class="titre-section" data-anime="lignes">Demander une visite guidée</h2>
+      <h2 class="titre-section" data-anime="lignes">Demander une visite <span class="mot">guidée</span></h2>
       <p data-anime>Les visites ont lieu du lundi au vendredi, de 9 h à 17 h 30. Le week-end, prévenez au moins une semaine avant. Réservation obligatoire, par ce formulaire, par téléphone ou par e-mail.</p>
       <p class="joindre-court" data-anime>Ou directement :<br><a href="tel:+3263758544">063 75 85 44</a><br><a href="mailto:villa.mageroy@gmail.com">villa.mageroy@gmail.com</a></p>
     </div>
@@ -199,7 +219,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
       <div class="champ"><label for="r-email">E-mail</label><input id="r-email" name="email" type="email" autocomplete="email" required></div>
       <div class="champ"><label for="r-tel">Téléphone</label><input id="r-tel" name="telephone" type="tel" autocomplete="tel"></div>
       <div class="champ champ--large"><label for="r-message">Message (facultatif)</label><textarea id="r-message" name="message"></textarea></div>
-      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande. Politique de confidentialité : à compléter.</p>
+      <p class="mention-donnees">Vos informations servent seulement à répondre à votre demande.</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="Demande simulée : rien n&#39;a été envoyé. Sur le site final, elle partira vers l&#39;équipe de la villa."></p>
       <p class="formulaire-pied"><button class="bouton" type="submit">Envoyer la demande</button></p>
     </form>
@@ -209,7 +229,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   <div class="conteneur acces-grille">
     <div>
       <p class="surtitre">Accès</p>
-      <h2 class="titre-section" data-anime="lignes">Venir à la villa</h2>
+      <h2 class="titre-section" data-anime="lignes">Venir à la <span class="mot">villa</span></h2>
       <p data-anime><strong>Rue de Mageroy 2, 6723 Habay-la-Vieille</strong></p>
       <div class="acces-liste" data-anime="cascade">
         <div><h3>En voiture</h3><p>E411, sortie 29 (Habay-la-Neuve), direction Étalle, puis suivre la signalisation. Parking gratuit. GPS : 49.715932, 5.615396.</p></div>
@@ -243,15 +263,27 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
 </section>
 <section class="section bande-sable" id="autour">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Autour de la villa</p><h2 data-anime="lignes">Prolonger la balade</h2></div>
+    <div class="section-tete"><p class="surtitre">Autour de la villa</p><h2 data-anime="lignes">Prolonger la <span class="mot">balade</span></h2></div>
     <ul class="autour" data-anime="cascade" data-visuel>
-      <li><h3>Circuits vélo Gallor</h3><p>Boucle 5 Étalle-Mageroy et boucle 6 Mageroy-Sampont-Étalle, sur d&#39;anciennes chaussées romaines.</p></li><li><h3>Balade « Histoire et architecture »</h3><p>En points-nœuds, de la gare de Marbehan à la forêt d&#39;Anlier, retour par Habay avec vue sur le site.</p></li><li><h3>Parc naturel Haute-Sûre Forêt d&#39;Anlier</h3><p>Le site est à la limite de l&#39;Ardenne et de la Lorraine, au bord de la Rulles.</p></li>
+      <li><figure class="media " data-fx="zoom" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/autour-campagne-784.webp" srcset="/assets/images/autour-campagne-480.webp 480w, /assets/images/autour-campagne-640.webp 640w, /assets/images/autour-campagne-784.webp 784w" sizes="(max-width: 860px) 92vw, 30vw" alt="Champs et bois de la campagne autour de Habay, vus depuis un chemin" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure><h3>Circuits vélo Gallor</h3><p>Boucle 5 Étalle-Mageroy et boucle 6 Mageroy-Sampont-Étalle, sur d&#39;anciennes chaussées romaines.</p></li><li><figure class="media " data-fx="zoom" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/autour-riviere-784.webp" srcset="/assets/images/autour-riviere-480.webp 480w, /assets/images/autour-riviere-640.webp 640w, /assets/images/autour-riviere-784.webp 784w" sizes="(max-width: 860px) 92vw, 30vw" alt="Un ruisseau entre les herbes hautes et les arbres, au printemps" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure><h3>Balade « Histoire et architecture »</h3><p>En points-nœuds, de la gare de Marbehan à la forêt d&#39;Anlier, retour par Habay avec vue sur le site.</p></li><li><figure class="media " data-fx="zoom" style="--cadrage:50% 50%">
+  <picture>
+    <img src="/assets/images/autour-foret-784.webp" srcset="/assets/images/autour-foret-480.webp 480w, /assets/images/autour-foret-640.webp 640w, /assets/images/autour-foret-784.webp 784w" sizes="(max-width: 860px) 92vw, 30vw" alt="Un chemin forestier sous les grands arbres de la forêt d&#39;Anlier" width="784" height="588" loading="lazy" decoding="async">
+  </picture>
+</figure><h3>Parc naturel Haute-Sûre Forêt d&#39;Anlier</h3><p>Le site est à la limite de l&#39;Ardenne et de la Lorraine, au bord de la Rulles.</p></li>
     </ul>
   </div>
 </section>
 <section class="section" id="faq">
   <div class="conteneur">
-    <div class="section-tete"><p class="surtitre">Questions pratiques</p><h2 data-anime="lignes">Avant de venir</h2></div>
+    <div class="section-tete"><p class="surtitre">Questions pratiques</p><h2 data-anime="lignes">Avant de <span class="mot">venir</span></h2></div>
     <div class="faq-liste" data-anime="cascade" data-visuel>
       <details class="faq-item"><summary>Faut-il réserver ?</summary><p>Pas pour la visite libre : le site est ouvert à tous, tous les jours, de jour comme de nuit. Les visites guidées et scolaires se réservent par téléphone ou par e-mail.</p></details><details class="faq-item"><summary>Peut-on avoir une visite guidée le week-end ?</summary><p>Oui, en prévenant l&#39;équipe au moins une semaine à l&#39;avance. En semaine, les visites ont lieu du lundi au vendredi, de 9 h à 17 h 30.</p></details><details class="faq-item"><summary>Où se garer ?</summary><p>Le parking est gratuit. Depuis l&#39;E411, sortie 29 (Habay-la-Neuve), direction Étalle, puis suivre la signalisation.</p></details><details class="faq-item"><summary>Comment venir sans voiture ?</summary><p>En train jusqu&#39;à Marbehan (ligne Bruxelles-Luxembourg), puis le bus TEC 58 jusqu&#39;à l&#39;arrêt « Rue de Nantimont ». Ou en train jusqu&#39;à la gare de Habay, puis environ 40 minutes à pied.</p></details><details class="faq-item"><summary>Les ateliers, les anniversaires et les conférences ont-ils lieu ?</summary><p>Ils sont suspendus pendant les travaux du pavillon d&#39;accueil. Les visites guidées continuent, et la plupart des ateliers scolaires se donnent en classe.</p></details>
     </div>
@@ -264,7 +296,7 @@ setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('
   </picture>
 </figure>
   <div class="fin-contenu">
-    <h2 data-anime="lignes">Venez marcher dans le domaine</h2>
+    <h2 data-anime="lignes">Venez marcher dans le <span class="mot">domaine</span></h2>
     <p data-anime>Entrée libre toute l&#39;année. Visite guidée sur réservation, du lundi au vendredi, et le week-end en prévenant une semaine avant.</p>
     <p class="fin-actions" data-anime><a class="bouton" href="#reserver">Réserver une visite guidée</a><a class="bouton bouton--contour" href="tel:+3263758544">Appeler 063 75 85 44</a></p>
   </div>

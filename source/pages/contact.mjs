@@ -29,7 +29,7 @@ export default (c) => {
   <div class="conteneur formulaire-grille">
     <div class="formulaire-cote">
       ${surtitre(c.t('contact.formulaire.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('contact.formulaire.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('contact.formulaire.titre')}</h2>
       <p data-anime>${c.t('commun.bureau')}</p>
       <p class="joindre-court" data-anime>${c.t('visiter.reserver.ou')}<br><a href="tel:${c.site.contact.telephoneLien}">${c.site.contact.telephone}</a><br><a href="mailto:${c.site.contact.email}">${c.site.contact.email}</a></p>
     </div>
@@ -44,7 +44,7 @@ export default (c) => {
       <div class="champ"><label for="c-email">${c.t('contact.formulaire.email')}</label><input id="c-email" name="email" type="email" autocomplete="email" required></div>
       <div class="champ"><label for="c-tel">${c.t('contact.formulaire.telephone')}</label><input id="c-tel" name="telephone" type="tel" autocomplete="tel"></div>
       <div class="champ champ--large"><label for="c-message">${c.t('contact.formulaire.message')}</label><textarea id="c-message" name="message" required></textarea></div>
-      <p class="mention-donnees">${c.t('commun.donnees')} ${c.t('commun.voirPolitique')}</p>
+      <p class="mention-donnees">${c.t('commun.donnees')}</p>
       <p data-message-envoi tabindex="-1" hidden data-texte="${c.s('commun.simule')}"></p>
       <p class="formulaire-pied"><button class="bouton" type="submit">${c.t('commun.envoyer')}</button></p>
     </form>
@@ -53,11 +53,13 @@ export default (c) => {
 
 <section class="section" id="adresses">
   <div class="conteneur">
-    <div class="section-tete">${surtitre(c.t('contact.adresses.surtitre'))}<h2 data-anime="lignes">${c.t('contact.adresses.titre')}</h2></div>
-    <ul class="adresses" data-anime="cascade">
-      ${['site', 'bureau', 'siege'].map((k) => html`<li><h3>${c.t(`contact.adresses.${k}.titre`)}</h3><p>${c.t(`contact.adresses.${k}.texte`)}</p><p class="detail">${c.t(`contact.adresses.${k}.detail`)}</p></li>`)}
-    </ul>
-    ${planAcces(c)}
+    <div class="section-tete">${surtitre(c.t('contact.adresses.surtitre'))}<h2 data-anime="lignes">${c.tb('contact.adresses.titre')}</h2></div>
+    <div class="adresses-grille">
+      <ul class="adresses" data-anime="cascade">
+        ${['site', 'bureau', 'siege'].map((k) => html`<li><h3>${c.t(`contact.adresses.${k}.titre`)}</h3><p>${c.t(`contact.adresses.${k}.texte`)}</p><p class="detail">${c.t(`contact.adresses.${k}.detail`)}</p></li>`)}
+      </ul>
+      ${planAcces(c)}
+    </div>
   </div>
 </section>
 
@@ -65,7 +67,7 @@ export default (c) => {
   <div class="conteneur soutenir">
     <div>
       ${surtitre(c.t('contact.soutenir.surtitre'))}
-      <h2 class="titre-section" data-anime="lignes">${c.t('contact.soutenir.titre')}</h2>
+      <h2 class="titre-section" data-anime="lignes">${c.tb('contact.soutenir.titre')}</h2>
       <h3 data-anime>${c.t('contact.soutenir.benevolatTitre')}</h3>
       <p data-anime>${c.t('contact.soutenir.benevolat')}</p>
       <p data-anime><a class="bouton bouton--contour" href="?sujet=benevolat#formulaire" data-sans-transition data-sujet="benevolat">${c.t('contact.soutenir.aider')}</a></p>

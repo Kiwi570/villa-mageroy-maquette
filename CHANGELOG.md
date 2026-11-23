@@ -1,5 +1,20 @@
 # Journal des versions
 
+## v2 · 23 novembre 2026
+
+Analyse complète de la v1, page par page et section par section, puis retouches pour un site plus vivant et plus ludique.
+
+- **Accueil** : sur téléphone, la photo ouvre l'écran avant le titre et le bouton. Sur la photo, un carré de fouille (A1, B3…) suit la souris et le quadrillage apparaît en filigrane ; au doigt, la case touchée s'allume. Chaque étape de la frise a son pictogramme (amphore, maison, bains, atelier, feu, tour, four à chaux, truelle), qui tourne au fil du défilement. Le trésor tombe maintenant en averses droites, rangée par rangée, en un tas en pyramide, et les pièces passent derrière le texte (elles le traversaient sur téléphone).
+- **Titres** : un mot en ambre dans chaque titre de section, sur toutes les pages (ambre clair sur les fonds sombres).
+- **Visiter** : une photo sur chacune des quatre formules (la conférence suspendue en grisé), trois photos pour les balades autour de la villa, photo d'ouverture moins assombrie sur téléphone.
+- **Écoles** : nouvel appel final, « Une sortie qui laisse des traces », sur la photo des enfants et des tablettes de cire, au lieu de répéter le titre du formulaire.
+- **Le site** : le chiffre « 200 × 145 m » (près de 3 hectares) remplace le schéma de cotes vide.
+- **Agenda** : nouvelle section « La villa en images », cinq rendez-vous de l'année en photos (fil de l'eau, Mercredis, portes ouvertes, bière, jardins de mémoire), qu'on fait glisser sur téléphone ; appel final propre à la page.
+- **Contact** : le plan d'accès est à côté des adresses au lieu d'être en grand dessous.
+- **Formulaires** : la mention « Politique de confidentialité : à compléter » ne reste que dans le pied de page.
+- **Images** : 8 nouvelles photos du site actuel (balades, rendez-vous de l'année).
+- **Audit complet** : 7 échecs au premier passage (prix des formules qui recouvrait leur titre, photo faible des portes ouvertes en grand), tous corrigés ; 0 échec aux relances.
+
 ## v1 · 20 novembre 2026
 
 Première version de la maquette, direction « Pierre et ambre » (pierre, sable, charbon et ambre du logo ; titres en Gloock, texte en Manrope).
